@@ -1,0 +1,2578 @@
+_count,demarcation.code,financial_year_end.year,opinion.code,opinion.label
+1,BUF,2015,qualified,Qualified
+1,BUF,2016,qualified,Qualified
+1,BUF,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,BUF,2018,qualified,Qualified
+1,BUF,2019,qualified,Qualified
+1,BUF,2020,qualified,Qualified
+1,BUF,2021,qualified,Qualified
+1,BUF,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,BUF,2023,qualified,Qualified
+1,BUF,2024,qualified,Qualified
+1,CPT,2015,unqualified,Unqualified - No findings
+1,CPT,2016,unqualified,Unqualified - No findings
+1,CPT,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,CPT,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,CPT,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,CPT,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,CPT,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,CPT,2022,unqualified,Unqualified - No findings
+1,CPT,2023,unqualified,Unqualified - No findings
+1,CPT,2024,unqualified,Unqualified - No findings
+1,DC1,2015,unqualified,Unqualified - No findings
+1,DC1,2016,unqualified,Unqualified - No findings
+1,DC1,2017,unqualified,Unqualified - No findings
+1,DC1,2018,unqualified,Unqualified - No findings
+1,DC1,2019,unqualified,Unqualified - No findings
+1,DC1,2020,unqualified,Unqualified - No findings
+1,DC1,2021,unqualified,Unqualified - No findings
+1,DC1,2022,unqualified,Unqualified - No findings
+1,DC1,2023,unqualified,Unqualified - No findings
+1,DC1,2024,unqualified,Unqualified - No findings
+1,DC10,2015,unqualified,Unqualified - No findings
+1,DC10,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC10,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC12,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC12,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC12,2017,qualified,Qualified
+1,DC12,2018,qualified,Qualified
+1,DC12,2019,disclaimer,Disclaimer of opinion
+1,DC12,2020,adverse,Adverse opinion
+1,DC12,2021,adverse,Adverse opinion
+1,DC12,2022,disclaimer,Disclaimer of opinion
+1,DC12,2023,disclaimer,Disclaimer of opinion
+1,DC12,2024,qualified,Qualified
+1,DC13,2015,qualified,Qualified
+1,DC13,2016,qualified,Qualified
+1,DC13,2017,qualified,Qualified
+1,DC13,2018,qualified,Qualified
+1,DC13,2019,disclaimer,Disclaimer of opinion
+1,DC13,2020,disclaimer,Disclaimer of opinion
+1,DC13,2021,disclaimer,Disclaimer of opinion
+1,DC13,2022,qualified,Qualified
+1,DC13,2023,qualified,Qualified
+1,DC13,2024,qualified,Qualified
+1,DC14,2015,unqualified,Unqualified - No findings
+1,DC14,2016,unqualified,Unqualified - No findings
+1,DC14,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC14,2018,unqualified,Unqualified - No findings
+1,DC14,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC14,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC14,2021,unqualified,Unqualified - No findings
+1,DC14,2022,unqualified,Unqualified - No findings
+1,DC14,2023,unqualified,Unqualified - No findings
+1,DC14,2024,unqualified,Unqualified - No findings
+1,DC15,2015,qualified,Qualified
+1,DC15,2016,qualified,Qualified
+1,DC15,2017,qualified,Qualified
+1,DC15,2018,qualified,Qualified
+1,DC15,2019,qualified,Qualified
+1,DC15,2020,qualified,Qualified
+1,DC15,2021,qualified,Qualified
+1,DC15,2022,qualified,Qualified
+1,DC15,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC15,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2015,qualified,Qualified
+1,DC16,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC16,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC18,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2015,unqualified,Unqualified - No findings
+1,DC19,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2018,qualified,Qualified
+1,DC19,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2020,qualified,Qualified
+1,DC19,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC19,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC2,2015,unqualified,Unqualified - No findings
+1,DC2,2016,unqualified,Unqualified - No findings
+1,DC2,2017,unqualified,Unqualified - No findings
+1,DC2,2018,unqualified,Unqualified - No findings
+1,DC2,2019,unqualified,Unqualified - No findings
+1,DC2,2020,unqualified,Unqualified - No findings
+1,DC2,2021,unqualified,Unqualified - No findings
+1,DC2,2022,unqualified,Unqualified - No findings
+1,DC2,2023,unqualified,Unqualified - No findings
+1,DC2,2024,unqualified,Unqualified - No findings
+1,DC20,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC20,2016,unqualified,Unqualified - No findings
+1,DC20,2017,adverse,Adverse opinion
+1,DC20,2018,qualified,Qualified
+1,DC20,2019,disclaimer,Disclaimer of opinion
+1,DC20,2020,qualified,Qualified
+1,DC20,2021,qualified,Qualified
+1,DC20,2022,qualified,Qualified
+1,DC20,2023,qualified,Qualified
+1,DC20,2024,qualified,Qualified
+1,DC21,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC21,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC21,2017,qualified,Qualified
+1,DC21,2018,adverse,Adverse opinion
+1,DC21,2019,qualified,Qualified
+1,DC21,2020,qualified,Qualified
+1,DC21,2021,qualified,Qualified
+1,DC21,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC21,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC21,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC22,2015,unqualified,Unqualified - No findings
+1,DC22,2016,unqualified,Unqualified - No findings
+1,DC22,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC22,2018,qualified,Qualified
+1,DC22,2019,qualified,Qualified
+1,DC22,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC22,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC22,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC22,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC22,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC23,2015,qualified,Qualified
+1,DC23,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC23,2017,qualified,Qualified
+1,DC23,2018,qualified,Qualified
+1,DC23,2019,qualified,Qualified
+1,DC23,2020,qualified,Qualified
+1,DC23,2021,qualified,Qualified
+1,DC23,2022,qualified,Qualified
+1,DC23,2023,qualified,Qualified
+1,DC23,2024,qualified,Qualified
+1,DC24,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC24,2016,qualified,Qualified
+1,DC24,2017,adverse,Adverse opinion
+1,DC24,2018,adverse,Adverse opinion
+1,DC24,2019,disclaimer,Disclaimer of opinion
+1,DC24,2020,disclaimer,Disclaimer of opinion
+1,DC24,2021,qualified,Qualified
+1,DC24,2022,adverse,Adverse opinion
+1,DC24,2023,adverse,Adverse opinion
+1,DC24,2024,adverse,Adverse opinion
+1,DC25,2015,qualified,Qualified
+1,DC25,2016,qualified,Qualified
+1,DC25,2017,qualified,Qualified
+1,DC25,2018,qualified,Qualified
+1,DC25,2019,qualified,Qualified
+1,DC25,2020,disclaimer,Disclaimer of opinion
+1,DC25,2021,qualified,Qualified
+1,DC25,2022,qualified,Qualified
+1,DC25,2023,qualified,Qualified
+1,DC25,2024,qualified,Qualified
+1,DC26,2015,unqualified,Unqualified - No findings
+1,DC26,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC26,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC26,2018,qualified,Qualified
+1,DC26,2019,qualified,Qualified
+1,DC26,2020,qualified,Qualified
+1,DC26,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC26,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC26,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC26,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC27,2015,disclaimer,Disclaimer of opinion
+1,DC27,2016,adverse,Adverse opinion
+1,DC27,2017,adverse,Adverse opinion
+1,DC27,2018,qualified,Qualified
+1,DC27,2019,qualified,Qualified
+1,DC27,2020,adverse,Adverse opinion
+1,DC27,2021,disclaimer,Disclaimer of opinion
+1,DC27,2022,disclaimer,Disclaimer of opinion
+1,DC27,2023,qualified,Qualified
+1,DC27,2024,qualified,Qualified
+1,DC28,2015,unqualified,Unqualified - No findings
+1,DC28,2016,unqualified,Unqualified - No findings
+1,DC28,2017,qualified,Qualified
+1,DC28,2018,qualified,Qualified
+1,DC28,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC28,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC28,2021,unqualified,Unqualified - No findings
+1,DC28,2022,unqualified,Unqualified - No findings
+1,DC28,2023,unqualified,Unqualified - No findings
+1,DC28,2024,unqualified,Unqualified - No findings
+1,DC29,2015,unqualified,Unqualified - No findings
+1,DC29,2016,unqualified,Unqualified - No findings
+1,DC29,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC29,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC3,2015,unqualified,Unqualified - No findings
+1,DC3,2016,unqualified,Unqualified - No findings
+1,DC3,2017,unqualified,Unqualified - No findings
+1,DC3,2018,unqualified,Unqualified - No findings
+1,DC3,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC3,2020,unqualified,Unqualified - No findings
+1,DC3,2021,unqualified,Unqualified - No findings
+1,DC3,2022,unqualified,Unqualified - No findings
+1,DC3,2023,unqualified,Unqualified - No findings
+1,DC3,2024,unqualified,Unqualified - No findings
+1,DC30,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC30,2016,qualified,Qualified
+1,DC30,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC30,2018,unqualified,Unqualified - No findings
+1,DC30,2019,unqualified,Unqualified - No findings
+1,DC30,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC30,2021,unqualified,Unqualified - No findings
+1,DC30,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC30,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC30,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC31,2015,unqualified,Unqualified - No findings
+1,DC31,2016,unqualified,Unqualified - No findings
+1,DC31,2017,unqualified,Unqualified - No findings
+1,DC31,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC31,2019,unqualified,Unqualified - No findings
+1,DC31,2020,unqualified,Unqualified - No findings
+1,DC31,2021,unqualified,Unqualified - No findings
+1,DC31,2022,unqualified,Unqualified - No findings
+1,DC31,2023,unqualified,Unqualified - No findings
+1,DC31,2024,unqualified,Unqualified - No findings
+1,DC32,2015,unqualified,Unqualified - No findings
+1,DC32,2016,unqualified,Unqualified - No findings
+1,DC32,2017,unqualified,Unqualified - No findings
+1,DC32,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC32,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC32,2020,unqualified,Unqualified - No findings
+1,DC32,2021,unqualified,Unqualified - No findings
+1,DC32,2022,unqualified,Unqualified - No findings
+1,DC32,2023,unqualified,Unqualified - No findings
+1,DC32,2024,unqualified,Unqualified - No findings
+1,DC33,2015,disclaimer,Disclaimer of opinion
+1,DC33,2016,adverse,Adverse opinion
+1,DC33,2017,disclaimer,Disclaimer of opinion
+1,DC33,2018,adverse,Adverse opinion
+1,DC33,2019,qualified,Qualified
+1,DC33,2020,qualified,Qualified
+1,DC33,2021,disclaimer,Disclaimer of opinion
+1,DC33,2022,disclaimer,Disclaimer of opinion
+1,DC33,2023,qualified,Qualified
+1,DC33,2024,qualified,Qualified
+1,DC34,2015,adverse,Adverse opinion
+1,DC34,2016,disclaimer,Disclaimer of opinion
+1,DC34,2017,disclaimer,Disclaimer of opinion
+1,DC34,2018,disclaimer,Disclaimer of opinion
+1,DC34,2019,qualified,Qualified
+1,DC34,2020,qualified,Qualified
+1,DC34,2021,qualified,Qualified
+1,DC34,2022,qualified,Qualified
+1,DC34,2023,qualified,Qualified
+1,DC34,2024,qualified,Qualified
+1,DC35,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC35,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC35,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC35,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC35,2019,unqualified,Unqualified - No findings
+1,DC35,2020,unqualified,Unqualified - No findings
+1,DC35,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC35,2022,unqualified,Unqualified - No findings
+1,DC35,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC35,2024,unqualified,Unqualified - No findings
+1,DC36,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC36,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC36,2017,qualified,Qualified
+1,DC36,2018,qualified,Qualified
+1,DC36,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC36,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC36,2021,unqualified,Unqualified - No findings
+1,DC36,2022,unqualified,Unqualified - No findings
+1,DC36,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC36,2024,unqualified,Unqualified - No findings
+1,DC37,2015,disclaimer,Disclaimer of opinion
+1,DC37,2016,disclaimer,Disclaimer of opinion
+1,DC37,2017,disclaimer,Disclaimer of opinion
+1,DC37,2018,disclaimer,Disclaimer of opinion
+1,DC37,2019,outstanding,Outstanding
+1,DC37,2020,qualified,Qualified
+1,DC37,2021,outstanding,Outstanding
+1,DC37,2022,qualified,Qualified
+1,DC37,2023,qualified,Qualified
+1,DC37,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC38,2015,disclaimer,Disclaimer of opinion
+1,DC38,2016,disclaimer,Disclaimer of opinion
+1,DC38,2017,disclaimer,Disclaimer of opinion
+1,DC38,2018,disclaimer,Disclaimer of opinion
+1,DC38,2019,outstanding,Outstanding
+1,DC38,2020,adverse,Adverse opinion
+1,DC38,2021,adverse,Adverse opinion
+1,DC38,2022,adverse,Adverse opinion
+1,DC38,2023,qualified,Qualified
+1,DC38,2024,qualified,Qualified
+1,DC39,2015,qualified,Qualified
+1,DC39,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC39,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC39,2018,qualified,Qualified
+1,DC39,2019,disclaimer,Disclaimer of opinion
+1,DC39,2020,disclaimer,Disclaimer of opinion
+1,DC39,2021,qualified,Qualified
+1,DC39,2022,qualified,Qualified
+1,DC39,2023,qualified,Qualified
+1,DC39,2024,qualified,Qualified
+1,DC4,2015,unqualified,Unqualified - No findings
+1,DC4,2016,unqualified,Unqualified - No findings
+1,DC4,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC4,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC4,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC4,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC4,2021,unqualified,Unqualified - No findings
+1,DC4,2022,unqualified,Unqualified - No findings
+1,DC4,2023,unqualified,Unqualified - No findings
+1,DC4,2024,unqualified,Unqualified - No findings
+1,DC40,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC40,2016,qualified,Qualified
+1,DC40,2017,qualified,Qualified
+1,DC40,2018,qualified,Qualified
+1,DC40,2019,qualified,Qualified
+1,DC40,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC40,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC40,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC40,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC40,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2015,unqualified,Unqualified - No findings
+1,DC42,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC42,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2017,qualified,Qualified
+1,DC43,2018,qualified,Qualified
+1,DC43,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2022,qualified,Qualified
+1,DC43,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC43,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2015,qualified,Qualified
+1,DC44,2016,qualified,Qualified
+1,DC44,2017,qualified,Qualified
+1,DC44,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC44,2024,unqualified,Unqualified - No findings
+1,DC45,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC45,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC45,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC45,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC45,2019,unqualified,Unqualified - No findings
+1,DC45,2020,unqualified,Unqualified - No findings
+1,DC45,2021,unqualified,Unqualified - No findings
+1,DC45,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC45,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC45,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC47,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC47,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC47,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC47,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC47,2019,qualified,Qualified
+1,DC47,2020,qualified,Qualified
+1,DC47,2021,qualified,Qualified
+1,DC47,2022,qualified,Qualified
+1,DC47,2023,qualified,Qualified
+1,DC47,2024,qualified,Qualified
+1,DC48,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC48,2024,unqualified,Unqualified - No findings
+1,DC5,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC5,2016,unqualified,Unqualified - No findings
+1,DC5,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC5,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC5,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC5,2020,unqualified,Unqualified - No findings
+1,DC5,2021,unqualified,Unqualified - No findings
+1,DC5,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC5,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC5,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC6,2021,unqualified,Unqualified - No findings
+1,DC6,2022,unqualified,Unqualified - No findings
+1,DC6,2023,unqualified,Unqualified - No findings
+1,DC6,2024,unqualified,Unqualified - No findings
+1,DC7,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC7,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC8,2015,unqualified,Unqualified - No findings
+1,DC8,2016,unqualified,Unqualified - No findings
+1,DC8,2017,unqualified,Unqualified - No findings
+1,DC8,2018,unqualified,Unqualified - No findings
+1,DC8,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC8,2020,unqualified,Unqualified - No findings
+1,DC8,2021,unqualified,Unqualified - No findings
+1,DC8,2022,unqualified,Unqualified - No findings
+1,DC8,2023,unqualified,Unqualified - No findings
+1,DC8,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC9,2015,unqualified,Unqualified - No findings
+1,DC9,2016,unqualified,Unqualified - No findings
+1,DC9,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC9,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC9,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,DC9,2020,unqualified,Unqualified - No findings
+1,DC9,2021,unqualified,Unqualified - No findings
+1,DC9,2022,unqualified,Unqualified - No findings
+1,DC9,2023,unqualified,Unqualified - No findings
+1,DC9,2024,unqualified,Unqualified - No findings
+1,EC101,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC101,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC101,2017,disclaimer,Disclaimer of opinion
+1,EC101,2018,disclaimer,Disclaimer of opinion
+1,EC101,2019,disclaimer,Disclaimer of opinion
+1,EC101,2020,qualified,Qualified
+1,EC101,2021,qualified,Qualified
+1,EC101,2022,qualified,Qualified
+1,EC101,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC101,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC102,2024,qualified,Qualified
+1,EC103,2015,outstanding,Outstanding
+1,EC104,2015,qualified,Qualified
+1,EC104,2016,qualified,Qualified
+1,EC104,2017,qualified,Qualified
+1,EC104,2018,qualified,Qualified
+1,EC104,2019,disclaimer,Disclaimer of opinion
+1,EC104,2020,disclaimer,Disclaimer of opinion
+1,EC104,2021,disclaimer,Disclaimer of opinion
+1,EC104,2022,disclaimer,Disclaimer of opinion
+1,EC104,2023,disclaimer,Disclaimer of opinion
+1,EC104,2024,disclaimer,Disclaimer of opinion
+1,EC105,2015,qualified,Qualified
+1,EC105,2016,qualified,Qualified
+1,EC105,2017,qualified,Qualified
+1,EC105,2018,qualified,Qualified
+1,EC105,2019,qualified,Qualified
+1,EC105,2020,qualified,Qualified
+1,EC105,2021,qualified,Qualified
+1,EC105,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC105,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC105,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC106,2015,disclaimer,Disclaimer of opinion
+1,EC106,2016,adverse,Adverse opinion
+1,EC106,2017,qualified,Qualified
+1,EC106,2018,qualified,Qualified
+1,EC106,2019,disclaimer,Disclaimer of opinion
+1,EC106,2020,disclaimer,Disclaimer of opinion
+1,EC106,2021,disclaimer,Disclaimer of opinion
+1,EC106,2022,disclaimer,Disclaimer of opinion
+1,EC106,2023,disclaimer,Disclaimer of opinion
+1,EC106,2024,disclaimer,Disclaimer of opinion
+1,EC107,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC108,2024,unqualified,Unqualified - No findings
+1,EC109,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC109,2023,qualified,Qualified
+1,EC109,2024,adverse,Adverse opinion
+1,EC121,2015,qualified,Qualified
+1,EC121,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC121,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC122,2015,qualified,Qualified
+1,EC122,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC122,2017,disclaimer,Disclaimer of opinion
+1,EC122,2018,adverse,Adverse opinion
+1,EC122,2019,qualified,Qualified
+1,EC122,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC122,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC122,2022,unqualified,Unqualified - No findings
+1,EC122,2023,unqualified,Unqualified - No findings
+1,EC122,2024,unqualified,Unqualified - No findings
+1,EC123,2015,qualified,Qualified
+1,EC123,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC123,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC123,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC123,2019,disclaimer,Disclaimer of opinion
+1,EC123,2020,qualified,Qualified
+1,EC123,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC123,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC123,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC123,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2019,qualified,Qualified
+1,EC124,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC124,2023,qualified,Qualified
+1,EC124,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC126,2015,qualified,Qualified
+1,EC126,2016,qualified,Qualified
+1,EC126,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC126,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC126,2019,qualified,Qualified
+1,EC126,2020,qualified,Qualified
+1,EC126,2021,qualified,Qualified
+1,EC126,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC126,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC126,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC127,2015,qualified,Qualified
+1,EC128,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC129,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC129,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC129,2019,qualified,Qualified
+1,EC129,2020,qualified,Qualified
+1,EC129,2021,qualified,Qualified
+1,EC129,2022,qualified,Qualified
+1,EC129,2023,qualified,Qualified
+1,EC129,2024,qualified,Qualified
+1,EC131,2015,disclaimer,Disclaimer of opinion
+1,EC131,2016,disclaimer,Disclaimer of opinion
+1,EC131,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC131,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC132,2015,qualified,Qualified
+1,EC133,2015,disclaimer,Disclaimer of opinion
+1,EC134,2015,qualified,Qualified
+1,EC135,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC135,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC135,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC135,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC135,2019,qualified,Qualified
+1,EC135,2020,qualified,Qualified
+1,EC135,2021,qualified,Qualified
+1,EC135,2022,qualified,Qualified
+1,EC135,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC135,2024,qualified,Qualified
+1,EC136,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC136,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC136,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC136,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC136,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC136,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC136,2021,qualified,Qualified
+1,EC136,2022,qualified,Qualified
+1,EC136,2023,qualified,Qualified
+1,EC136,2024,qualified,Qualified
+1,EC137,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC137,2016,unqualified,Unqualified - No findings
+1,EC137,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC137,2018,qualified,Qualified
+1,EC137,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC137,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC137,2021,qualified,Qualified
+1,EC137,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC137,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC137,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC138,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC138,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC138,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC138,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC138,2019,qualified,Qualified
+1,EC138,2020,adverse,Adverse opinion
+1,EC138,2021,qualified,Qualified
+1,EC138,2022,qualified,Qualified
+1,EC138,2023,qualified,Qualified
+1,EC138,2024,qualified,Qualified
+1,EC139,2017,disclaimer,Disclaimer of opinion
+1,EC139,2018,disclaimer,Disclaimer of opinion
+1,EC139,2019,outstanding,Outstanding
+1,EC139,2020,qualified,Qualified
+1,EC139,2021,qualified,Qualified
+1,EC139,2022,qualified,Qualified
+1,EC139,2023,qualified,Qualified
+1,EC139,2024,qualified,Qualified
+1,EC141,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC141,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC141,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC141,2018,adverse,Adverse opinion
+1,EC141,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC141,2020,unqualified,Unqualified - No findings
+1,EC141,2021,unqualified,Unqualified - No findings
+1,EC141,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC141,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC141,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC142,2015,unqualified,Unqualified - No findings
+1,EC142,2016,unqualified,Unqualified - No findings
+1,EC142,2017,unqualified,Unqualified - No findings
+1,EC142,2018,unqualified,Unqualified - No findings
+1,EC142,2019,unqualified,Unqualified - No findings
+1,EC142,2020,unqualified,Unqualified - No findings
+1,EC142,2021,unqualified,Unqualified - No findings
+1,EC142,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC142,2023,unqualified,Unqualified - No findings
+1,EC142,2024,unqualified,Unqualified - No findings
+1,EC143,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC144,2015,qualified,Qualified
+1,EC145,2017,disclaimer,Disclaimer of opinion
+1,EC145,2018,disclaimer,Disclaimer of opinion
+1,EC145,2019,disclaimer,Disclaimer of opinion
+1,EC145,2020,qualified,Qualified
+1,EC145,2021,disclaimer,Disclaimer of opinion
+1,EC145,2022,adverse,Adverse opinion
+1,EC145,2023,qualified,Qualified
+1,EC145,2024,qualified,Qualified
+1,EC153,2015,unqualified,Unqualified - No findings
+1,EC153,2016,unqualified,Unqualified - No findings
+1,EC153,2017,unqualified,Unqualified - No findings
+1,EC153,2018,qualified,Qualified
+1,EC153,2019,disclaimer,Disclaimer of opinion
+1,EC153,2020,disclaimer,Disclaimer of opinion
+1,EC153,2021,qualified,Qualified
+1,EC153,2022,qualified,Qualified
+1,EC153,2023,qualified,Qualified
+1,EC153,2024,qualified,Qualified
+1,EC154,2015,disclaimer,Disclaimer of opinion
+1,EC154,2016,qualified,Qualified
+1,EC154,2017,qualified,Qualified
+1,EC154,2018,qualified,Qualified
+1,EC154,2019,qualified,Qualified
+1,EC154,2020,qualified,Qualified
+1,EC154,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC154,2022,qualified,Qualified
+1,EC154,2023,qualified,Qualified
+1,EC154,2024,qualified,Qualified
+1,EC155,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2016,unqualified,Unqualified - No findings
+1,EC155,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC155,2023,qualified,Qualified
+1,EC155,2024,qualified,Qualified
+1,EC156,2015,qualified,Qualified
+1,EC156,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC156,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC156,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC156,2019,qualified,Qualified
+1,EC156,2020,qualified,Qualified
+1,EC156,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC156,2022,qualified,Qualified
+1,EC156,2023,qualified,Qualified
+1,EC156,2024,qualified,Qualified
+1,EC157,2015,qualified,Qualified
+1,EC157,2016,qualified,Qualified
+1,EC157,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC157,2018,qualified,Qualified
+1,EC157,2019,qualified,Qualified
+1,EC157,2020,qualified,Qualified
+1,EC157,2021,qualified,Qualified
+1,EC157,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC157,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC157,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2015,unqualified,Unqualified - No findings
+1,EC441,2016,unqualified,Unqualified - No findings
+1,EC441,2017,qualified,Qualified
+1,EC441,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC441,2024,qualified,Qualified
+1,EC442,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC442,2016,unqualified,Unqualified - No findings
+1,EC442,2017,qualified,Qualified
+1,EC442,2018,qualified,Qualified
+1,EC442,2019,qualified,Qualified
+1,EC442,2020,qualified,Qualified
+1,EC442,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC442,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC442,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC442,2024,unqualified,Unqualified - No findings
+1,EC443,2015,qualified,Qualified
+1,EC443,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC443,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC443,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC443,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC443,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC443,2021,unqualified,Unqualified - No findings
+1,EC443,2022,unqualified,Unqualified - No findings
+1,EC443,2023,unqualified,Unqualified - No findings
+1,EC443,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2015,qualified,Qualified
+1,EC444,2016,qualified,Qualified
+1,EC444,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2022,qualified,Qualified
+1,EC444,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EC444,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EKU,2015,unqualified,Unqualified - No findings
+1,EKU,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EKU,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EKU,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EKU,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EKU,2020,unqualified,Unqualified - No findings
+1,EKU,2021,unqualified,Unqualified - No findings
+1,EKU,2022,unqualified,Unqualified - No findings
+1,EKU,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,EKU,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2015,unqualified,Unqualified - No findings
+1,ETH,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,ETH,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS161,2015,qualified,Qualified
+1,FS161,2016,qualified,Qualified
+1,FS161,2017,disclaimer,Disclaimer of opinion
+1,FS161,2018,qualified,Qualified
+1,FS161,2019,qualified,Qualified
+1,FS161,2020,qualified,Qualified
+1,FS161,2021,qualified,Qualified
+1,FS161,2022,qualified,Qualified
+1,FS161,2023,qualified,Qualified
+1,FS161,2024,qualified,Qualified
+1,FS162,2015,qualified,Qualified
+1,FS162,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS162,2017,qualified,Qualified
+1,FS162,2018,qualified,Qualified
+1,FS162,2019,outstanding,Outstanding
+1,FS162,2020,disclaimer,Disclaimer of opinion
+1,FS162,2021,outstanding,Outstanding
+1,FS162,2022,qualified,Qualified
+1,FS162,2023,qualified,Qualified
+1,FS162,2024,outstanding,Outstanding
+1,FS163,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS163,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS163,2017,disclaimer,Disclaimer of opinion
+1,FS163,2018,qualified,Qualified
+1,FS163,2019,qualified,Qualified
+1,FS163,2020,qualified,Qualified
+1,FS163,2021,outstanding,Outstanding
+1,FS163,2022,qualified,Qualified
+1,FS163,2023,disclaimer,Disclaimer of opinion
+1,FS163,2024,outstanding,Outstanding
+1,FS164,2015,qualified,Qualified
+1,FS181,2015,qualified,Qualified
+1,FS181,2016,disclaimer,Disclaimer of opinion
+1,FS181,2017,disclaimer,Disclaimer of opinion
+1,FS181,2018,outstanding,Outstanding
+1,FS181,2019,outstanding,Outstanding
+1,FS181,2020,outstanding,Outstanding
+1,FS181,2021,outstanding,Outstanding
+1,FS181,2022,disclaimer,Disclaimer of opinion
+1,FS181,2023,disclaimer,Disclaimer of opinion
+1,FS181,2024,outstanding,Outstanding
+1,FS182,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS182,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS182,2017,disclaimer,Disclaimer of opinion
+1,FS182,2018,disclaimer,Disclaimer of opinion
+1,FS182,2019,outstanding,Outstanding
+1,FS182,2020,qualified,Qualified
+1,FS182,2021,outstanding,Outstanding
+1,FS182,2022,disclaimer,Disclaimer of opinion
+1,FS182,2023,qualified,Qualified
+1,FS182,2024,qualified,Qualified
+1,FS183,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2018,qualified,Qualified
+1,FS183,2019,qualified,Qualified
+1,FS183,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS183,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS184,2015,disclaimer,Disclaimer of opinion
+1,FS184,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS184,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS184,2018,qualified,Qualified
+1,FS184,2019,outstanding,Outstanding
+1,FS184,2020,qualified,Qualified
+1,FS184,2021,qualified,Qualified
+1,FS184,2022,qualified,Qualified
+1,FS184,2023,qualified,Qualified
+1,FS184,2024,outstanding,Outstanding
+1,FS185,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS185,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS185,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS185,2018,qualified,Qualified
+1,FS185,2019,disclaimer,Disclaimer of opinion
+1,FS185,2020,qualified,Qualified
+1,FS185,2021,outstanding,Outstanding
+1,FS185,2022,qualified,Qualified
+1,FS185,2023,qualified,Qualified
+1,FS185,2024,qualified,Qualified
+1,FS191,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS191,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS191,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS191,2018,qualified,Qualified
+1,FS191,2019,qualified,Qualified
+1,FS191,2020,qualified,Qualified
+1,FS191,2021,qualified,Qualified
+1,FS191,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS191,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS191,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS192,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS192,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS192,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS192,2018,qualified,Qualified
+1,FS192,2019,qualified,Qualified
+1,FS192,2020,qualified,Qualified
+1,FS192,2021,qualified,Qualified
+1,FS192,2022,qualified,Qualified
+1,FS192,2023,outstanding,Outstanding
+1,FS192,2024,qualified,Qualified
+1,FS193,2015,qualified,Qualified
+1,FS193,2016,qualified,Qualified
+1,FS193,2017,disclaimer,Disclaimer of opinion
+1,FS193,2018,qualified,Qualified
+1,FS193,2019,disclaimer,Disclaimer of opinion
+1,FS193,2020,disclaimer,Disclaimer of opinion
+1,FS193,2021,outstanding,Outstanding
+1,FS193,2022,disclaimer,Disclaimer of opinion
+1,FS193,2023,disclaimer,Disclaimer of opinion
+1,FS193,2024,disclaimer,Disclaimer of opinion
+1,FS194,2015,disclaimer,Disclaimer of opinion
+1,FS194,2016,qualified,Qualified
+1,FS194,2017,outstanding,Outstanding
+1,FS194,2018,outstanding,Outstanding
+1,FS194,2019,outstanding,Outstanding
+1,FS194,2020,disclaimer,Disclaimer of opinion
+1,FS194,2021,outstanding,Outstanding
+1,FS194,2022,outstanding,Outstanding
+1,FS194,2023,outstanding,Outstanding
+1,FS194,2024,outstanding,Outstanding
+1,FS195,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2018,qualified,Qualified
+1,FS195,2019,outstanding,Outstanding
+1,FS195,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS195,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS196,2015,qualified,Qualified
+1,FS196,2016,qualified,Qualified
+1,FS196,2017,qualified,Qualified
+1,FS196,2018,qualified,Qualified
+1,FS196,2019,outstanding,Outstanding
+1,FS196,2020,qualified,Qualified
+1,FS196,2021,outstanding,Outstanding
+1,FS196,2022,qualified,Qualified
+1,FS196,2023,qualified,Qualified
+1,FS196,2024,qualified,Qualified
+1,FS201,2015,qualified,Qualified
+1,FS201,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS201,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS201,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS201,2019,qualified,Qualified
+1,FS201,2020,qualified,Qualified
+1,FS201,2021,qualified,Qualified
+1,FS201,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS201,2023,outstanding,Outstanding
+1,FS201,2024,qualified,Qualified
+1,FS203,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS203,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS203,2017,qualified,Qualified
+1,FS203,2018,disclaimer,Disclaimer of opinion
+1,FS203,2019,qualified,Qualified
+1,FS203,2020,qualified,Qualified
+1,FS203,2021,qualified,Qualified
+1,FS203,2022,qualified,Qualified
+1,FS203,2023,qualified,Qualified
+1,FS203,2024,qualified,Qualified
+1,FS204,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS204,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS204,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,FS204,2018,qualified,Qualified
+1,FS204,2019,qualified,Qualified
+1,FS204,2020,qualified,Qualified
+1,FS204,2021,qualified,Qualified
+1,FS204,2022,qualified,Qualified
+1,FS204,2023,qualified,Qualified
+1,FS204,2024,qualified,Qualified
+1,FS205,2015,disclaimer,Disclaimer of opinion
+1,FS205,2016,disclaimer,Disclaimer of opinion
+1,FS205,2017,disclaimer,Disclaimer of opinion
+1,FS205,2018,disclaimer,Disclaimer of opinion
+1,FS205,2019,outstanding,Outstanding
+1,FS205,2020,qualified,Qualified
+1,FS205,2021,outstanding,Outstanding
+1,FS205,2022,qualified,Qualified
+1,FS205,2023,outstanding,Outstanding
+1,FS205,2024,outstanding,Outstanding
+1,GT421,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT421,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT421,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT421,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT421,2019,outstanding,Outstanding
+1,GT421,2020,qualified,Qualified
+1,GT421,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT421,2022,qualified,Qualified
+1,GT421,2023,qualified,Qualified
+1,GT421,2024,qualified,Qualified
+1,GT422,2015,unqualified,Unqualified - No findings
+1,GT422,2016,unqualified,Unqualified - No findings
+1,GT422,2017,unqualified,Unqualified - No findings
+1,GT422,2018,unqualified,Unqualified - No findings
+1,GT422,2019,unqualified,Unqualified - No findings
+1,GT422,2020,unqualified,Unqualified - No findings
+1,GT422,2021,unqualified,Unqualified - No findings
+1,GT422,2022,unqualified,Unqualified - No findings
+1,GT422,2023,unqualified,Unqualified - No findings
+1,GT422,2024,unqualified,Unqualified - No findings
+1,GT423,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT423,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2015,unqualified,Unqualified - No findings
+1,GT481,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT481,2022,qualified,Qualified
+1,GT481,2023,qualified,Qualified
+1,GT481,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT482,2015,adverse,Adverse opinion
+1,GT483,2015,adverse,Adverse opinion
+1,GT484,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT484,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT484,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT484,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT484,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT484,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT484,2021,adverse,Adverse opinion
+1,GT484,2022,disclaimer,Disclaimer of opinion
+1,GT484,2023,disclaimer,Disclaimer of opinion
+1,GT484,2024,qualified,Qualified
+1,GT485,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT485,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT485,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT485,2020,qualified,Qualified
+1,GT485,2021,qualified,Qualified
+1,GT485,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT485,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,GT485,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,JHB,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN211,2015,qualified,Qualified
+1,KZN212,2015,unqualified,Unqualified - No findings
+1,KZN212,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2020,qualified,Qualified
+1,KZN212,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN212,2024,qualified,Qualified
+1,KZN213,2015,unqualified,Unqualified - No findings
+1,KZN213,2016,unqualified,Unqualified - No findings
+1,KZN213,2017,unqualified,Unqualified - No findings
+1,KZN213,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN213,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN213,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN213,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN213,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN213,2023,qualified,Qualified
+1,KZN213,2024,adverse,Adverse opinion
+1,KZN214,2015,unqualified,Unqualified - No findings
+1,KZN214,2016,unqualified,Unqualified - No findings
+1,KZN214,2017,unqualified,Unqualified - No findings
+1,KZN214,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN214,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN214,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN214,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN214,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN214,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN214,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN215,2015,unqualified,Unqualified - No findings
+1,KZN216,2015,unqualified,Unqualified - No findings
+1,KZN216,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN216,2017,unqualified,Unqualified - No findings
+1,KZN216,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN216,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN216,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN216,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN216,2022,unqualified,Unqualified - No findings
+1,KZN216,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN216,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2019,qualified,Qualified
+1,KZN221,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2021,qualified,Qualified
+1,KZN221,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN221,2024,unqualified,Unqualified - No findings
+1,KZN222,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN222,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN222,2017,qualified,Qualified
+1,KZN222,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN222,2019,qualified,Qualified
+1,KZN222,2020,qualified,Qualified
+1,KZN222,2021,qualified,Qualified
+1,KZN222,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN222,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN222,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN223,2015,qualified,Qualified
+1,KZN223,2016,disclaimer,Disclaimer of opinion
+1,KZN223,2017,qualified,Qualified
+1,KZN223,2018,disclaimer,Disclaimer of opinion
+1,KZN223,2019,disclaimer,Disclaimer of opinion
+1,KZN223,2020,qualified,Qualified
+1,KZN223,2021,qualified,Qualified
+1,KZN223,2022,qualified,Qualified
+1,KZN223,2023,qualified,Qualified
+1,KZN223,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2018,qualified,Qualified
+1,KZN224,2019,qualified,Qualified
+1,KZN224,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN224,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN225,2015,unqualified,Unqualified - No findings
+1,KZN225,2016,qualified,Qualified
+1,KZN225,2017,disclaimer,Disclaimer of opinion
+1,KZN225,2018,adverse,Adverse opinion
+1,KZN225,2019,qualified,Qualified
+1,KZN225,2020,qualified,Qualified
+1,KZN225,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN225,2022,qualified,Qualified
+1,KZN225,2023,qualified,Qualified
+1,KZN225,2024,outstanding,Outstanding
+1,KZN226,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN226,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2018,adverse,Adverse opinion
+1,KZN227,2019,qualified,Qualified
+1,KZN227,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN227,2024,unqualified,Unqualified - No findings
+1,KZN232,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN233,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN234,2015,qualified,Qualified
+1,KZN235,2015,unqualified,Unqualified - No findings
+1,KZN235,2016,unqualified,Unqualified - No findings
+1,KZN235,2017,unqualified,Unqualified - No findings
+1,KZN235,2018,unqualified,Unqualified - No findings
+1,KZN235,2019,unqualified,Unqualified - No findings
+1,KZN235,2020,unqualified,Unqualified - No findings
+1,KZN235,2021,unqualified,Unqualified - No findings
+1,KZN235,2022,unqualified,Unqualified - No findings
+1,KZN235,2023,unqualified,Unqualified - No findings
+1,KZN235,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN236,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN237,2017,disclaimer,Disclaimer of opinion
+1,KZN237,2018,adverse,Adverse opinion
+1,KZN237,2019,outstanding,Outstanding
+1,KZN237,2020,disclaimer,Disclaimer of opinion
+1,KZN237,2021,disclaimer,Disclaimer of opinion
+1,KZN237,2022,qualified,Qualified
+1,KZN237,2023,qualified,Qualified
+1,KZN237,2024,qualified,Qualified
+1,KZN238,2017,qualified,Qualified
+1,KZN238,2018,qualified,Qualified
+1,KZN238,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN238,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN238,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN238,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN238,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN238,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN241,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN241,2016,unqualified,Unqualified - No findings
+1,KZN241,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN241,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN241,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN241,2020,qualified,Qualified
+1,KZN241,2021,qualified,Qualified
+1,KZN241,2022,qualified,Qualified
+1,KZN241,2023,qualified,Qualified
+1,KZN241,2024,disclaimer,Disclaimer of opinion
+1,KZN242,2015,unqualified,Unqualified - No findings
+1,KZN242,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN242,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN242,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN242,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN242,2020,disclaimer,Disclaimer of opinion
+1,KZN242,2021,disclaimer,Disclaimer of opinion
+1,KZN242,2022,qualified,Qualified
+1,KZN242,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN242,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2015,unqualified,Unqualified - No findings
+1,KZN244,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2017,qualified,Qualified
+1,KZN244,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN244,2024,unqualified,Unqualified - No findings
+1,KZN245,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN245,2024,unqualified,Unqualified - No findings
+1,KZN252,2015,qualified,Qualified
+1,KZN252,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN252,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2020,qualified,Qualified
+1,KZN253,2021,qualified,Qualified
+1,KZN253,2022,qualified,Qualified
+1,KZN253,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN253,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN254,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN254,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN254,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN254,2018,qualified,Qualified
+1,KZN254,2019,qualified,Qualified
+1,KZN254,2020,qualified,Qualified
+1,KZN254,2021,qualified,Qualified
+1,KZN254,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN254,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN254,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2019,qualified,Qualified
+1,KZN261,2020,qualified,Qualified
+1,KZN261,2021,qualified,Qualified
+1,KZN261,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN261,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2016,qualified,Qualified
+1,KZN262,2017,qualified,Qualified
+1,KZN262,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN262,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN263,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN263,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN263,2017,qualified,Qualified
+1,KZN263,2018,qualified,Qualified
+1,KZN263,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN263,2020,qualified,Qualified
+1,KZN263,2021,qualified,Qualified
+1,KZN263,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN263,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN263,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2018,adverse,Adverse opinion
+1,KZN265,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN265,2024,qualified,Qualified
+1,KZN266,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2022,qualified,Qualified
+1,KZN266,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN266,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2015,unqualified,Unqualified - No findings
+1,KZN271,2016,unqualified,Unqualified - No findings
+1,KZN271,2017,unqualified,Unqualified - No findings
+1,KZN271,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN271,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2015,qualified,Qualified
+1,KZN272,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2019,qualified,Qualified
+1,KZN272,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN272,2023,qualified,Qualified
+1,KZN272,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN273,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN274,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN275,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN275,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN275,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN275,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN275,2019,qualified,Qualified
+1,KZN275,2020,qualified,Qualified
+1,KZN275,2021,qualified,Qualified
+1,KZN275,2022,qualified,Qualified
+1,KZN275,2023,qualified,Qualified
+1,KZN275,2024,qualified,Qualified
+1,KZN276,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN276,2018,qualified,Qualified
+1,KZN276,2019,qualified,Qualified
+1,KZN276,2020,qualified,Qualified
+1,KZN276,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN276,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN276,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN276,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN281,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN282,2015,unqualified,Unqualified - No findings
+1,KZN282,2016,unqualified,Unqualified - No findings
+1,KZN282,2017,unqualified,Unqualified - No findings
+1,KZN282,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN282,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN282,2020,unqualified,Unqualified - No findings
+1,KZN282,2021,unqualified,Unqualified - No findings
+1,KZN282,2022,unqualified,Unqualified - No findings
+1,KZN282,2023,unqualified,Unqualified - No findings
+1,KZN282,2024,unqualified,Unqualified - No findings
+1,KZN283,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN284,2023,unqualified,Unqualified - No findings
+1,KZN284,2024,unqualified,Unqualified - No findings
+1,KZN285,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN285,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN286,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2015,unqualified,Unqualified - No findings
+1,KZN291,2016,unqualified,Unqualified - No findings
+1,KZN291,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN291,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN292,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN293,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN294,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN431,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN432,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN433,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN434,2015,unqualified,Unqualified - No findings
+1,KZN434,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN434,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN434,2018,qualified,Qualified
+1,KZN434,2019,qualified,Qualified
+1,KZN434,2020,qualified,Qualified
+1,KZN434,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN434,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN434,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN434,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2019,qualified,Qualified
+1,KZN435,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN435,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,KZN436,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM331,2015,qualified,Qualified
+1,LIM331,2016,qualified,Qualified
+1,LIM331,2017,adverse,Adverse opinion
+1,LIM331,2018,qualified,Qualified
+1,LIM331,2019,qualified,Qualified
+1,LIM331,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM331,2021,qualified,Qualified
+1,LIM331,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM331,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM331,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2015,qualified,Qualified
+1,LIM332,2016,qualified,Qualified
+1,LIM332,2017,qualified,Qualified
+1,LIM332,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM332,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2015,qualified,Qualified
+1,LIM333,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2018,qualified,Qualified
+1,LIM333,2019,qualified,Qualified
+1,LIM333,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM333,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM334,2015,qualified,Qualified
+1,LIM334,2016,disclaimer,Disclaimer of opinion
+1,LIM334,2017,disclaimer,Disclaimer of opinion
+1,LIM334,2018,qualified,Qualified
+1,LIM334,2019,qualified,Qualified
+1,LIM334,2020,qualified,Qualified
+1,LIM334,2021,qualified,Qualified
+1,LIM334,2022,qualified,Qualified
+1,LIM334,2023,qualified,Qualified
+1,LIM334,2024,qualified,Qualified
+1,LIM335,2015,qualified,Qualified
+1,LIM335,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM335,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2018,qualified,Qualified
+1,LIM341,2019,qualified,Qualified
+1,LIM341,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2022,qualified,Qualified
+1,LIM341,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM341,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM342,2015,qualified,Qualified
+1,LIM343,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM343,2024,qualified,Qualified
+1,LIM344,2015,qualified,Qualified
+1,LIM344,2016,qualified,Qualified
+1,LIM344,2017,adverse,Adverse opinion
+1,LIM344,2018,qualified,Qualified
+1,LIM344,2019,qualified,Qualified
+1,LIM344,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM344,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM344,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM344,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM344,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM345,2017,qualified,Qualified
+1,LIM345,2018,disclaimer,Disclaimer of opinion
+1,LIM345,2019,qualified,Qualified
+1,LIM345,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM345,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM345,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM345,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM345,2024,qualified,Qualified
+1,LIM351,2015,qualified,Qualified
+1,LIM351,2016,qualified,Qualified
+1,LIM351,2017,qualified,Qualified
+1,LIM351,2018,qualified,Qualified
+1,LIM351,2019,qualified,Qualified
+1,LIM351,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM351,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM351,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM351,2023,qualified,Qualified
+1,LIM351,2024,qualified,Qualified
+1,LIM352,2015,qualified,Qualified
+1,LIM353,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM353,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM354,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM354,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM354,2017,qualified,Qualified
+1,LIM354,2018,qualified,Qualified
+1,LIM354,2019,outstanding,Outstanding
+1,LIM354,2020,qualified,Qualified
+1,LIM354,2021,qualified,Qualified
+1,LIM354,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM354,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM354,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM355,2015,qualified,Qualified
+1,LIM355,2016,qualified,Qualified
+1,LIM355,2017,qualified,Qualified
+1,LIM355,2018,qualified,Qualified
+1,LIM355,2019,qualified,Qualified
+1,LIM355,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM355,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM355,2022,qualified,Qualified
+1,LIM355,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM355,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM361,2015,disclaimer,Disclaimer of opinion
+1,LIM361,2016,disclaimer,Disclaimer of opinion
+1,LIM361,2017,disclaimer,Disclaimer of opinion
+1,LIM361,2018,disclaimer,Disclaimer of opinion
+1,LIM361,2019,outstanding,Outstanding
+1,LIM361,2020,qualified,Qualified
+1,LIM361,2021,qualified,Qualified
+1,LIM361,2022,qualified,Qualified
+1,LIM361,2023,qualified,Qualified
+1,LIM361,2024,disclaimer,Disclaimer of opinion
+1,LIM362,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2018,qualified,Qualified
+1,LIM362,2019,qualified,Qualified
+1,LIM362,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM362,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM364,2015,qualified,Qualified
+1,LIM365,2015,qualified,Qualified
+1,LIM366,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM366,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM366,2017,qualified,Qualified
+1,LIM366,2018,qualified,Qualified
+1,LIM366,2019,qualified,Qualified
+1,LIM366,2020,qualified,Qualified
+1,LIM366,2021,outstanding,Outstanding
+1,LIM366,2022,qualified,Qualified
+1,LIM366,2023,qualified,Qualified
+1,LIM366,2024,qualified,Qualified
+1,LIM367,2015,disclaimer,Disclaimer of opinion
+1,LIM367,2016,adverse,Adverse opinion
+1,LIM367,2017,adverse,Adverse opinion
+1,LIM367,2018,adverse,Adverse opinion
+1,LIM367,2019,outstanding,Outstanding
+1,LIM367,2020,adverse,Adverse opinion
+1,LIM367,2021,qualified,Qualified
+1,LIM367,2022,qualified,Qualified
+1,LIM367,2023,qualified,Qualified
+1,LIM367,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM368,2017,disclaimer,Disclaimer of opinion
+1,LIM368,2018,disclaimer,Disclaimer of opinion
+1,LIM368,2019,disclaimer,Disclaimer of opinion
+1,LIM368,2020,qualified,Qualified
+1,LIM368,2021,qualified,Qualified
+1,LIM368,2022,qualified,Qualified
+1,LIM368,2023,adverse,Adverse opinion
+1,LIM368,2024,qualified,Qualified
+1,LIM471,2015,disclaimer,Disclaimer of opinion
+1,LIM471,2016,qualified,Qualified
+1,LIM471,2017,qualified,Qualified
+1,LIM471,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM471,2019,qualified,Qualified
+1,LIM471,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM471,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM471,2022,qualified,Qualified
+1,LIM471,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM471,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM472,2015,qualified,Qualified
+1,LIM472,2016,qualified,Qualified
+1,LIM472,2017,qualified,Qualified
+1,LIM472,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM472,2019,qualified,Qualified
+1,LIM472,2020,qualified,Qualified
+1,LIM472,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM472,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM472,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM472,2024,qualified,Qualified
+1,LIM473,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2018,qualified,Qualified
+1,LIM473,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM473,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM474,2015,qualified,Qualified
+1,LIM475,2015,disclaimer,Disclaimer of opinion
+1,LIM476,2017,qualified,Qualified
+1,LIM476,2018,qualified,Qualified
+1,LIM476,2019,qualified,Qualified
+1,LIM476,2020,qualified,Qualified
+1,LIM476,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM476,2022,qualified,Qualified
+1,LIM476,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,LIM476,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MAN,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MAN,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MAN,2017,qualified,Qualified
+1,MAN,2018,qualified,Qualified
+1,MAN,2019,qualified,Qualified
+1,MAN,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MAN,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MAN,2022,qualified,Qualified
+1,MAN,2023,qualified,Qualified
+1,MAN,2024,qualified,Qualified
+1,MP301,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP301,2016,qualified,Qualified
+1,MP301,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP301,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP301,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP301,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP301,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP301,2022,qualified,Qualified
+1,MP301,2023,qualified,Qualified
+1,MP301,2024,qualified,Qualified
+1,MP302,2015,disclaimer,Disclaimer of opinion
+1,MP302,2016,qualified,Qualified
+1,MP302,2017,qualified,Qualified
+1,MP302,2018,adverse,Adverse opinion
+1,MP302,2019,adverse,Adverse opinion
+1,MP302,2020,adverse,Adverse opinion
+1,MP302,2021,qualified,Qualified
+1,MP302,2022,qualified,Qualified
+1,MP302,2023,qualified,Qualified
+1,MP302,2024,qualified,Qualified
+1,MP303,2015,qualified,Qualified
+1,MP303,2016,qualified,Qualified
+1,MP303,2017,qualified,Qualified
+1,MP303,2018,qualified,Qualified
+1,MP303,2019,qualified,Qualified
+1,MP303,2020,qualified,Qualified
+1,MP303,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP303,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP303,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP303,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2019,disclaimer,Disclaimer of opinion
+1,MP304,2020,disclaimer,Disclaimer of opinion
+1,MP304,2021,qualified,Qualified
+1,MP304,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP304,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP305,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP305,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP305,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP305,2018,qualified,Qualified
+1,MP305,2019,disclaimer,Disclaimer of opinion
+1,MP305,2020,disclaimer,Disclaimer of opinion
+1,MP305,2021,disclaimer,Disclaimer of opinion
+1,MP305,2022,disclaimer,Disclaimer of opinion
+1,MP305,2023,qualified,Qualified
+1,MP305,2024,qualified,Qualified
+1,MP306,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP306,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP306,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP306,2018,qualified,Qualified
+1,MP306,2019,disclaimer,Disclaimer of opinion
+1,MP306,2020,disclaimer,Disclaimer of opinion
+1,MP306,2021,disclaimer,Disclaimer of opinion
+1,MP306,2022,qualified,Qualified
+1,MP306,2023,qualified,Qualified
+1,MP306,2024,qualified,Qualified
+1,MP307,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP307,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP307,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP307,2018,disclaimer,Disclaimer of opinion
+1,MP307,2019,outstanding,Outstanding
+1,MP307,2020,disclaimer,Disclaimer of opinion
+1,MP307,2021,qualified,Qualified
+1,MP307,2022,qualified,Qualified
+1,MP307,2023,qualified,Qualified
+1,MP307,2024,qualified,Qualified
+1,MP311,2015,qualified,Qualified
+1,MP311,2016,qualified,Qualified
+1,MP311,2017,qualified,Qualified
+1,MP311,2018,qualified,Qualified
+1,MP311,2019,disclaimer,Disclaimer of opinion
+1,MP311,2020,qualified,Qualified
+1,MP311,2021,qualified,Qualified
+1,MP311,2022,qualified,Qualified
+1,MP311,2023,qualified,Qualified
+1,MP311,2024,qualified,Qualified
+1,MP312,2015,disclaimer,Disclaimer of opinion
+1,MP312,2016,disclaimer,Disclaimer of opinion
+1,MP312,2017,qualified,Qualified
+1,MP312,2018,qualified,Qualified
+1,MP312,2019,qualified,Qualified
+1,MP312,2020,qualified,Qualified
+1,MP312,2021,qualified,Qualified
+1,MP312,2022,qualified,Qualified
+1,MP312,2023,qualified,Qualified
+1,MP312,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP313,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP313,2016,unqualified,Unqualified - No findings
+1,MP313,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP313,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP313,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP313,2020,unqualified,Unqualified - No findings
+1,MP313,2021,unqualified,Unqualified - No findings
+1,MP313,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP313,2023,qualified,Qualified
+1,MP313,2024,qualified,Qualified
+1,MP314,2015,disclaimer,Disclaimer of opinion
+1,MP314,2016,qualified,Qualified
+1,MP314,2017,qualified,Qualified
+1,MP314,2018,qualified,Qualified
+1,MP314,2019,adverse,Adverse opinion
+1,MP314,2020,adverse,Adverse opinion
+1,MP314,2021,adverse,Adverse opinion
+1,MP314,2022,adverse,Adverse opinion
+1,MP314,2023,adverse,Adverse opinion
+1,MP314,2024,qualified,Qualified
+1,MP315,2015,qualified,Qualified
+1,MP315,2016,qualified,Qualified
+1,MP315,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP315,2018,qualified,Qualified
+1,MP315,2019,qualified,Qualified
+1,MP315,2020,qualified,Qualified
+1,MP315,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP315,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP315,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP315,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP316,2015,qualified,Qualified
+1,MP316,2016,qualified,Qualified
+1,MP316,2017,qualified,Qualified
+1,MP316,2018,adverse,Adverse opinion
+1,MP316,2019,outstanding,Outstanding
+1,MP316,2020,disclaimer,Disclaimer of opinion
+1,MP316,2021,disclaimer,Disclaimer of opinion
+1,MP316,2022,qualified,Qualified
+1,MP316,2023,qualified,Qualified
+1,MP316,2024,qualified,Qualified
+1,MP321,2015,disclaimer,Disclaimer of opinion
+1,MP321,2016,disclaimer,Disclaimer of opinion
+1,MP321,2017,disclaimer,Disclaimer of opinion
+1,MP321,2018,qualified,Qualified
+1,MP321,2019,qualified,Qualified
+1,MP321,2020,qualified,Qualified
+1,MP321,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP321,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP321,2023,qualified,Qualified
+1,MP321,2024,outstanding,Outstanding
+1,MP322,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP323,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP324,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2015,qualified,Qualified
+1,MP325,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2018,qualified,Qualified
+1,MP325,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP325,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2019,qualified,Qualified
+1,MP326,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,MP326,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC061,2015,qualified,Qualified
+1,NC061,2016,qualified,Qualified
+1,NC061,2017,qualified,Qualified
+1,NC061,2018,qualified,Qualified
+1,NC061,2019,qualified,Qualified
+1,NC061,2020,qualified,Qualified
+1,NC061,2021,qualified,Qualified
+1,NC061,2022,qualified,Qualified
+1,NC061,2023,qualified,Qualified
+1,NC061,2024,qualified,Qualified
+1,NC062,2015,qualified,Qualified
+1,NC062,2016,qualified,Qualified
+1,NC062,2017,qualified,Qualified
+1,NC062,2018,qualified,Qualified
+1,NC062,2019,qualified,Qualified
+1,NC062,2020,qualified,Qualified
+1,NC062,2021,outstanding,Outstanding
+1,NC062,2022,qualified,Qualified
+1,NC062,2023,qualified,Qualified
+1,NC062,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC064,2015,qualified,Qualified
+1,NC064,2016,qualified,Qualified
+1,NC064,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC064,2018,qualified,Qualified
+1,NC064,2019,disclaimer,Disclaimer of opinion
+1,NC064,2020,qualified,Qualified
+1,NC064,2021,qualified,Qualified
+1,NC064,2022,qualified,Qualified
+1,NC064,2023,qualified,Qualified
+1,NC064,2024,qualified,Qualified
+1,NC065,2015,qualified,Qualified
+1,NC065,2016,qualified,Qualified
+1,NC065,2017,qualified,Qualified
+1,NC065,2018,qualified,Qualified
+1,NC065,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC065,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC065,2021,outstanding,Outstanding
+1,NC065,2022,unqualified,Unqualified - No findings
+1,NC065,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC065,2024,qualified,Qualified
+1,NC066,2015,qualified,Qualified
+1,NC066,2016,qualified,Qualified
+1,NC066,2017,qualified,Qualified
+1,NC066,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC066,2019,qualified,Qualified
+1,NC066,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC066,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC066,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC066,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC066,2024,qualified,Qualified
+1,NC067,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC067,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC067,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC067,2018,qualified,Qualified
+1,NC067,2019,qualified,Qualified
+1,NC067,2020,qualified,Qualified
+1,NC067,2021,qualified,Qualified
+1,NC067,2022,qualified,Qualified
+1,NC067,2023,qualified,Qualified
+1,NC067,2024,qualified,Qualified
+1,NC071,2015,qualified,Qualified
+1,NC071,2016,disclaimer,Disclaimer of opinion
+1,NC071,2017,qualified,Qualified
+1,NC071,2018,qualified,Qualified
+1,NC071,2019,qualified,Qualified
+1,NC071,2020,qualified,Qualified
+1,NC071,2021,qualified,Qualified
+1,NC071,2022,qualified,Qualified
+1,NC071,2023,qualified,Qualified
+1,NC071,2024,qualified,Qualified
+1,NC072,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC072,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC072,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC072,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC072,2019,qualified,Qualified
+1,NC072,2020,qualified,Qualified
+1,NC072,2021,qualified,Qualified
+1,NC072,2022,qualified,Qualified
+1,NC072,2023,qualified,Qualified
+1,NC072,2024,qualified,Qualified
+1,NC073,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC073,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC073,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC073,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC073,2019,qualified,Qualified
+1,NC073,2020,qualified,Qualified
+1,NC073,2021,qualified,Qualified
+1,NC073,2022,qualified,Qualified
+1,NC073,2023,qualified,Qualified
+1,NC073,2024,qualified,Qualified
+1,NC074,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC074,2023,outstanding,Outstanding
+1,NC074,2024,disclaimer,Disclaimer of opinion
+1,NC075,2015,disclaimer,Disclaimer of opinion
+1,NC075,2016,qualified,Qualified
+1,NC075,2017,qualified,Qualified
+1,NC075,2018,outstanding,Outstanding
+1,NC075,2019,outstanding,Outstanding
+1,NC075,2020,disclaimer,Disclaimer of opinion
+1,NC075,2021,outstanding,Outstanding
+1,NC075,2022,disclaimer,Disclaimer of opinion
+1,NC075,2023,qualified,Qualified
+1,NC075,2024,qualified,Qualified
+1,NC076,2015,qualified,Qualified
+1,NC076,2016,qualified,Qualified
+1,NC076,2017,qualified,Qualified
+1,NC076,2018,qualified,Qualified
+1,NC076,2019,qualified,Qualified
+1,NC076,2020,qualified,Qualified
+1,NC076,2021,qualified,Qualified
+1,NC076,2022,qualified,Qualified
+1,NC076,2023,qualified,Qualified
+1,NC076,2024,qualified,Qualified
+1,NC077,2015,disclaimer,Disclaimer of opinion
+1,NC077,2016,disclaimer,Disclaimer of opinion
+1,NC077,2017,disclaimer,Disclaimer of opinion
+1,NC077,2018,qualified,Qualified
+1,NC077,2019,qualified,Qualified
+1,NC077,2020,qualified,Qualified
+1,NC077,2021,qualified,Qualified
+1,NC077,2022,qualified,Qualified
+1,NC077,2023,qualified,Qualified
+1,NC077,2024,qualified,Qualified
+1,NC078,2015,qualified,Qualified
+1,NC078,2016,qualified,Qualified
+1,NC078,2017,qualified,Qualified
+1,NC078,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC078,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC078,2020,qualified,Qualified
+1,NC078,2021,qualified,Qualified
+1,NC078,2022,qualified,Qualified
+1,NC078,2023,qualified,Qualified
+1,NC078,2024,qualified,Qualified
+1,NC081,2015,qualified,Qualified
+1,NC082,2015,qualified,Qualified
+1,NC082,2016,qualified,Qualified
+1,NC082,2017,qualified,Qualified
+1,NC082,2018,qualified,Qualified
+1,NC082,2019,disclaimer,Disclaimer of opinion
+1,NC082,2020,disclaimer,Disclaimer of opinion
+1,NC082,2021,outstanding,Outstanding
+1,NC082,2022,qualified,Qualified
+1,NC082,2023,outstanding,Outstanding
+1,NC082,2024,qualified,Qualified
+1,NC083,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC084,2015,qualified,Qualified
+1,NC084,2016,qualified,Qualified
+1,NC084,2017,qualified,Qualified
+1,NC084,2018,disclaimer,Disclaimer of opinion
+1,NC084,2019,disclaimer,Disclaimer of opinion
+1,NC084,2020,disclaimer,Disclaimer of opinion
+1,NC084,2021,outstanding,Outstanding
+1,NC084,2022,disclaimer,Disclaimer of opinion
+1,NC084,2023,disclaimer,Disclaimer of opinion
+1,NC084,2024,outstanding,Outstanding
+1,NC085,2015,disclaimer,Disclaimer of opinion
+1,NC085,2016,qualified,Qualified
+1,NC085,2017,disclaimer,Disclaimer of opinion
+1,NC085,2018,disclaimer,Disclaimer of opinion
+1,NC085,2019,outstanding,Outstanding
+1,NC085,2020,qualified,Qualified
+1,NC085,2021,qualified,Qualified
+1,NC085,2022,qualified,Qualified
+1,NC085,2023,qualified,Qualified
+1,NC085,2024,disclaimer,Disclaimer of opinion
+1,NC086,2015,disclaimer,Disclaimer of opinion
+1,NC086,2016,qualified,Qualified
+1,NC086,2017,disclaimer,Disclaimer of opinion
+1,NC086,2018,disclaimer,Disclaimer of opinion
+1,NC086,2019,disclaimer,Disclaimer of opinion
+1,NC086,2020,qualified,Qualified
+1,NC086,2021,outstanding,Outstanding
+1,NC086,2022,disclaimer,Disclaimer of opinion
+1,NC086,2023,qualified,Qualified
+1,NC086,2024,qualified,Qualified
+1,NC087,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC087,2024,qualified,Qualified
+1,NC091,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC091,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC091,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC091,2018,qualified,Qualified
+1,NC091,2019,qualified,Qualified
+1,NC091,2020,qualified,Qualified
+1,NC091,2021,qualified,Qualified
+1,NC091,2022,qualified,Qualified
+1,NC091,2023,qualified,Qualified
+1,NC091,2024,qualified,Qualified
+1,NC092,2015,disclaimer,Disclaimer of opinion
+1,NC092,2016,qualified,Qualified
+1,NC092,2017,qualified,Qualified
+1,NC092,2018,disclaimer,Disclaimer of opinion
+1,NC092,2019,disclaimer,Disclaimer of opinion
+1,NC092,2020,qualified,Qualified
+1,NC092,2021,qualified,Qualified
+1,NC092,2022,qualified,Qualified
+1,NC092,2023,qualified,Qualified
+1,NC092,2024,qualified,Qualified
+1,NC093,2015,disclaimer,Disclaimer of opinion
+1,NC093,2016,qualified,Qualified
+1,NC093,2017,qualified,Qualified
+1,NC093,2018,qualified,Qualified
+1,NC093,2019,qualified,Qualified
+1,NC093,2020,qualified,Qualified
+1,NC093,2021,qualified,Qualified
+1,NC093,2022,qualified,Qualified
+1,NC093,2023,qualified,Qualified
+1,NC093,2024,qualified,Qualified
+1,NC094,2015,disclaimer,Disclaimer of opinion
+1,NC094,2016,disclaimer,Disclaimer of opinion
+1,NC094,2017,outstanding,Outstanding
+1,NC094,2018,outstanding,Outstanding
+1,NC094,2019,outstanding,Outstanding
+1,NC094,2020,disclaimer,Disclaimer of opinion
+1,NC094,2021,outstanding,Outstanding
+1,NC094,2022,qualified,Qualified
+1,NC094,2023,outstanding,Outstanding
+1,NC094,2024,qualified,Qualified
+1,NC451,2015,qualified,Qualified
+1,NC451,2016,disclaimer,Disclaimer of opinion
+1,NC451,2017,disclaimer,Disclaimer of opinion
+1,NC451,2018,disclaimer,Disclaimer of opinion
+1,NC451,2019,disclaimer,Disclaimer of opinion
+1,NC451,2020,disclaimer,Disclaimer of opinion
+1,NC451,2021,outstanding,Outstanding
+1,NC451,2022,disclaimer,Disclaimer of opinion
+1,NC451,2023,disclaimer,Disclaimer of opinion
+1,NC451,2024,qualified,Qualified
+1,NC452,2015,disclaimer,Disclaimer of opinion
+1,NC452,2016,disclaimer,Disclaimer of opinion
+1,NC452,2017,qualified,Qualified
+1,NC452,2018,qualified,Qualified
+1,NC452,2019,outstanding,Outstanding
+1,NC452,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC452,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC452,2022,qualified,Qualified
+1,NC452,2023,qualified,Qualified
+1,NC452,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC453,2015,qualified,Qualified
+1,NC453,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC453,2017,qualified,Qualified
+1,NC453,2018,disclaimer,Disclaimer of opinion
+1,NC453,2019,qualified,Qualified
+1,NC453,2020,qualified,Qualified
+1,NC453,2021,qualified,Qualified
+1,NC453,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC453,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NC453,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NMA,2015,qualified,Qualified
+1,NMA,2016,qualified,Qualified
+1,NMA,2017,qualified,Qualified
+1,NMA,2018,qualified,Qualified
+1,NMA,2019,outstanding,Outstanding
+1,NMA,2020,qualified,Qualified
+1,NMA,2021,qualified,Qualified
+1,NMA,2022,qualified,Qualified
+1,NMA,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NMA,2024,qualified,Qualified
+1,NW371,2015,qualified,Qualified
+1,NW371,2016,qualified,Qualified
+1,NW371,2017,qualified,Qualified
+1,NW371,2018,qualified,Qualified
+1,NW371,2019,qualified,Qualified
+1,NW371,2020,qualified,Qualified
+1,NW371,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW371,2022,qualified,Qualified
+1,NW371,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW371,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW372,2015,qualified,Qualified
+1,NW372,2016,disclaimer,Disclaimer of opinion
+1,NW372,2017,disclaimer,Disclaimer of opinion
+1,NW372,2018,disclaimer,Disclaimer of opinion
+1,NW372,2019,disclaimer,Disclaimer of opinion
+1,NW372,2020,disclaimer,Disclaimer of opinion
+1,NW372,2021,disclaimer,Disclaimer of opinion
+1,NW372,2022,disclaimer,Disclaimer of opinion
+1,NW372,2023,adverse,Adverse opinion
+1,NW372,2024,qualified,Qualified
+1,NW373,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW373,2016,qualified,Qualified
+1,NW373,2017,qualified,Qualified
+1,NW373,2018,qualified,Qualified
+1,NW373,2019,qualified,Qualified
+1,NW373,2020,disclaimer,Disclaimer of opinion
+1,NW373,2021,qualified,Qualified
+1,NW373,2022,qualified,Qualified
+1,NW373,2023,qualified,Qualified
+1,NW373,2024,qualified,Qualified
+1,NW374,2015,qualified,Qualified
+1,NW374,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW374,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW374,2018,disclaimer,Disclaimer of opinion
+1,NW374,2019,disclaimer,Disclaimer of opinion
+1,NW374,2020,disclaimer,Disclaimer of opinion
+1,NW374,2021,disclaimer,Disclaimer of opinion
+1,NW374,2022,disclaimer,Disclaimer of opinion
+1,NW374,2023,qualified,Qualified
+1,NW374,2024,qualified,Qualified
+1,NW375,2015,qualified,Qualified
+1,NW375,2016,qualified,Qualified
+1,NW375,2017,disclaimer,Disclaimer of opinion
+1,NW375,2018,disclaimer,Disclaimer of opinion
+1,NW375,2019,qualified,Qualified
+1,NW375,2020,qualified,Qualified
+1,NW375,2021,qualified,Qualified
+1,NW375,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW375,2023,qualified,Qualified
+1,NW375,2024,qualified,Qualified
+1,NW381,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW381,2016,qualified,Qualified
+1,NW381,2017,qualified,Qualified
+1,NW381,2018,qualified,Qualified
+1,NW381,2019,disclaimer,Disclaimer of opinion
+1,NW381,2020,disclaimer,Disclaimer of opinion
+1,NW381,2021,disclaimer,Disclaimer of opinion
+1,NW381,2022,disclaimer,Disclaimer of opinion
+1,NW381,2023,disclaimer,Disclaimer of opinion
+1,NW381,2024,disclaimer,Disclaimer of opinion
+1,NW382,2015,disclaimer,Disclaimer of opinion
+1,NW382,2016,qualified,Qualified
+1,NW382,2017,qualified,Qualified
+1,NW382,2018,qualified,Qualified
+1,NW382,2019,qualified,Qualified
+1,NW382,2020,qualified,Qualified
+1,NW382,2021,qualified,Qualified
+1,NW382,2022,qualified,Qualified
+1,NW382,2023,qualified,Qualified
+1,NW382,2024,qualified,Qualified
+1,NW383,2015,disclaimer,Disclaimer of opinion
+1,NW383,2016,disclaimer,Disclaimer of opinion
+1,NW383,2017,qualified,Qualified
+1,NW383,2018,disclaimer,Disclaimer of opinion
+1,NW383,2019,disclaimer,Disclaimer of opinion
+1,NW383,2020,qualified,Qualified
+1,NW383,2021,qualified,Qualified
+1,NW383,2022,qualified,Qualified
+1,NW383,2023,qualified,Qualified
+1,NW383,2024,qualified,Qualified
+1,NW384,2015,disclaimer,Disclaimer of opinion
+1,NW384,2016,qualified,Qualified
+1,NW384,2017,disclaimer,Disclaimer of opinion
+1,NW384,2018,disclaimer,Disclaimer of opinion
+1,NW384,2019,disclaimer,Disclaimer of opinion
+1,NW384,2020,disclaimer,Disclaimer of opinion
+1,NW384,2021,outstanding,Outstanding
+1,NW384,2022,outstanding,Outstanding
+1,NW384,2023,outstanding,Outstanding
+1,NW384,2024,disclaimer,Disclaimer of opinion
+1,NW385,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW385,2016,qualified,Qualified
+1,NW385,2017,qualified,Qualified
+1,NW385,2018,disclaimer,Disclaimer of opinion
+1,NW385,2019,disclaimer,Disclaimer of opinion
+1,NW385,2020,disclaimer,Disclaimer of opinion
+1,NW385,2021,outstanding,Outstanding
+1,NW385,2022,qualified,Qualified
+1,NW385,2023,qualified,Qualified
+1,NW385,2024,qualified,Qualified
+1,NW392,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW392,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW392,2017,qualified,Qualified
+1,NW392,2018,disclaimer,Disclaimer of opinion
+1,NW392,2019,outstanding,Outstanding
+1,NW392,2020,disclaimer,Disclaimer of opinion
+1,NW392,2021,disclaimer,Disclaimer of opinion
+1,NW392,2022,disclaimer,Disclaimer of opinion
+1,NW392,2023,adverse,Adverse opinion
+1,NW392,2024,qualified,Qualified
+1,NW393,2015,disclaimer,Disclaimer of opinion
+1,NW393,2016,disclaimer,Disclaimer of opinion
+1,NW393,2017,disclaimer,Disclaimer of opinion
+1,NW393,2018,disclaimer,Disclaimer of opinion
+1,NW393,2019,outstanding,Outstanding
+1,NW393,2020,disclaimer,Disclaimer of opinion
+1,NW393,2021,disclaimer,Disclaimer of opinion
+1,NW393,2022,disclaimer,Disclaimer of opinion
+1,NW393,2023,outstanding,Outstanding
+1,NW393,2024,adverse,Adverse opinion
+1,NW394,2015,qualified,Qualified
+1,NW394,2016,qualified,Qualified
+1,NW394,2017,qualified,Qualified
+1,NW394,2018,qualified,Qualified
+1,NW394,2019,outstanding,Outstanding
+1,NW394,2020,disclaimer,Disclaimer of opinion
+1,NW394,2021,disclaimer,Disclaimer of opinion
+1,NW394,2022,qualified,Qualified
+1,NW394,2023,qualified,Qualified
+1,NW394,2024,qualified,Qualified
+1,NW396,2015,qualified,Qualified
+1,NW396,2016,disclaimer,Disclaimer of opinion
+1,NW396,2017,disclaimer,Disclaimer of opinion
+1,NW396,2018,disclaimer,Disclaimer of opinion
+1,NW396,2019,disclaimer,Disclaimer of opinion
+1,NW396,2020,disclaimer,Disclaimer of opinion
+1,NW396,2021,qualified,Qualified
+1,NW396,2022,disclaimer,Disclaimer of opinion
+1,NW396,2023,disclaimer,Disclaimer of opinion
+1,NW396,2024,disclaimer,Disclaimer of opinion
+1,NW397,2015,qualified,Qualified
+1,NW397,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW397,2017,qualified,Qualified
+1,NW397,2018,disclaimer,Disclaimer of opinion
+1,NW397,2019,qualified,Qualified
+1,NW397,2020,qualified,Qualified
+1,NW397,2021,qualified,Qualified
+1,NW397,2022,qualified,Qualified
+1,NW397,2023,qualified,Qualified
+1,NW397,2024,outstanding,Outstanding
+1,NW401,2015,disclaimer,Disclaimer of opinion
+1,NW402,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW403,2015,qualified,Qualified
+1,NW403,2016,qualified,Qualified
+1,NW403,2017,qualified,Qualified
+1,NW403,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW403,2019,qualified,Qualified
+1,NW403,2020,qualified,Qualified
+1,NW403,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW403,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW403,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,NW403,2024,qualified,Qualified
+1,NW404,2015,qualified,Qualified
+1,NW404,2016,qualified,Qualified
+1,NW404,2017,qualified,Qualified
+1,NW404,2018,disclaimer,Disclaimer of opinion
+1,NW404,2019,disclaimer,Disclaimer of opinion
+1,NW404,2020,disclaimer,Disclaimer of opinion
+1,NW404,2021,disclaimer,Disclaimer of opinion
+1,NW404,2022,disclaimer,Disclaimer of opinion
+1,NW404,2023,disclaimer,Disclaimer of opinion
+1,NW404,2024,adverse,Adverse opinion
+1,NW405,2017,disclaimer,Disclaimer of opinion
+1,NW405,2018,qualified,Qualified
+1,NW405,2019,qualified,Qualified
+1,NW405,2020,qualified,Qualified
+1,NW405,2021,qualified,Qualified
+1,NW405,2022,qualified,Qualified
+1,NW405,2023,qualified,Qualified
+1,NW405,2024,qualified,Qualified
+1,TSH,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,TSH,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,TSH,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,TSH,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,TSH,2019,outstanding,Outstanding
+1,TSH,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,TSH,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,TSH,2022,adverse,Adverse opinion
+1,TSH,2023,qualified,Qualified
+1,TSH,2024,qualified,Qualified
+1,WC011,2015,unqualified,Unqualified - No findings
+1,WC011,2016,unqualified,Unqualified - No findings
+1,WC011,2017,unqualified,Unqualified - No findings
+1,WC011,2018,unqualified,Unqualified - No findings
+1,WC011,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC011,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC011,2021,unqualified,Unqualified - No findings
+1,WC011,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC011,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC011,2024,unqualified,Unqualified - No findings
+1,WC012,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC012,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC012,2017,unqualified,Unqualified - No findings
+1,WC012,2018,unqualified,Unqualified - No findings
+1,WC012,2019,unqualified,Unqualified - No findings
+1,WC012,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC012,2021,unqualified,Unqualified - No findings
+1,WC012,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC012,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC012,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC013,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC013,2016,unqualified,Unqualified - No findings
+1,WC013,2017,unqualified,Unqualified - No findings
+1,WC013,2018,unqualified,Unqualified - No findings
+1,WC013,2019,unqualified,Unqualified - No findings
+1,WC013,2020,unqualified,Unqualified - No findings
+1,WC013,2021,unqualified,Unqualified - No findings
+1,WC013,2022,unqualified,Unqualified - No findings
+1,WC013,2023,unqualified,Unqualified - No findings
+1,WC013,2024,unqualified,Unqualified - No findings
+1,WC014,2015,unqualified,Unqualified - No findings
+1,WC014,2016,unqualified,Unqualified - No findings
+1,WC014,2017,unqualified,Unqualified - No findings
+1,WC014,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC014,2019,unqualified,Unqualified - No findings
+1,WC014,2020,unqualified,Unqualified - No findings
+1,WC014,2021,unqualified,Unqualified - No findings
+1,WC014,2022,unqualified,Unqualified - No findings
+1,WC014,2023,unqualified,Unqualified - No findings
+1,WC014,2024,unqualified,Unqualified - No findings
+1,WC015,2015,unqualified,Unqualified - No findings
+1,WC015,2016,unqualified,Unqualified - No findings
+1,WC015,2017,unqualified,Unqualified - No findings
+1,WC015,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC015,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC015,2020,unqualified,Unqualified - No findings
+1,WC015,2021,unqualified,Unqualified - No findings
+1,WC015,2022,unqualified,Unqualified - No findings
+1,WC015,2023,unqualified,Unqualified - No findings
+1,WC015,2024,unqualified,Unqualified - No findings
+1,WC022,2015,unqualified,Unqualified - No findings
+1,WC022,2016,unqualified,Unqualified - No findings
+1,WC022,2017,unqualified,Unqualified - No findings
+1,WC022,2018,unqualified,Unqualified - No findings
+1,WC022,2019,unqualified,Unqualified - No findings
+1,WC022,2020,unqualified,Unqualified - No findings
+1,WC022,2021,unqualified,Unqualified - No findings
+1,WC022,2022,unqualified,Unqualified - No findings
+1,WC022,2023,unqualified,Unqualified - No findings
+1,WC022,2024,unqualified,Unqualified - No findings
+1,WC023,2015,unqualified,Unqualified - No findings
+1,WC023,2016,unqualified,Unqualified - No findings
+1,WC023,2017,unqualified,Unqualified - No findings
+1,WC023,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC023,2019,unqualified,Unqualified - No findings
+1,WC023,2020,unqualified,Unqualified - No findings
+1,WC023,2021,unqualified,Unqualified - No findings
+1,WC023,2022,unqualified,Unqualified - No findings
+1,WC023,2023,unqualified,Unqualified - No findings
+1,WC023,2024,unqualified,Unqualified - No findings
+1,WC024,2015,unqualified,Unqualified - No findings
+1,WC024,2016,unqualified,Unqualified - No findings
+1,WC024,2017,unqualified,Unqualified - No findings
+1,WC024,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC024,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC024,2020,unqualified,Unqualified - No findings
+1,WC024,2021,unqualified,Unqualified - No findings
+1,WC024,2022,unqualified,Unqualified - No findings
+1,WC024,2023,unqualified,Unqualified - No findings
+1,WC024,2024,unqualified,Unqualified - No findings
+1,WC025,2015,unqualified,Unqualified - No findings
+1,WC025,2016,unqualified,Unqualified - No findings
+1,WC025,2017,unqualified,Unqualified - No findings
+1,WC025,2018,unqualified,Unqualified - No findings
+1,WC025,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC025,2020,unqualified,Unqualified - No findings
+1,WC025,2021,unqualified,Unqualified - No findings
+1,WC025,2022,unqualified,Unqualified - No findings
+1,WC025,2023,unqualified,Unqualified - No findings
+1,WC025,2024,unqualified,Unqualified - No findings
+1,WC026,2015,unqualified,Unqualified - No findings
+1,WC026,2016,unqualified,Unqualified - No findings
+1,WC026,2017,unqualified,Unqualified - No findings
+1,WC026,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC026,2019,unqualified,Unqualified - No findings
+1,WC026,2020,unqualified,Unqualified - No findings
+1,WC026,2021,unqualified,Unqualified - No findings
+1,WC026,2022,unqualified,Unqualified - No findings
+1,WC026,2023,unqualified,Unqualified - No findings
+1,WC026,2024,unqualified,Unqualified - No findings
+1,WC031,2015,unqualified,Unqualified - No findings
+1,WC031,2016,unqualified,Unqualified - No findings
+1,WC031,2017,unqualified,Unqualified - No findings
+1,WC031,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC031,2019,unqualified,Unqualified - No findings
+1,WC031,2020,unqualified,Unqualified - No findings
+1,WC031,2021,unqualified,Unqualified - No findings
+1,WC031,2022,unqualified,Unqualified - No findings
+1,WC031,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC031,2024,qualified,Qualified
+1,WC032,2015,unqualified,Unqualified - No findings
+1,WC032,2016,unqualified,Unqualified - No findings
+1,WC032,2017,unqualified,Unqualified - No findings
+1,WC032,2018,unqualified,Unqualified - No findings
+1,WC032,2019,unqualified,Unqualified - No findings
+1,WC032,2020,unqualified,Unqualified - No findings
+1,WC032,2021,unqualified,Unqualified - No findings
+1,WC032,2022,unqualified,Unqualified - No findings
+1,WC032,2023,unqualified,Unqualified - No findings
+1,WC032,2024,unqualified,Unqualified - No findings
+1,WC033,2015,unqualified,Unqualified - No findings
+1,WC033,2016,unqualified,Unqualified - No findings
+1,WC033,2017,unqualified,Unqualified - No findings
+1,WC033,2018,unqualified,Unqualified - No findings
+1,WC033,2019,unqualified,Unqualified - No findings
+1,WC033,2020,unqualified,Unqualified - No findings
+1,WC033,2021,unqualified,Unqualified - No findings
+1,WC033,2022,unqualified,Unqualified - No findings
+1,WC033,2023,unqualified,Unqualified - No findings
+1,WC033,2024,unqualified,Unqualified - No findings
+1,WC034,2015,unqualified,Unqualified - No findings
+1,WC034,2016,unqualified,Unqualified - No findings
+1,WC034,2017,unqualified,Unqualified - No findings
+1,WC034,2018,unqualified,Unqualified - No findings
+1,WC034,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC034,2020,unqualified,Unqualified - No findings
+1,WC034,2021,unqualified,Unqualified - No findings
+1,WC034,2022,unqualified,Unqualified - No findings
+1,WC034,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC034,2024,unqualified,Unqualified - No findings
+1,WC041,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC041,2016,disclaimer,Disclaimer of opinion
+1,WC041,2017,qualified,Qualified
+1,WC041,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC041,2019,outstanding,Outstanding
+1,WC041,2020,qualified,Qualified
+1,WC041,2021,outstanding,Outstanding
+1,WC041,2022,disclaimer,Disclaimer of opinion
+1,WC041,2023,outstanding,Outstanding
+1,WC041,2024,disclaimer,Disclaimer of opinion
+1,WC042,2015,unqualified,Unqualified - No findings
+1,WC042,2016,unqualified,Unqualified - No findings
+1,WC042,2017,unqualified,Unqualified - No findings
+1,WC042,2018,unqualified,Unqualified - No findings
+1,WC042,2019,unqualified,Unqualified - No findings
+1,WC042,2020,unqualified,Unqualified - No findings
+1,WC042,2021,unqualified,Unqualified - No findings
+1,WC042,2022,unqualified,Unqualified - No findings
+1,WC042,2023,unqualified,Unqualified - No findings
+1,WC042,2024,unqualified,Unqualified - No findings
+1,WC043,2015,unqualified,Unqualified - No findings
+1,WC043,2016,unqualified,Unqualified - No findings
+1,WC043,2017,unqualified,Unqualified - No findings
+1,WC043,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC043,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC043,2020,unqualified,Unqualified - No findings
+1,WC043,2021,unqualified,Unqualified - No findings
+1,WC043,2022,unqualified,Unqualified - No findings
+1,WC043,2023,unqualified,Unqualified - No findings
+1,WC043,2024,unqualified,Unqualified - No findings
+1,WC044,2015,unqualified,Unqualified - No findings
+1,WC044,2016,unqualified,Unqualified - No findings
+1,WC044,2017,unqualified,Unqualified - No findings
+1,WC044,2018,qualified,Qualified
+1,WC044,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC044,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC044,2021,unqualified,Unqualified - No findings
+1,WC044,2022,unqualified,Unqualified - No findings
+1,WC044,2023,unqualified,Unqualified - No findings
+1,WC044,2024,unqualified,Unqualified - No findings
+1,WC045,2015,adverse,Adverse opinion
+1,WC045,2016,qualified,Qualified
+1,WC045,2017,qualified,Qualified
+1,WC045,2018,qualified,Qualified
+1,WC045,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC045,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC045,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC045,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC045,2023,unqualified,Unqualified - No findings
+1,WC045,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2015,unqualified,Unqualified - No findings
+1,WC047,2016,unqualified,Unqualified - No findings
+1,WC047,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC047,2023,unqualified,Unqualified - No findings
+1,WC047,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2015,unqualified,Unqualified - No findings
+1,WC048,2016,unqualified,Unqualified - No findings
+1,WC048,2017,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2019,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2020,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2022,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC048,2023,qualified,Qualified
+1,WC048,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC051,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC051,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC051,2017,qualified,Qualified
+1,WC051,2018,qualified,Qualified
+1,WC051,2019,qualified,Qualified
+1,WC051,2020,qualified,Qualified
+1,WC051,2021,outstanding,Outstanding
+1,WC051,2022,adverse,Adverse opinion
+1,WC051,2023,adverse,Adverse opinion
+1,WC051,2024,adverse,Adverse opinion
+1,WC052,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC052,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC052,2017,unqualified,Unqualified - No findings
+1,WC052,2018,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC052,2019,unqualified,Unqualified - No findings
+1,WC052,2020,unqualified,Unqualified - No findings
+1,WC052,2021,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC052,2022,unqualified,Unqualified - No findings
+1,WC052,2023,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC052,2024,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC053,2015,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC053,2016,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items
+1,WC053,2017,disclaimer,Disclaimer of opinion
+1,WC053,2018,qualified,Qualified
+1,WC053,2019,qualified,Qualified
+1,WC053,2020,disclaimer,Disclaimer of opinion
+1,WC053,2021,outstanding,Outstanding
+1,WC053,2022,qualified,Qualified
+1,WC053,2023,qualified,Qualified
+1,WC053,2024,qualified,Qualified

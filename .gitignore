@@ -1,0 +1,17 @@
+# data/ IS committed here — the Treasury extracts are small (~670 KB) and keeping
+# them in the repo means the notebook runs offline with no API call.
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

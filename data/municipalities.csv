@@ -1,0 +1,293 @@
+municipality.category,municipality.demarcation_code,municipality.long_name,municipality.miif_category,municipality.name,municipality.province_name
+A,BUF,"Buffalo City, Eastern Cape",A,Buffalo City,Eastern Cape
+A,CPT,"Cape Town, Western Cape",A,Cape Town,Western Cape
+C,DC1,"West Coast, Western Cape",C1,West Coast,Western Cape
+C,DC10,"Sarah Baartman, Eastern Cape",C1,Sarah Baartman,Eastern Cape
+C,DC12,"Amathole, Eastern Cape",C2,Amathole,Eastern Cape
+C,DC13,"Chris Hani, Eastern Cape",C2,Chris Hani,Eastern Cape
+C,DC14,"Joe Gqabi, Eastern Cape",C2,Joe Gqabi,Eastern Cape
+C,DC15,"O R Tambo, Eastern Cape",C2,O R Tambo,Eastern Cape
+C,DC16,"Xhariep, Free State",C1,Xhariep,Free State
+C,DC18,"Lejweleputswa, Free State",C1,Lejweleputswa,Free State
+C,DC19,"Thabo Mofutsanyana, Free State",C1,Thabo Mofutsanyana,Free State
+C,DC2,"Cape Winelands DM, Western Cape",C1,Cape Winelands DM,Western Cape
+C,DC20,"Fezile Dabi, Free State",C1,Fezile Dabi,Free State
+C,DC21,"Ugu, Kwazulu-Natal",C2,Ugu,Kwazulu-Natal
+C,DC22,"uMgungundlovu, Kwazulu-Natal",C2,uMgungundlovu,Kwazulu-Natal
+C,DC23,"Uthukela, Kwazulu-Natal",C2,Uthukela,Kwazulu-Natal
+C,DC24,"Umzinyathi, Kwazulu-Natal",C2,Umzinyathi,Kwazulu-Natal
+C,DC25,"Amajuba, Kwazulu-Natal",C2,Amajuba,Kwazulu-Natal
+C,DC26,"Zululand, Kwazulu-Natal",C2,Zululand,Kwazulu-Natal
+C,DC27,"Umkhanyakude, Kwazulu-Natal",C2,Umkhanyakude,Kwazulu-Natal
+C,DC28,"King Cetshwayo, Kwazulu-Natal",C2,King Cetshwayo,Kwazulu-Natal
+C,DC29,"iLembe, Kwazulu-Natal",C2,iLembe,Kwazulu-Natal
+C,DC3,"Overberg, Western Cape",C1,Overberg,Western Cape
+C,DC30,"Gert Sibande, Mpumalanga",C1,Gert Sibande,Mpumalanga
+C,DC31,"Nkangala, Mpumalanga",C1,Nkangala,Mpumalanga
+C,DC32,"Ehlanzeni, Mpumalanga",C1,Ehlanzeni,Mpumalanga
+C,DC33,"Mopani, Limpopo",C2,Mopani,Limpopo
+C,DC34,"Vhembe, Limpopo",C2,Vhembe,Limpopo
+C,DC35,"Capricorn, Limpopo",C2,Capricorn,Limpopo
+C,DC36,"Waterberg, Limpopo",C1,Waterberg,Limpopo
+C,DC37,"Bojanala Platinum, North West",C1,Bojanala Platinum,North West
+C,DC38,"Ngaka Modiri Molema, North West",C2,Ngaka Modiri Molema,North West
+C,DC39,"Dr Ruth Segomotsi Mompati, North West",C2,Dr Ruth Segomotsi Mompati,North West
+C,DC4,"Garden Route, Western Cape",C1,Garden Route,Western Cape
+C,DC40,"Dr Kenneth Kaunda, North West",C1,Dr Kenneth Kaunda,North West
+C,DC42,"Sedibeng, Gauteng",C1,Sedibeng,Gauteng
+C,DC43,"Harry Gwala, Kwazulu-Natal",C2,Harry Gwala,Kwazulu-Natal
+C,DC44,"Alfred Nzo, Eastern Cape",C2,Alfred Nzo,Eastern Cape
+C,DC45,"John Taolo Gaetsewe, Northern Cape",C1,John Taolo Gaetsewe,Northern Cape
+C,DC47,"Sekhukhune, Limpopo",C2,Sekhukhune,Limpopo
+C,DC48,"West Rand, Gauteng",C1,West Rand,Gauteng
+C,DC5,"Central Karoo, Western Cape",C1,Central Karoo,Western Cape
+C,DC6,"Namakwa, Northern Cape",C1,Namakwa,Northern Cape
+C,DC7,"Pixley Ka Seme (NC), Northern Cape",C1,Pixley Ka Seme (NC),Northern Cape
+C,DC8,"Z F Mgcawu, Northern Cape",C1,Z F Mgcawu,Northern Cape
+C,DC9,"Frances Baard, Northern Cape",C1,Frances Baard,Northern Cape
+B,EC101,"Dr Beyers Naude, Eastern Cape",B3,Dr Beyers Naude,Eastern Cape
+B,EC102,"Blue Crane Route, Eastern Cape",B3,Blue Crane Route,Eastern Cape
+B,EC103,"Ikwezi, Eastern Cape",B3,Ikwezi,Eastern Cape
+B,EC104,"Makana, Eastern Cape",B2,Makana,Eastern Cape
+B,EC105,"Ndlambe, Eastern Cape",B3,Ndlambe,Eastern Cape
+B,EC106,"Sundays River Valley, Eastern Cape",B3,Sundays River Valley,Eastern Cape
+B,EC107,"Baviaans, Eastern Cape",B3,Baviaans,Eastern Cape
+B,EC108,"Kouga, Eastern Cape",B3,Kouga,Eastern Cape
+B,EC109,"Kou-Kamma, Eastern Cape",B3,Kou-Kamma,Eastern Cape
+B,EC121,"Mbhashe, Eastern Cape",B4,Mbhashe,Eastern Cape
+B,EC122,"Mnquma, Eastern Cape",B4,Mnquma,Eastern Cape
+B,EC123,"Great Kei, Eastern Cape",B3,Great Kei,Eastern Cape
+B,EC124,"Amahlathi, Eastern Cape",B3,Amahlathi,Eastern Cape
+B,EC126,"Ngqushwa, Eastern Cape",B4,Ngqushwa,Eastern Cape
+B,EC127,"Nkonkobe, Eastern Cape",B3,Nkonkobe,Eastern Cape
+B,EC128,"Nxuba, Eastern Cape",B3,Nxuba,Eastern Cape
+B,EC129,"Raymond Mhlaba, Eastern Cape",B3,Raymond Mhlaba,Eastern Cape
+B,EC131,"Inxuba Yethemba, Eastern Cape",B3,Inxuba Yethemba,Eastern Cape
+B,EC132,"Tsolwana, Eastern Cape",B3,Tsolwana,Eastern Cape
+B,EC133,"Inkwanca, Eastern Cape",B3,Inkwanca,Eastern Cape
+B,EC134,"Lukanji, Eastern Cape",B2,Lukanji,Eastern Cape
+B,EC135,"Vuyisile Mini, Eastern Cape",B4,Vuyisile Mini,Eastern Cape
+B,EC136,"Emalahleni (EC), Eastern Cape",B4,Emalahleni (EC),Eastern Cape
+B,EC137,"Dr. A.B. Xuma, Eastern Cape",B4,Dr. A.B. Xuma,Eastern Cape
+B,EC138,"Sakhisizwe, Eastern Cape",B3,Sakhisizwe,Eastern Cape
+B,EC139,"Enoch Mgijima, Eastern Cape",B2,Enoch Mgijima,Eastern Cape
+B,EC141,"Elundini, Eastern Cape",B4,Elundini,Eastern Cape
+B,EC142,"Senqu, Eastern Cape",B4,Senqu,Eastern Cape
+B,EC143,"Maletswai, Eastern Cape",B3,Maletswai,Eastern Cape
+B,EC144,"Gariep, Eastern Cape",B3,Gariep,Eastern Cape
+B,EC145,"Walter Sisulu, Eastern Cape",B3,Walter Sisulu,Eastern Cape
+B,EC153,"Ngquza Hills, Eastern Cape",B4,Ngquza Hills,Eastern Cape
+B,EC154,"Port St Johns, Eastern Cape",B4,Port St Johns,Eastern Cape
+B,EC155,"Nyandeni, Eastern Cape",B4,Nyandeni,Eastern Cape
+B,EC156,"Kumkani Mhlontlo, Eastern Cape",B4,Kumkani Mhlontlo,Eastern Cape
+B,EC157,"King Sabata Dalindyebo, Eastern Cape",B2,King Sabata Dalindyebo,Eastern Cape
+B,EC441,"Matatiele, Eastern Cape",B3,Matatiele,Eastern Cape
+B,EC442,"Umzimvubu, Eastern Cape",B4,Umzimvubu,Eastern Cape
+B,EC443,"Winnie Madikizela-Mandela, Eastern Cape",B4,Winnie Madikizela-Mandela,Eastern Cape
+B,EC444,"Ntabankulu, Eastern Cape",B4,Ntabankulu,Eastern Cape
+A,EKU,"City of Ekurhuleni, Gauteng",A,City of Ekurhuleni,Gauteng
+A,ETH,"eThekwini, Kwazulu-Natal",A,eThekwini,Kwazulu-Natal
+B,FS161,"Letsemeng, Free State",B3,Letsemeng,Free State
+B,FS162,"Kopanong, Free State",B3,Kopanong,Free State
+B,FS163,"Mohokare, Free State",B3,Mohokare,Free State
+B,FS164,"Naledi, Free State",B3,Naledi,Free State
+B,FS181,"Masilonyana, Free State",B3,Masilonyana,Free State
+B,FS182,"Tokologo, Free State",B3,Tokologo,Free State
+B,FS183,"Tswelopele, Free State",B3,Tswelopele,Free State
+B,FS184,"Matjhabeng, Free State",B1,Matjhabeng,Free State
+B,FS185,"Nala, Free State",B3,Nala,Free State
+B,FS191,"Setsoto, Free State",B3,Setsoto,Free State
+B,FS192,"Dihlabeng, Free State",B2,Dihlabeng,Free State
+B,FS193,"Nketoana, Free State",B3,Nketoana,Free State
+B,FS194,"Maluti-a-Phofung, Free State",B3,Maluti-a-Phofung,Free State
+B,FS195,"Phumelela, Free State",B3,Phumelela,Free State
+B,FS196,"Mantsopa, Free State",B3,Mantsopa,Free State
+B,FS201,"Moqhaka, Free State",B2,Moqhaka,Free State
+B,FS203,"Ngwathe, Free State",B3,Ngwathe,Free State
+B,FS204,"Metsimaholo, Free State",B2,Metsimaholo,Free State
+B,FS205,"Mafube, Free State",B3,Mafube,Free State
+B,GT421,"Emfuleni, Gauteng",B1,Emfuleni,Gauteng
+B,GT422,"Midvaal, Gauteng",B2,Midvaal,Gauteng
+B,GT423,"Lesedi, Gauteng",B3,Lesedi,Gauteng
+B,GT481,"Mogale City, Gauteng",B1,Mogale City,Gauteng
+B,GT482,"Randfontein, Gauteng",B2,Randfontein,Gauteng
+B,GT483,"Westonaria, Gauteng",B2,Westonaria,Gauteng
+B,GT484,"Merafong City, Gauteng",B2,Merafong City,Gauteng
+B,GT485,"Rand West City, Gauteng",B2,Rand West City,Gauteng
+A,JHB,"City of Johannesburg, Gauteng",A,City of Johannesburg,Gauteng
+B,KZN211,"Vulamehlo, KwaZulu-Natal",B4,Vulamehlo,KwaZulu-Natal
+B,KZN212,"Umdoni, Kwazulu-Natal",B2,Umdoni,Kwazulu-Natal
+B,KZN213,"Umzumbe, Kwazulu-Natal",B4,Umzumbe,Kwazulu-Natal
+B,KZN214,"uMuziwabantu, Kwazulu-Natal",B3,uMuziwabantu,Kwazulu-Natal
+B,KZN215,"Ezingoleni, KwaZulu-Natal",B4,Ezingoleni,KwaZulu-Natal
+B,KZN216,"Ray Nkonyeni, Kwazulu-Natal",B2,Ray Nkonyeni,Kwazulu-Natal
+B,KZN221,"uMshwathi, Kwazulu-Natal",B4,uMshwathi,Kwazulu-Natal
+B,KZN222,"uMngeni, Kwazulu-Natal",B2,uMngeni,Kwazulu-Natal
+B,KZN223,"Mpofana, Kwazulu-Natal",B3,Mpofana,Kwazulu-Natal
+B,KZN224,"Impendle, Kwazulu-Natal",B4,Impendle,Kwazulu-Natal
+B,KZN225,"Msunduzi, Kwazulu-Natal",B1,Msunduzi,Kwazulu-Natal
+B,KZN226,"Mkhambathini, Kwazulu-Natal",B3,Mkhambathini,Kwazulu-Natal
+B,KZN227,"Richmond, Kwazulu-Natal",B4,Richmond,Kwazulu-Natal
+B,KZN232,"Emnambithi/Ladysmith, KwaZulu-Natal",B2,Emnambithi/Ladysmith,KwaZulu-Natal
+B,KZN233,"Indaka, KwaZulu-Natal",B4,Indaka,KwaZulu-Natal
+B,KZN234,"Umtshezi, KwaZulu-Natal",B3,Umtshezi,KwaZulu-Natal
+B,KZN235,"Okhahlamba, Kwazulu-Natal",B4,Okhahlamba,Kwazulu-Natal
+B,KZN236,"Imbabazane, KwaZulu-Natal",B4,Imbabazane,KwaZulu-Natal
+B,KZN237,"Inkosi Langalibalele, Kwazulu-Natal",B3,Inkosi Langalibalele,Kwazulu-Natal
+B,KZN238,"Alfred Duma, Kwazulu-Natal",B2,Alfred Duma,Kwazulu-Natal
+B,KZN241,"Endumeni, Kwazulu-Natal",B3,Endumeni,Kwazulu-Natal
+B,KZN242,"Nquthu, Kwazulu-Natal",B4,Nquthu,Kwazulu-Natal
+B,KZN244,"Msinga, Kwazulu-Natal",B4,Msinga,Kwazulu-Natal
+B,KZN245,"Umvoti, Kwazulu-Natal",B3,Umvoti,Kwazulu-Natal
+B,KZN252,"Newcastle, Kwazulu-Natal",B1,Newcastle,Kwazulu-Natal
+B,KZN253,"Emadlangeni, Kwazulu-Natal",B3,Emadlangeni,Kwazulu-Natal
+B,KZN254,"Dannhauser, Kwazulu-Natal",B4,Dannhauser,Kwazulu-Natal
+B,KZN261,"eDumbe, Kwazulu-Natal",B3,eDumbe,Kwazulu-Natal
+B,KZN262,"uPhongolo, Kwazulu-Natal",B4,uPhongolo,Kwazulu-Natal
+B,KZN263,"Abaqulusi, Kwazulu-Natal",B3,Abaqulusi,Kwazulu-Natal
+B,KZN265,"Nongoma, Kwazulu-Natal",B4,Nongoma,Kwazulu-Natal
+B,KZN266,"Ulundi, Kwazulu-Natal",B4,Ulundi,Kwazulu-Natal
+B,KZN271,"Umhlabuyalingana, Kwazulu-Natal",B4,Umhlabuyalingana,Kwazulu-Natal
+B,KZN272,"Jozini, Kwazulu-Natal",B4,Jozini,Kwazulu-Natal
+B,KZN273,"The Big 5 False Bay, KwaZulu-Natal",B3,The Big 5 False Bay,KwaZulu-Natal
+B,KZN274,"Hlabisa, KwaZulu-Natal",B4,Hlabisa,KwaZulu-Natal
+B,KZN275,"Mtubatuba, Kwazulu-Natal",B3,Mtubatuba,Kwazulu-Natal
+B,KZN276,"Hlabisa Big Five, Kwazulu-Natal",B3,Hlabisa Big Five,Kwazulu-Natal
+B,KZN281,"Mfolozi, Kwazulu-Natal",B4,Mfolozi,Kwazulu-Natal
+B,KZN282,"uMhlathuze, Kwazulu-Natal",B1,uMhlathuze,Kwazulu-Natal
+B,KZN283,"Ntambanana, KwaZulu-Natal",B4,Ntambanana,KwaZulu-Natal
+B,KZN284,"uMlalazi, Kwazulu-Natal",B4,uMlalazi,Kwazulu-Natal
+B,KZN285,"Mthonjaneni, Kwazulu-Natal",B3,Mthonjaneni,Kwazulu-Natal
+B,KZN286,"Nkandla, Kwazulu-Natal",B4,Nkandla,Kwazulu-Natal
+B,KZN291,"Mandeni, Kwazulu-Natal",B4,Mandeni,Kwazulu-Natal
+B,KZN292,"KwaDukuza, Kwazulu-Natal",B2,KwaDukuza,Kwazulu-Natal
+B,KZN293,"Ndwedwe, Kwazulu-Natal",B4,Ndwedwe,Kwazulu-Natal
+B,KZN294,"Maphumulo, Kwazulu-Natal",B4,Maphumulo,Kwazulu-Natal
+B,KZN431,"Ingwe, KwaZulu-Natal",B4,Ingwe,KwaZulu-Natal
+B,KZN432,"Kwa Sani, KwaZulu-Natal",B3,Kwa Sani,KwaZulu-Natal
+B,KZN433,"Greater Kokstad, Kwazulu-Natal",B2,Greater Kokstad,Kwazulu-Natal
+B,KZN434,"Johannes Phumani Phungula, Kwazulu-Natal",B4,Johannes Phumani Phungula,Kwazulu-Natal
+B,KZN435,"Umzimkhulu, Kwazulu-Natal",B4,Umzimkhulu,Kwazulu-Natal
+B,KZN436,"Dr Nkosazana Dlamini Zuma, Kwazulu-Natal",B3,Dr Nkosazana Dlamini Zuma,Kwazulu-Natal
+B,LIM331,"Greater Giyani, Limpopo",B4,Greater Giyani,Limpopo
+B,LIM332,"Greater Letaba, Limpopo",B4,Greater Letaba,Limpopo
+B,LIM333,"Greater Tzaneen, Limpopo",B4,Greater Tzaneen,Limpopo
+B,LIM334,"Ba-Phalaborwa, Limpopo",B3,Ba-Phalaborwa,Limpopo
+B,LIM335,"Maruleng, Limpopo",B4,Maruleng,Limpopo
+B,LIM341,"Musina, Limpopo",B3,Musina,Limpopo
+B,LIM342,"Mutale, Limpopo",B4,Mutale,Limpopo
+B,LIM343,"Thulamela, Limpopo",B4,Thulamela,Limpopo
+B,LIM344,"Makhado, Limpopo",B4,Makhado,Limpopo
+B,LIM345,"Collins Chabane, Limpopo",B4,Collins Chabane,Limpopo
+B,LIM351,"Blouberg, Limpopo",B4,Blouberg,Limpopo
+B,LIM352,"Aganang, Limpopo",B4,Aganang,Limpopo
+B,LIM353,"Molemole, Limpopo",B4,Molemole,Limpopo
+B,LIM354,"Polokwane, Limpopo",B1,Polokwane,Limpopo
+B,LIM355,"Lepelle-Nkumpi, Limpopo",B4,Lepelle-Nkumpi,Limpopo
+B,LIM361,"Thabazimbi, Limpopo",B3,Thabazimbi,Limpopo
+B,LIM362,"Lephalale, Limpopo",B3,Lephalale,Limpopo
+B,LIM364,"Mookgopong, Limpopo",B3,Mookgopong,Limpopo
+B,LIM365,"Modimolle, Limpopo",B3,Modimolle,Limpopo
+B,LIM366,"Bela Bela, Limpopo",B3,Bela Bela,Limpopo
+B,LIM367,"Mogalakwena, Limpopo",B2,Mogalakwena,Limpopo
+B,LIM368,"Modimolle-Mookgopong, Limpopo",B3,Modimolle-Mookgopong,Limpopo
+B,LIM471,"Ephraim Mogale, Limpopo",B4,Ephraim Mogale,Limpopo
+B,LIM472,"Elias Motsoaledi, Limpopo",B4,Elias Motsoaledi,Limpopo
+B,LIM473,"Makhuduthamaga, Limpopo",B4,Makhuduthamaga,Limpopo
+B,LIM474,"Fetakgomo, Limpopo",B4,Fetakgomo,Limpopo
+B,LIM475,"Greater Tubatse, Limpopo",B4,Greater Tubatse,Limpopo
+B,LIM476,"Tubatse Fetakgomo, Limpopo",B4,Tubatse Fetakgomo,Limpopo
+A,MAN,"Mangaung, Free State",A,Mangaung,Free State
+B,MP301,"Albert Luthuli, Mpumalanga",B4,Albert Luthuli,Mpumalanga
+B,MP302,"Msukaligwa, Mpumalanga",B2,Msukaligwa,Mpumalanga
+B,MP303,"Mkhondo, Mpumalanga",B3,Mkhondo,Mpumalanga
+B,MP304,"Pixley Ka Seme (MP), Mpumalanga",B3,Pixley Ka Seme (MP),Mpumalanga
+B,MP305,"Lekwa, Mpumalanga",B3,Lekwa,Mpumalanga
+B,MP306,"Dipaleseng, Mpumalanga",B3,Dipaleseng,Mpumalanga
+B,MP307,"Govan Mbeki, Mpumalanga",B1,Govan Mbeki,Mpumalanga
+B,MP311,"Victor Khanye, Mpumalanga",B3,Victor Khanye,Mpumalanga
+B,MP312,"Emalahleni (MP), Mpumalanga",B1,Emalahleni (MP),Mpumalanga
+B,MP313,"Steve Tshwete, Mpumalanga",B1,Steve Tshwete,Mpumalanga
+B,MP314,"Emakhazeni, Mpumalanga",B2,Emakhazeni,Mpumalanga
+B,MP315,"Thembisile Hani, Mpumalanga",B4,Thembisile Hani,Mpumalanga
+B,MP316,"Dr J.S. Moroka, Mpumalanga",B4,Dr J.S. Moroka,Mpumalanga
+B,MP321,"Thaba Chweu, Mpumalanga",B3,Thaba Chweu,Mpumalanga
+B,MP322,"Mbombela, Mpumalanga",B1,Mbombela,Mpumalanga
+B,MP323,"Umjindi, Mpumalanga",B3,Umjindi,Mpumalanga
+B,MP324,"Nkomazi, Mpumalanga",B4,Nkomazi,Mpumalanga
+B,MP325,"Bushbuckridge, Mpumalanga",B4,Bushbuckridge,Mpumalanga
+B,MP326,"City of Mbombela, Mpumalanga",B1,City of Mbombela,Mpumalanga
+B,NC061,"Richtersveld, Northern Cape",B3,Richtersveld,Northern Cape
+B,NC062,"Nama Khoi, Northern Cape",B3,Nama Khoi,Northern Cape
+B,NC064,"Kamiesberg, Northern Cape",B3,Kamiesberg,Northern Cape
+B,NC065,"Hantam, Northern Cape",B3,Hantam,Northern Cape
+B,NC066,"Karoo Hoogland, Northern Cape",B3,Karoo Hoogland,Northern Cape
+B,NC067,"Khai-Ma, Northern Cape",B3,Khai-Ma,Northern Cape
+B,NC071,"Ubuntu, Northern Cape",B3,Ubuntu,Northern Cape
+B,NC072,"Umsobomvu, Northern Cape",B3,Umsobomvu,Northern Cape
+B,NC073,"Emthanjeni, Northern Cape",B3,Emthanjeni,Northern Cape
+B,NC074,"Kareeberg, Northern Cape",B3,Kareeberg,Northern Cape
+B,NC075,"Renosterberg, Northern Cape",B3,Renosterberg,Northern Cape
+B,NC076,"Thembelihle, Northern Cape",B3,Thembelihle,Northern Cape
+B,NC077,"Siyathemba, Northern Cape",B3,Siyathemba,Northern Cape
+B,NC078,"Siyancuma, Northern Cape",B3,Siyancuma,Northern Cape
+B,NC081,"Mier, Northern Cape",B3,Mier,Northern Cape
+B,NC082,"!Kai! Garib, Northern Cape",B3,!Kai! Garib,Northern Cape
+B,NC083,"//Khara Hais, Northern Cape",B2,//Khara Hais,Northern Cape
+B,NC084,"!Kheis, Northern Cape",B3,!Kheis,Northern Cape
+B,NC085,"Tsantsabane, Northern Cape",B3,Tsantsabane,Northern Cape
+B,NC086,"Kgatelopele, Northern Cape",B3,Kgatelopele,Northern Cape
+B,NC087,"Dawid Kruiper, Northern Cape",B2,Dawid Kruiper,Northern Cape
+B,NC091,"Sol Plaatje, Northern Cape",B1,Sol Plaatje,Northern Cape
+B,NC092,"Dikgatlong, Northern Cape",B3,Dikgatlong,Northern Cape
+B,NC093,"Magareng, Northern Cape",B3,Magareng,Northern Cape
+B,NC094,"Phokwane, Northern Cape",B3,Phokwane,Northern Cape
+B,NC451,"Joe Morolong, Northern Cape",B4,Joe Morolong,Northern Cape
+B,NC452,"Ga-Segonyana, Northern Cape",B3,Ga-Segonyana,Northern Cape
+B,NC453,"Gamagara, Northern Cape",B3,Gamagara,Northern Cape
+A,NMA,"Nelson Mandela Bay, Eastern Cape",A,Nelson Mandela Bay,Eastern Cape
+B,NW371,"Moretele, North West",B4,Moretele,North West
+B,NW372,"Madibeng, North West",B1,Madibeng,North West
+B,NW373,"Rustenburg, North West",B1,Rustenburg,North West
+B,NW374,"Kgetlengrivier, North West",B3,Kgetlengrivier,North West
+B,NW375,"Moses Kotane, North West",B4,Moses Kotane,North West
+B,NW381,"Ratlou, North West",B4,Ratlou,North West
+B,NW382,"Tswaing, North West",B3,Tswaing,North West
+B,NW383,"Mafikeng, North West",B2,Mafikeng,North West
+B,NW384,"Ditsobotla, North West",B3,Ditsobotla,North West
+B,NW385,"Ramotshere Moiloa, North West",B3,Ramotshere Moiloa,North West
+B,NW392,"Naledi (NW), North West",B3,Naledi (NW),North West
+B,NW393,"Mamusa, North West",B3,Mamusa,North West
+B,NW394,"Greater Taung, North West",B4,Greater Taung,North West
+B,NW396,"Lekwa-Teemane, North West",B3,Lekwa-Teemane,North West
+B,NW397,"Kagisano-Molopo, North West",B4,Kagisano-Molopo,North West
+B,NW401,"Ventersdorp, North West",B3,Ventersdorp,North West
+B,NW402,"Tlokwe City Council, North West",B1,Tlokwe City Council,North West
+B,NW403,"City of Matlosana, North West",B1,City of Matlosana,North West
+B,NW404,"Maquassi Hills, North West",B3,Maquassi Hills,North West
+B,NW405,"J B Marks, North West",B1,J B Marks,North West
+A,TSH,"City of Tshwane, Gauteng",A,City of Tshwane,Gauteng
+B,WC011,"Matzikama, Western Cape",B3,Matzikama,Western Cape
+B,WC012,"Cederberg, Western Cape",B3,Cederberg,Western Cape
+B,WC013,"Bergrivier, Western Cape",B3,Bergrivier,Western Cape
+B,WC014,"Saldanha Bay, Western Cape",B2,Saldanha Bay,Western Cape
+B,WC015,"Swartland, Western Cape",B3,Swartland,Western Cape
+B,WC022,"Witzenberg, Western Cape",B3,Witzenberg,Western Cape
+B,WC023,"Drakenstein, Western Cape",B1,Drakenstein,Western Cape
+B,WC024,"Stellenbosch, Western Cape",B1,Stellenbosch,Western Cape
+B,WC025,"Breede Valley, Western Cape",B2,Breede Valley,Western Cape
+B,WC026,"Langeberg, Western Cape",B3,Langeberg,Western Cape
+B,WC031,"Theewaterskloof, Western Cape",B3,Theewaterskloof,Western Cape
+B,WC032,"Overstrand, Western Cape",B2,Overstrand,Western Cape
+B,WC033,"Cape Agulhas, Western Cape",B3,Cape Agulhas,Western Cape
+B,WC034,"Swellendam, Western Cape",B3,Swellendam,Western Cape
+B,WC041,"Kannaland, Western Cape",B3,Kannaland,Western Cape
+B,WC042,"Hessequa, Western Cape",B3,Hessequa,Western Cape
+B,WC043,"Mossel Bay, Western Cape",B2,Mossel Bay,Western Cape
+B,WC044,"George, Western Cape",B1,George,Western Cape
+B,WC045,"Oudtshoorn, Western Cape",B2,Oudtshoorn,Western Cape
+B,WC047,"Bitou, Western Cape",B3,Bitou,Western Cape
+B,WC048,"Knysna, Western Cape",B2,Knysna,Western Cape
+B,WC051,"Laingsburg, Western Cape",B3,Laingsburg,Western Cape
+B,WC052,"Prince Albert, Western Cape",B3,Prince Albert,Western Cape
+B,WC053,"Beaufort West, Western Cape",B3,Beaufort West,Western Cape

@@ -1,0 +1,1458 @@
+amount.sum,demarcation.code,financial_year_end.year,item.code,item.label
+8052720566.0,BUF,2023,2900,Total Revenue (excluding capital transfers and contributions)
+9108938273.0,BUF,2023,4400,Total Expenditure
+-1056217707.0,BUF,2023,4500,Surplus/(Deficit)
+9353422459.0,BUF,2024,2900,Total Revenue (excluding capital transfers and contributions)
+10770697729.0,BUF,2024,4400,Total Expenditure
+-1417275270.0,BUF,2024,4500,Surplus/(Deficit)
+54414470221.0,CPT,2023,2900,Total Revenue (excluding capital transfers and contributions)
+52445477103.0,CPT,2023,4400,Total Expenditure
+1968993118.0,CPT,2023,4500,Surplus/(Deficit)
+61841487486.0,CPT,2024,2900,Total Revenue (excluding capital transfers and contributions)
+58313923784.0,CPT,2024,4400,Total Expenditure
+3527563702.0,CPT,2024,4500,Surplus/(Deficit)
+577830966.0,DC1,2023,2900,Total Revenue (excluding capital transfers and contributions)
+541361344.0,DC1,2023,4400,Total Expenditure
+36469622.0,DC1,2023,4500,Surplus/(Deficit)
+555014996.0,DC1,2024,2900,Total Revenue (excluding capital transfers and contributions)
+546463401.0,DC1,2024,4400,Total Expenditure
+8551595.0,DC1,2024,4500,Surplus/(Deficit)
+126858915.0,DC10,2023,2900,Total Revenue (excluding capital transfers and contributions)
+138420954.0,DC10,2023,4400,Total Expenditure
+-11562039.0,DC10,2023,4500,Surplus/(Deficit)
+155625013.0,DC10,2024,2900,Total Revenue (excluding capital transfers and contributions)
+180622676.0,DC10,2024,4400,Total Expenditure
+-24997663.0,DC10,2024,4500,Surplus/(Deficit)
+1602661267.0,DC12,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1473100412.0,DC12,2023,4400,Total Expenditure
+129560855.0,DC12,2023,4500,Surplus/(Deficit)
+1827195279.0,DC12,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1721939853.0,DC12,2024,4400,Total Expenditure
+105255426.0,DC12,2024,4500,Surplus/(Deficit)
+1329428868.0,DC13,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1622024405.0,DC13,2023,4400,Total Expenditure
+-292595537.0,DC13,2023,4500,Surplus/(Deficit)
+1383866499.0,DC13,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1438543106.0,DC13,2024,4400,Total Expenditure
+-54676607.0,DC13,2024,4500,Surplus/(Deficit)
+736801068.0,DC14,2023,2900,Total Revenue (excluding capital transfers and contributions)
+652477771.0,DC14,2023,4400,Total Expenditure
+84323297.0,DC14,2023,4500,Surplus/(Deficit)
+766235717.0,DC14,2024,2900,Total Revenue (excluding capital transfers and contributions)
+637224430.0,DC14,2024,4400,Total Expenditure
+129011287.0,DC14,2024,4500,Surplus/(Deficit)
+1437027202.0,DC15,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1611216942.0,DC15,2023,4400,Total Expenditure
+-174189740.0,DC15,2023,4500,Surplus/(Deficit)
+1553302131.0,DC15,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1995323343.0,DC15,2024,4400,Total Expenditure
+-442021212.0,DC15,2024,4500,Surplus/(Deficit)
+72404945.0,DC16,2023,2900,Total Revenue (excluding capital transfers and contributions)
+69141553.0,DC16,2023,4400,Total Expenditure
+3263392.0,DC16,2023,4500,Surplus/(Deficit)
+69186212.0,DC16,2024,2900,Total Revenue (excluding capital transfers and contributions)
+99969234.0,DC16,2024,4400,Total Expenditure
+-30783022.0,DC16,2024,4500,Surplus/(Deficit)
+157577625.0,DC18,2023,2900,Total Revenue (excluding capital transfers and contributions)
+171343010.0,DC18,2023,4400,Total Expenditure
+-13765385.0,DC18,2023,4500,Surplus/(Deficit)
+163979433.0,DC18,2024,2900,Total Revenue (excluding capital transfers and contributions)
+208352564.0,DC18,2024,4400,Total Expenditure
+-44373131.0,DC18,2024,4500,Surplus/(Deficit)
+148613676.0,DC19,2023,2900,Total Revenue (excluding capital transfers and contributions)
+162480126.0,DC19,2023,4400,Total Expenditure
+-13866450.0,DC19,2023,4500,Surplus/(Deficit)
+160571552.0,DC19,2024,2900,Total Revenue (excluding capital transfers and contributions)
+164630776.0,DC19,2024,4400,Total Expenditure
+-4059224.0,DC19,2024,4500,Surplus/(Deficit)
+450319312.0,DC2,2023,2900,Total Revenue (excluding capital transfers and contributions)
+400569072.0,DC2,2023,4400,Total Expenditure
+49750240.0,DC2,2023,4500,Surplus/(Deficit)
+486119846.0,DC2,2024,2900,Total Revenue (excluding capital transfers and contributions)
+463715496.0,DC2,2024,4400,Total Expenditure
+22404350.0,DC2,2024,4500,Surplus/(Deficit)
+188462498.0,DC20,2023,2900,Total Revenue (excluding capital transfers and contributions)
+174969920.0,DC20,2023,4400,Total Expenditure
+13492578.0,DC20,2023,4500,Surplus/(Deficit)
+190354362.0,DC20,2024,2900,Total Revenue (excluding capital transfers and contributions)
+172609068.0,DC20,2024,4400,Total Expenditure
+17745294.0,DC20,2024,4500,Surplus/(Deficit)
+1195461302.0,DC21,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1593154296.0,DC21,2023,4400,Total Expenditure
+-397692994.0,DC21,2023,4500,Surplus/(Deficit)
+1288171766.0,DC21,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1845413745.0,DC21,2024,4400,Total Expenditure
+-557241979.0,DC21,2024,4500,Surplus/(Deficit)
+1243107796.0,DC22,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1249212732.0,DC22,2023,4400,Total Expenditure
+-6104936.0,DC22,2023,4500,Surplus/(Deficit)
+1365545324.0,DC22,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1409971731.0,DC22,2024,4400,Total Expenditure
+-44426407.0,DC22,2024,4500,Surplus/(Deficit)
+830741624.0,DC23,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1098038595.0,DC23,2023,4400,Total Expenditure
+-267296971.0,DC23,2023,4500,Surplus/(Deficit)
+960403347.0,DC23,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1198929218.0,DC23,2024,4400,Total Expenditure
+-238525871.0,DC23,2024,4500,Surplus/(Deficit)
+589266826.0,DC24,2023,2900,Total Revenue (excluding capital transfers and contributions)
+768753705.0,DC24,2023,4400,Total Expenditure
+-179486879.0,DC24,2023,4500,Surplus/(Deficit)
+630406132.0,DC24,2024,2900,Total Revenue (excluding capital transfers and contributions)
+809178028.0,DC24,2024,4400,Total Expenditure
+-178771896.0,DC24,2024,4500,Surplus/(Deficit)
+280752000.0,DC25,2023,2900,Total Revenue (excluding capital transfers and contributions)
+317699483.0,DC25,2023,4400,Total Expenditure
+-36947483.0,DC25,2023,4500,Surplus/(Deficit)
+293124740.0,DC25,2024,2900,Total Revenue (excluding capital transfers and contributions)
+346408988.0,DC25,2024,4400,Total Expenditure
+-53284248.0,DC25,2024,4500,Surplus/(Deficit)
+730784935.0,DC26,2023,2900,Total Revenue (excluding capital transfers and contributions)
+990581791.0,DC26,2023,4400,Total Expenditure
+-259796856.0,DC26,2023,4500,Surplus/(Deficit)
+846772615.0,DC26,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1143584026.0,DC26,2024,4400,Total Expenditure
+-296811411.0,DC26,2024,4500,Surplus/(Deficit)
+607185025.0,DC27,2023,2900,Total Revenue (excluding capital transfers and contributions)
+752997882.0,DC27,2023,4400,Total Expenditure
+-145812857.0,DC27,2023,4500,Surplus/(Deficit)
+674725933.0,DC27,2024,2900,Total Revenue (excluding capital transfers and contributions)
+847330827.0,DC27,2024,4400,Total Expenditure
+-172604894.0,DC27,2024,4500,Surplus/(Deficit)
+870483017.0,DC28,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1009083747.0,DC28,2023,4400,Total Expenditure
+-138600730.0,DC28,2023,4500,Surplus/(Deficit)
+905037977.0,DC28,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1067263456.0,DC28,2024,4400,Total Expenditure
+-162225479.0,DC28,2024,4500,Surplus/(Deficit)
+1241612517.0,DC29,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1420874662.0,DC29,2023,4400,Total Expenditure
+-179262145.0,DC29,2023,4500,Surplus/(Deficit)
+1477441201.0,DC29,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1449304260.0,DC29,2024,4400,Total Expenditure
+28136941.0,DC29,2024,4500,Surplus/(Deficit)
+268096977.0,DC3,2023,2900,Total Revenue (excluding capital transfers and contributions)
+255983953.0,DC3,2023,4400,Total Expenditure
+12113024.0,DC3,2023,4500,Surplus/(Deficit)
+283462960.0,DC3,2024,2900,Total Revenue (excluding capital transfers and contributions)
+268539242.0,DC3,2024,4400,Total Expenditure
+14923718.0,DC3,2024,4500,Surplus/(Deficit)
+814864162.0,DC30,2023,2900,Total Revenue (excluding capital transfers and contributions)
+789093138.0,DC30,2023,4400,Total Expenditure
+25771024.0,DC30,2023,4500,Surplus/(Deficit)
+844720638.0,DC30,2024,2900,Total Revenue (excluding capital transfers and contributions)
+826294574.0,DC30,2024,4400,Total Expenditure
+18426064.0,DC30,2024,4500,Surplus/(Deficit)
+726145120.0,DC31,2023,2900,Total Revenue (excluding capital transfers and contributions)
+796243569.0,DC31,2023,4400,Total Expenditure
+-70098449.0,DC31,2023,4500,Surplus/(Deficit)
+991473050.0,DC31,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1094726972.0,DC31,2024,4400,Total Expenditure
+-103253922.0,DC31,2024,4500,Surplus/(Deficit)
+352621169.0,DC32,2023,2900,Total Revenue (excluding capital transfers and contributions)
+372547024.0,DC32,2023,4400,Total Expenditure
+-19925855.0,DC32,2023,4500,Surplus/(Deficit)
+393866591.0,DC32,2024,2900,Total Revenue (excluding capital transfers and contributions)
+422490702.0,DC32,2024,4400,Total Expenditure
+-28624111.0,DC32,2024,4500,Surplus/(Deficit)
+1563752436.0,DC33,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1941091918.0,DC33,2023,4400,Total Expenditure
+-377339482.0,DC33,2023,4500,Surplus/(Deficit)
+1697131488.0,DC33,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2001831429.0,DC33,2024,4400,Total Expenditure
+-304699941.0,DC33,2024,4500,Surplus/(Deficit)
+2171716313.0,DC34,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2368078104.0,DC34,2023,4400,Total Expenditure
+-196361791.0,DC34,2023,4500,Surplus/(Deficit)
+1927061543.0,DC34,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2144825495.0,DC34,2024,4400,Total Expenditure
+-217763952.0,DC34,2024,4500,Surplus/(Deficit)
+969341424.0,DC35,2023,2900,Total Revenue (excluding capital transfers and contributions)
+902871216.0,DC35,2023,4400,Total Expenditure
+66470208.0,DC35,2023,4500,Surplus/(Deficit)
+990436491.0,DC35,2024,2900,Total Revenue (excluding capital transfers and contributions)
+992511252.0,DC35,2024,4400,Total Expenditure
+-2074761.0,DC35,2024,4500,Surplus/(Deficit)
+154937349.0,DC36,2023,2900,Total Revenue (excluding capital transfers and contributions)
+172276820.0,DC36,2023,4400,Total Expenditure
+-17339471.0,DC36,2023,4500,Surplus/(Deficit)
+159762842.0,DC36,2024,2900,Total Revenue (excluding capital transfers and contributions)
+180957320.0,DC36,2024,4400,Total Expenditure
+-21194478.0,DC36,2024,4500,Surplus/(Deficit)
+436853793.0,DC37,2024,2900,Total Revenue (excluding capital transfers and contributions)
+337657154.0,DC37,2024,4400,Total Expenditure
+99196639.0,DC37,2024,4500,Surplus/(Deficit)
+1009082299.0,DC38,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1601298911.0,DC38,2023,4400,Total Expenditure
+-592216612.0,DC38,2023,4500,Surplus/(Deficit)
+1030558273.0,DC38,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1301290721.0,DC38,2024,4400,Total Expenditure
+-270732448.0,DC38,2024,4500,Surplus/(Deficit)
+513741975.0,DC39,2024,2900,Total Revenue (excluding capital transfers and contributions)
+785840716.0,DC39,2024,4400,Total Expenditure
+-272098741.0,DC39,2024,4500,Surplus/(Deficit)
+415920528.0,DC4,2023,2900,Total Revenue (excluding capital transfers and contributions)
+433723835.0,DC4,2023,4400,Total Expenditure
+-17803307.0,DC4,2023,4500,Surplus/(Deficit)
+434774366.0,DC4,2024,2900,Total Revenue (excluding capital transfers and contributions)
+468139118.0,DC4,2024,4400,Total Expenditure
+-33364752.0,DC4,2024,4500,Surplus/(Deficit)
+225376645.0,DC40,2023,2900,Total Revenue (excluding capital transfers and contributions)
+233271122.0,DC40,2023,4400,Total Expenditure
+-7894477.0,DC40,2023,4500,Surplus/(Deficit)
+229477550.0,DC40,2024,2900,Total Revenue (excluding capital transfers and contributions)
+250043270.0,DC40,2024,4400,Total Expenditure
+-20565720.0,DC40,2024,4500,Surplus/(Deficit)
+395154319.0,DC42,2023,2900,Total Revenue (excluding capital transfers and contributions)
+399265084.0,DC42,2023,4400,Total Expenditure
+-4110765.0,DC42,2023,4500,Surplus/(Deficit)
+409965320.0,DC42,2024,2900,Total Revenue (excluding capital transfers and contributions)
+428395565.0,DC42,2024,4400,Total Expenditure
+-18430245.0,DC42,2024,4500,Surplus/(Deficit)
+560414150.0,DC43,2023,2900,Total Revenue (excluding capital transfers and contributions)
+635055761.0,DC43,2023,4400,Total Expenditure
+-74641611.0,DC43,2023,4500,Surplus/(Deficit)
+591885110.0,DC43,2024,2900,Total Revenue (excluding capital transfers and contributions)
+772459003.0,DC43,2024,4400,Total Expenditure
+-180573893.0,DC43,2024,4500,Surplus/(Deficit)
+847482920.0,DC44,2023,2900,Total Revenue (excluding capital transfers and contributions)
+816811174.0,DC44,2023,4400,Total Expenditure
+30671746.0,DC44,2023,4500,Surplus/(Deficit)
+908273337.0,DC44,2024,2900,Total Revenue (excluding capital transfers and contributions)
+876771761.0,DC44,2024,4400,Total Expenditure
+31501576.0,DC44,2024,4500,Surplus/(Deficit)
+162928180.0,DC45,2023,2900,Total Revenue (excluding capital transfers and contributions)
+170100536.0,DC45,2023,4400,Total Expenditure
+-7172356.0,DC45,2023,4500,Surplus/(Deficit)
+123499346.0,DC45,2024,2900,Total Revenue (excluding capital transfers and contributions)
+141487368.0,DC45,2024,4400,Total Expenditure
+-17988022.0,DC45,2024,4500,Surplus/(Deficit)
+1225081497.0,DC47,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1194907728.0,DC47,2023,4400,Total Expenditure
+30173769.0,DC47,2023,4500,Surplus/(Deficit)
+1287830467.0,DC47,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1593175037.0,DC47,2024,4400,Total Expenditure
+-305344570.0,DC47,2024,4500,Surplus/(Deficit)
+258452450.0,DC48,2023,2900,Total Revenue (excluding capital transfers and contributions)
+313115087.0,DC48,2023,4400,Total Expenditure
+-54662637.0,DC48,2023,4500,Surplus/(Deficit)
+278954771.0,DC48,2024,2900,Total Revenue (excluding capital transfers and contributions)
+356882180.0,DC48,2024,4400,Total Expenditure
+-77927409.0,DC48,2024,4500,Surplus/(Deficit)
+113457975.0,DC5,2023,2900,Total Revenue (excluding capital transfers and contributions)
+117703322.0,DC5,2023,4400,Total Expenditure
+-4245347.0,DC5,2023,4500,Surplus/(Deficit)
+121438412.0,DC5,2024,2900,Total Revenue (excluding capital transfers and contributions)
+122774340.0,DC5,2024,4400,Total Expenditure
+-1335928.0,DC5,2024,4500,Surplus/(Deficit)
+74064624.0,DC6,2023,2900,Total Revenue (excluding capital transfers and contributions)
+70276383.0,DC6,2023,4400,Total Expenditure
+3788241.0,DC6,2023,4500,Surplus/(Deficit)
+74719896.0,DC6,2024,2900,Total Revenue (excluding capital transfers and contributions)
+69843068.0,DC6,2024,4400,Total Expenditure
+4876828.0,DC6,2024,4500,Surplus/(Deficit)
+71324861.0,DC7,2023,2900,Total Revenue (excluding capital transfers and contributions)
+73127932.0,DC7,2023,4400,Total Expenditure
+-1803071.0,DC7,2023,4500,Surplus/(Deficit)
+75304376.0,DC7,2024,2900,Total Revenue (excluding capital transfers and contributions)
+80240231.0,DC7,2024,4400,Total Expenditure
+-4935855.0,DC7,2024,4500,Surplus/(Deficit)
+87560566.0,DC8,2023,2900,Total Revenue (excluding capital transfers and contributions)
+85686074.0,DC8,2023,4400,Total Expenditure
+1874492.0,DC8,2023,4500,Surplus/(Deficit)
+91474829.0,DC8,2024,2900,Total Revenue (excluding capital transfers and contributions)
+94955443.0,DC8,2024,4400,Total Expenditure
+-3480614.0,DC8,2024,4500,Surplus/(Deficit)
+147573035.0,DC9,2023,2900,Total Revenue (excluding capital transfers and contributions)
+139579633.0,DC9,2023,4400,Total Expenditure
+7993402.0,DC9,2023,4500,Surplus/(Deficit)
+155169308.0,DC9,2024,2900,Total Revenue (excluding capital transfers and contributions)
+152583048.0,DC9,2024,4400,Total Expenditure
+2586260.0,DC9,2024,4500,Surplus/(Deficit)
+405819177.0,EC101,2023,2900,Total Revenue (excluding capital transfers and contributions)
+478582326.0,EC101,2023,4400,Total Expenditure
+-72763149.0,EC101,2023,4500,Surplus/(Deficit)
+637738997.0,EC101,2024,2900,Total Revenue (excluding capital transfers and contributions)
+739002838.0,EC101,2024,4400,Total Expenditure
+-101263841.0,EC101,2024,4500,Surplus/(Deficit)
+282143462.0,EC102,2024,2900,Total Revenue (excluding capital transfers and contributions)
+397529176.0,EC102,2024,4400,Total Expenditure
+-115385714.0,EC102,2024,4500,Surplus/(Deficit)
+644009862.0,EC104,2023,2900,Total Revenue (excluding capital transfers and contributions)
+681258852.0,EC104,2023,4400,Total Expenditure
+-37248990.0,EC104,2023,4500,Surplus/(Deficit)
+777783605.0,EC104,2024,2900,Total Revenue (excluding capital transfers and contributions)
+842921883.0,EC104,2024,4400,Total Expenditure
+-65138278.0,EC104,2024,4500,Surplus/(Deficit)
+503884306.0,EC105,2023,2900,Total Revenue (excluding capital transfers and contributions)
+569082059.0,EC105,2023,4400,Total Expenditure
+-65197753.0,EC105,2023,4500,Surplus/(Deficit)
+522780248.0,EC105,2024,2900,Total Revenue (excluding capital transfers and contributions)
+617092296.0,EC105,2024,4400,Total Expenditure
+-94312048.0,EC105,2024,4500,Surplus/(Deficit)
+244528722.0,EC106,2023,2900,Total Revenue (excluding capital transfers and contributions)
+213443522.0,EC106,2023,4400,Total Expenditure
+31085200.0,EC106,2023,4500,Surplus/(Deficit)
+251388738.0,EC106,2024,2900,Total Revenue (excluding capital transfers and contributions)
+339517601.0,EC106,2024,4400,Total Expenditure
+-88128863.0,EC106,2024,4500,Surplus/(Deficit)
+1185175402.0,EC108,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1267964699.0,EC108,2023,4400,Total Expenditure
+-82789297.0,EC108,2023,4500,Surplus/(Deficit)
+1209933874.0,EC108,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1309281113.0,EC108,2024,4400,Total Expenditure
+-99347239.0,EC108,2024,4500,Surplus/(Deficit)
+172053488.0,EC109,2023,2900,Total Revenue (excluding capital transfers and contributions)
+210853805.0,EC109,2023,4400,Total Expenditure
+-38800317.0,EC109,2023,4500,Surplus/(Deficit)
+388210561.0,EC121,2023,2900,Total Revenue (excluding capital transfers and contributions)
+343874380.0,EC121,2023,4400,Total Expenditure
+44336181.0,EC121,2023,4500,Surplus/(Deficit)
+441043018.0,EC121,2024,2900,Total Revenue (excluding capital transfers and contributions)
+403030924.0,EC121,2024,4400,Total Expenditure
+38012094.0,EC121,2024,4500,Surplus/(Deficit)
+439368725.0,EC122,2023,2900,Total Revenue (excluding capital transfers and contributions)
+594270042.0,EC122,2023,4400,Total Expenditure
+-154901317.0,EC122,2023,4500,Surplus/(Deficit)
+474850466.0,EC122,2024,2900,Total Revenue (excluding capital transfers and contributions)
+767190162.0,EC122,2024,4400,Total Expenditure
+-292339696.0,EC122,2024,4500,Surplus/(Deficit)
+118924456.0,EC123,2023,2900,Total Revenue (excluding capital transfers and contributions)
+110903442.0,EC123,2023,4400,Total Expenditure
+8021014.0,EC123,2023,4500,Surplus/(Deficit)
+118635264.0,EC123,2024,2900,Total Revenue (excluding capital transfers and contributions)
+127968684.0,EC123,2024,4400,Total Expenditure
+-9333420.0,EC123,2024,4500,Surplus/(Deficit)
+225033864.0,EC124,2023,2900,Total Revenue (excluding capital transfers and contributions)
+298062290.0,EC124,2023,4400,Total Expenditure
+-73028426.0,EC124,2023,4500,Surplus/(Deficit)
+265440346.0,EC124,2024,2900,Total Revenue (excluding capital transfers and contributions)
+306106564.0,EC124,2024,4400,Total Expenditure
+-40666218.0,EC124,2024,4500,Surplus/(Deficit)
+148104355.0,EC126,2023,2900,Total Revenue (excluding capital transfers and contributions)
+157000201.0,EC126,2023,4400,Total Expenditure
+-8895846.0,EC126,2023,4500,Surplus/(Deficit)
+162311237.0,EC126,2024,2900,Total Revenue (excluding capital transfers and contributions)
+195406309.0,EC126,2024,4400,Total Expenditure
+-33095072.0,EC126,2024,4500,Surplus/(Deficit)
+517602370.0,EC129,2023,2900,Total Revenue (excluding capital transfers and contributions)
+431111484.0,EC129,2023,4400,Total Expenditure
+86490886.0,EC129,2023,4500,Surplus/(Deficit)
+523225201.0,EC129,2024,2900,Total Revenue (excluding capital transfers and contributions)
+781534664.0,EC129,2024,4400,Total Expenditure
+-258309463.0,EC129,2024,4500,Surplus/(Deficit)
+280683845.0,EC131,2023,2900,Total Revenue (excluding capital transfers and contributions)
+467701081.0,EC131,2023,4400,Total Expenditure
+-187017236.0,EC131,2023,4500,Surplus/(Deficit)
+325951926.0,EC131,2024,2900,Total Revenue (excluding capital transfers and contributions)
+396330157.0,EC131,2024,4400,Total Expenditure
+-70378231.0,EC131,2024,4500,Surplus/(Deficit)
+228066770.0,EC135,2023,2900,Total Revenue (excluding capital transfers and contributions)
+272946771.0,EC135,2023,4400,Total Expenditure
+-44880001.0,EC135,2023,4500,Surplus/(Deficit)
+244937121.0,EC135,2024,2900,Total Revenue (excluding capital transfers and contributions)
+343139526.0,EC135,2024,4400,Total Expenditure
+-98202405.0,EC135,2024,4500,Surplus/(Deficit)
+217247985.0,EC136,2023,2900,Total Revenue (excluding capital transfers and contributions)
+216569791.0,EC136,2023,4400,Total Expenditure
+678194.0,EC136,2023,4500,Surplus/(Deficit)
+278065360.0,EC136,2024,2900,Total Revenue (excluding capital transfers and contributions)
+267211510.0,EC136,2024,4400,Total Expenditure
+10853850.0,EC136,2024,4500,Surplus/(Deficit)
+216954472.0,EC137,2023,2900,Total Revenue (excluding capital transfers and contributions)
+327476669.0,EC137,2023,4400,Total Expenditure
+-110522197.0,EC137,2023,4500,Surplus/(Deficit)
+252336219.0,EC137,2024,2900,Total Revenue (excluding capital transfers and contributions)
+220275493.0,EC137,2024,4400,Total Expenditure
+32060726.0,EC137,2024,4500,Surplus/(Deficit)
+125152821.0,EC138,2023,2900,Total Revenue (excluding capital transfers and contributions)
+141670037.0,EC138,2023,4400,Total Expenditure
+-16517216.0,EC138,2023,4500,Surplus/(Deficit)
+148987868.0,EC138,2024,2900,Total Revenue (excluding capital transfers and contributions)
+186431235.0,EC138,2024,4400,Total Expenditure
+-37443367.0,EC138,2024,4500,Surplus/(Deficit)
+826234687.0,EC139,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1250804362.0,EC139,2023,4400,Total Expenditure
+-424569675.0,EC139,2023,4500,Surplus/(Deficit)
+1066210498.0,EC139,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1453273781.0,EC139,2024,4400,Total Expenditure
+-387063283.0,EC139,2024,4500,Surplus/(Deficit)
+281769883.0,EC141,2023,2900,Total Revenue (excluding capital transfers and contributions)
+353979973.0,EC141,2023,4400,Total Expenditure
+-72210090.0,EC141,2023,4500,Surplus/(Deficit)
+317601904.0,EC141,2024,2900,Total Revenue (excluding capital transfers and contributions)
+386723076.0,EC141,2024,4400,Total Expenditure
+-69121172.0,EC141,2024,4500,Surplus/(Deficit)
+305024825.0,EC142,2023,2900,Total Revenue (excluding capital transfers and contributions)
+291360497.0,EC142,2023,4400,Total Expenditure
+13664328.0,EC142,2023,4500,Surplus/(Deficit)
+344846599.0,EC142,2024,2900,Total Revenue (excluding capital transfers and contributions)
+316979304.0,EC142,2024,4400,Total Expenditure
+27867295.0,EC142,2024,4500,Surplus/(Deficit)
+353542625.0,EC145,2023,2900,Total Revenue (excluding capital transfers and contributions)
+409415948.0,EC145,2023,4400,Total Expenditure
+-55873323.0,EC145,2023,4500,Surplus/(Deficit)
+566373962.0,EC145,2024,2900,Total Revenue (excluding capital transfers and contributions)
+579443715.0,EC145,2024,4400,Total Expenditure
+-13069753.0,EC145,2024,4500,Surplus/(Deficit)
+379943082.0,EC153,2023,2900,Total Revenue (excluding capital transfers and contributions)
+396121121.0,EC153,2023,4400,Total Expenditure
+-16178039.0,EC153,2023,4500,Surplus/(Deficit)
+458103615.0,EC153,2024,2900,Total Revenue (excluding capital transfers and contributions)
+436478588.0,EC153,2024,4400,Total Expenditure
+21625027.0,EC153,2024,4500,Surplus/(Deficit)
+242222881.0,EC154,2023,2900,Total Revenue (excluding capital transfers and contributions)
+254344796.0,EC154,2023,4400,Total Expenditure
+-12121915.0,EC154,2023,4500,Surplus/(Deficit)
+244956257.0,EC154,2024,2900,Total Revenue (excluding capital transfers and contributions)
+326078786.0,EC154,2024,4400,Total Expenditure
+-81122529.0,EC154,2024,4500,Surplus/(Deficit)
+452717773.0,EC155,2023,2900,Total Revenue (excluding capital transfers and contributions)
+310356097.0,EC155,2023,4400,Total Expenditure
+142361676.0,EC155,2023,4500,Surplus/(Deficit)
+519082004.0,EC155,2024,2900,Total Revenue (excluding capital transfers and contributions)
+396198316.0,EC155,2024,4400,Total Expenditure
+122883688.0,EC155,2024,4500,Surplus/(Deficit)
+278339954.0,EC156,2023,2900,Total Revenue (excluding capital transfers and contributions)
+373898158.0,EC156,2023,4400,Total Expenditure
+-95558204.0,EC156,2023,4500,Surplus/(Deficit)
+288476689.0,EC156,2024,2900,Total Revenue (excluding capital transfers and contributions)
+335066483.0,EC156,2024,4400,Total Expenditure
+-46589794.0,EC156,2024,4500,Surplus/(Deficit)
+1431660290.0,EC157,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1619944870.0,EC157,2023,4400,Total Expenditure
+-188284580.0,EC157,2023,4500,Surplus/(Deficit)
+1595010261.0,EC157,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1810475431.0,EC157,2024,4400,Total Expenditure
+-215465170.0,EC157,2024,4500,Surplus/(Deficit)
+458263549.0,EC441,2023,2900,Total Revenue (excluding capital transfers and contributions)
+530390936.0,EC441,2023,4400,Total Expenditure
+-72127387.0,EC441,2023,4500,Surplus/(Deficit)
+535492489.0,EC441,2024,2900,Total Revenue (excluding capital transfers and contributions)
+601781398.0,EC441,2024,4400,Total Expenditure
+-66288909.0,EC441,2024,4500,Surplus/(Deficit)
+361248170.0,EC442,2023,2900,Total Revenue (excluding capital transfers and contributions)
+402554270.0,EC442,2023,4400,Total Expenditure
+-41306100.0,EC442,2023,4500,Surplus/(Deficit)
+374685197.0,EC442,2024,2900,Total Revenue (excluding capital transfers and contributions)
+443484860.0,EC442,2024,4400,Total Expenditure
+-68799663.0,EC442,2024,4500,Surplus/(Deficit)
+464268422.0,EC443,2023,2900,Total Revenue (excluding capital transfers and contributions)
+387801670.0,EC443,2023,4400,Total Expenditure
+76466752.0,EC443,2023,4500,Surplus/(Deficit)
+506651547.0,EC443,2024,2900,Total Revenue (excluding capital transfers and contributions)
+413139742.0,EC443,2024,4400,Total Expenditure
+93511805.0,EC443,2024,4500,Surplus/(Deficit)
+185150437.0,EC444,2023,2900,Total Revenue (excluding capital transfers and contributions)
+231749904.0,EC444,2023,4400,Total Expenditure
+-46599467.0,EC444,2023,4500,Surplus/(Deficit)
+197199279.0,EC444,2024,2900,Total Revenue (excluding capital transfers and contributions)
+221574896.0,EC444,2024,4400,Total Expenditure
+-24375617.0,EC444,2024,4500,Surplus/(Deficit)
+49343031878.0,EKU,2023,2900,Total Revenue (excluding capital transfers and contributions)
+50994538954.0,EKU,2023,4400,Total Expenditure
+-1651507076.0,EKU,2023,4500,Surplus/(Deficit)
+51635110646.0,EKU,2024,2900,Total Revenue (excluding capital transfers and contributions)
+53448163828.0,EKU,2024,4400,Total Expenditure
+-1813053182.0,EKU,2024,4500,Surplus/(Deficit)
+48864947760.0,ETH,2023,2900,Total Revenue (excluding capital transfers and contributions)
+46934843268.0,ETH,2023,4400,Total Expenditure
+1930104492.0,ETH,2023,4500,Surplus/(Deficit)
+54910296140.0,ETH,2024,2900,Total Revenue (excluding capital transfers and contributions)
+55488723579.0,ETH,2024,4400,Total Expenditure
+-578427439.0,ETH,2024,4500,Surplus/(Deficit)
+212722655.0,FS161,2023,2900,Total Revenue (excluding capital transfers and contributions)
+159919333.0,FS161,2023,4400,Total Expenditure
+52803322.0,FS161,2023,4500,Surplus/(Deficit)
+247513684.0,FS161,2024,2900,Total Revenue (excluding capital transfers and contributions)
+359879785.0,FS161,2024,4400,Total Expenditure
+-112366101.0,FS161,2024,4500,Surplus/(Deficit)
+402078676.0,FS162,2024,2900,Total Revenue (excluding capital transfers and contributions)
+580773525.0,FS162,2024,4400,Total Expenditure
+-178694849.0,FS162,2024,4500,Surplus/(Deficit)
+226912897.0,FS163,2024,2900,Total Revenue (excluding capital transfers and contributions)
+310054877.0,FS163,2024,4400,Total Expenditure
+-83141980.0,FS163,2024,4500,Surplus/(Deficit)
+144807861.0,FS181,2023,2900,Total Revenue (excluding capital transfers and contributions)
+68257592.0,FS181,2023,4400,Total Expenditure
+76550269.0,FS181,2023,4500,Surplus/(Deficit)
+192538000.0,FS182,2023,2900,Total Revenue (excluding capital transfers and contributions)
+278803152.0,FS182,2023,4400,Total Expenditure
+-86265152.0,FS182,2023,4500,Surplus/(Deficit)
+203044867.0,FS182,2024,2900,Total Revenue (excluding capital transfers and contributions)
+382702372.0,FS182,2024,4400,Total Expenditure
+-179657505.0,FS182,2024,4500,Surplus/(Deficit)
+213497472.0,FS183,2023,2900,Total Revenue (excluding capital transfers and contributions)
+297013597.0,FS183,2023,4400,Total Expenditure
+-83516125.0,FS183,2023,4500,Surplus/(Deficit)
+232413106.0,FS183,2024,2900,Total Revenue (excluding capital transfers and contributions)
+311980602.0,FS183,2024,4400,Total Expenditure
+-79567496.0,FS183,2024,4500,Surplus/(Deficit)
+2918295512.0,FS184,2023,2900,Total Revenue (excluding capital transfers and contributions)
+4290332376.0,FS184,2023,4400,Total Expenditure
+-1372036864.0,FS184,2023,4500,Surplus/(Deficit)
+3732410091.0,FS184,2024,2900,Total Revenue (excluding capital transfers and contributions)
+4530281003.0,FS184,2024,4400,Total Expenditure
+-797870912.0,FS184,2024,4500,Surplus/(Deficit)
+638192049.0,FS191,2023,2900,Total Revenue (excluding capital transfers and contributions)
+774153182.0,FS191,2023,4400,Total Expenditure
+-135961133.0,FS191,2023,4500,Surplus/(Deficit)
+672129668.0,FS191,2024,2900,Total Revenue (excluding capital transfers and contributions)
+844513526.0,FS191,2024,4400,Total Expenditure
+-172383858.0,FS191,2024,4500,Surplus/(Deficit)
+870454929.0,FS192,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1129237761.0,FS192,2023,4400,Total Expenditure
+-258782832.0,FS192,2023,4500,Surplus/(Deficit)
+1234345533.0,FS192,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1240146483.0,FS192,2024,4400,Total Expenditure
+-5800950.0,FS192,2024,4500,Surplus/(Deficit)
+513015119.0,FS193,2023,2900,Total Revenue (excluding capital transfers and contributions)
+746213230.0,FS193,2023,4400,Total Expenditure
+-233198111.0,FS193,2023,4500,Surplus/(Deficit)
+645864083.0,FS193,2024,2900,Total Revenue (excluding capital transfers and contributions)
+977621116.0,FS193,2024,4400,Total Expenditure
+-331757033.0,FS193,2024,4500,Surplus/(Deficit)
+1388999681.0,FS194,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2500845206.0,FS194,2023,4400,Total Expenditure
+-1111845525.0,FS194,2023,4500,Surplus/(Deficit)
+1533097734.0,FS194,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2960781938.0,FS194,2024,4400,Total Expenditure
+-1427684204.0,FS194,2024,4500,Surplus/(Deficit)
+222533305.0,FS195,2023,2900,Total Revenue (excluding capital transfers and contributions)
+256481679.0,FS195,2023,4400,Total Expenditure
+-33948374.0,FS195,2023,4500,Surplus/(Deficit)
+300584534.0,FS195,2024,2900,Total Revenue (excluding capital transfers and contributions)
+326916213.0,FS195,2024,4400,Total Expenditure
+-26331679.0,FS195,2024,4500,Surplus/(Deficit)
+340026408.0,FS196,2023,2900,Total Revenue (excluding capital transfers and contributions)
+363771554.0,FS196,2023,4400,Total Expenditure
+-23745146.0,FS196,2023,4500,Surplus/(Deficit)
+1015052874.0,FS201,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1450780192.0,FS201,2023,4400,Total Expenditure
+-435727318.0,FS201,2023,4500,Surplus/(Deficit)
+1214593440.0,FS201,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1437561544.0,FS201,2024,4400,Total Expenditure
+-222968104.0,FS201,2024,4500,Surplus/(Deficit)
+799499923.0,FS203,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1099852796.0,FS203,2023,4400,Total Expenditure
+-300352873.0,FS203,2023,4500,Surplus/(Deficit)
+1073831651.0,FS203,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1230470137.0,FS203,2024,4400,Total Expenditure
+-156638486.0,FS203,2024,4500,Surplus/(Deficit)
+1484086396.0,FS204,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1582434284.0,FS204,2023,4400,Total Expenditure
+-98347888.0,FS204,2023,4500,Surplus/(Deficit)
+1703703259.0,FS204,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1807816222.0,FS204,2024,4400,Total Expenditure
+-104112963.0,FS204,2024,4500,Surplus/(Deficit)
+7226795762.0,GT421,2023,2900,Total Revenue (excluding capital transfers and contributions)
+9130260125.0,GT421,2023,4400,Total Expenditure
+-1903464363.0,GT421,2023,4500,Surplus/(Deficit)
+7871949033.0,GT421,2024,2900,Total Revenue (excluding capital transfers and contributions)
+9298491554.0,GT421,2024,4400,Total Expenditure
+-1426542521.0,GT421,2024,4500,Surplus/(Deficit)
+1421662992.0,GT422,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1379006892.0,GT422,2023,4400,Total Expenditure
+42656100.0,GT422,2023,4500,Surplus/(Deficit)
+1540418589.0,GT422,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1612006640.0,GT422,2024,4400,Total Expenditure
+-71588051.0,GT422,2024,4500,Surplus/(Deficit)
+1031014295.0,GT423,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1389535854.0,GT423,2023,4400,Total Expenditure
+-358521559.0,GT423,2023,4500,Surplus/(Deficit)
+1168639478.0,GT423,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1300145580.0,GT423,2024,4400,Total Expenditure
+-131506102.0,GT423,2024,4500,Surplus/(Deficit)
+3469113639.0,GT481,2023,2900,Total Revenue (excluding capital transfers and contributions)
+3617873733.0,GT481,2023,4400,Total Expenditure
+-148760094.0,GT481,2023,4500,Surplus/(Deficit)
+4066991958.0,GT481,2024,2900,Total Revenue (excluding capital transfers and contributions)
+3919193286.0,GT481,2024,4400,Total Expenditure
+147798672.0,GT481,2024,4500,Surplus/(Deficit)
+1979688221.0,GT484,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2396663639.0,GT484,2023,4400,Total Expenditure
+-416975418.0,GT484,2023,4500,Surplus/(Deficit)
+2575440000.0,GT484,2024,2900,Total Revenue (excluding capital transfers and contributions)
+3260953182.0,GT484,2024,4400,Total Expenditure
+-685513182.0,GT484,2024,4500,Surplus/(Deficit)
+2308440567.0,GT485,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2787469403.0,GT485,2023,4400,Total Expenditure
+-479028836.0,GT485,2023,4500,Surplus/(Deficit)
+2844787855.0,GT485,2024,2900,Total Revenue (excluding capital transfers and contributions)
+3192980755.0,GT485,2024,4400,Total Expenditure
+-348192900.0,GT485,2024,4500,Surplus/(Deficit)
+60648176628.0,JHB,2023,2900,Total Revenue (excluding capital transfers and contributions)
+61017743170.0,JHB,2023,4400,Total Expenditure
+-369566542.0,JHB,2023,4500,Surplus/(Deficit)
+71189750980.0,JHB,2024,2900,Total Revenue (excluding capital transfers and contributions)
+74870489318.0,JHB,2024,4400,Total Expenditure
+-3680738338.0,JHB,2024,4500,Surplus/(Deficit)
+348491179.0,KZN212,2023,2900,Total Revenue (excluding capital transfers and contributions)
+367551435.0,KZN212,2023,4400,Total Expenditure
+-19060256.0,KZN212,2023,4500,Surplus/(Deficit)
+376202348.0,KZN212,2024,2900,Total Revenue (excluding capital transfers and contributions)
+413535858.0,KZN212,2024,4400,Total Expenditure
+-37333510.0,KZN212,2024,4500,Surplus/(Deficit)
+177965666.0,KZN213,2023,2900,Total Revenue (excluding capital transfers and contributions)
+253218944.0,KZN213,2023,4400,Total Expenditure
+-75253278.0,KZN213,2023,4500,Surplus/(Deficit)
+189500694.0,KZN213,2024,2900,Total Revenue (excluding capital transfers and contributions)
+247251426.0,KZN213,2024,4400,Total Expenditure
+-57750732.0,KZN213,2024,4500,Surplus/(Deficit)
+205616786.0,KZN214,2023,2900,Total Revenue (excluding capital transfers and contributions)
+245154283.0,KZN214,2023,4400,Total Expenditure
+-39537497.0,KZN214,2023,4500,Surplus/(Deficit)
+204683601.0,KZN214,2024,2900,Total Revenue (excluding capital transfers and contributions)
+294963921.0,KZN214,2024,4400,Total Expenditure
+-90280320.0,KZN214,2024,4500,Surplus/(Deficit)
+1126895082.0,KZN216,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1163606447.0,KZN216,2023,4400,Total Expenditure
+-36711365.0,KZN216,2023,4500,Surplus/(Deficit)
+1328475111.0,KZN216,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1338504080.0,KZN216,2024,4400,Total Expenditure
+-10028969.0,KZN216,2024,4500,Surplus/(Deficit)
+211623353.0,KZN221,2023,2900,Total Revenue (excluding capital transfers and contributions)
+254458531.0,KZN221,2023,4400,Total Expenditure
+-42835178.0,KZN221,2023,4500,Surplus/(Deficit)
+227264005.0,KZN221,2024,2900,Total Revenue (excluding capital transfers and contributions)
+230208157.0,KZN221,2024,4400,Total Expenditure
+-2944152.0,KZN221,2024,4500,Surplus/(Deficit)
+475028372.0,KZN222,2023,2900,Total Revenue (excluding capital transfers and contributions)
+608382200.0,KZN222,2023,4400,Total Expenditure
+-133353828.0,KZN222,2023,4500,Surplus/(Deficit)
+528341968.0,KZN222,2024,2900,Total Revenue (excluding capital transfers and contributions)
+503687096.0,KZN222,2024,4400,Total Expenditure
+24654872.0,KZN222,2024,4500,Surplus/(Deficit)
+159906901.0,KZN223,2023,2900,Total Revenue (excluding capital transfers and contributions)
+279005371.0,KZN223,2023,4400,Total Expenditure
+-119098470.0,KZN223,2023,4500,Surplus/(Deficit)
+204193396.0,KZN223,2024,2900,Total Revenue (excluding capital transfers and contributions)
+301766323.0,KZN223,2024,4400,Total Expenditure
+-97572927.0,KZN223,2024,4500,Surplus/(Deficit)
+65351456.0,KZN224,2023,2900,Total Revenue (excluding capital transfers and contributions)
+76835881.0,KZN224,2023,4400,Total Expenditure
+-11484425.0,KZN224,2023,4500,Surplus/(Deficit)
+67603271.0,KZN224,2024,2900,Total Revenue (excluding capital transfers and contributions)
+90779750.0,KZN224,2024,4400,Total Expenditure
+-23176479.0,KZN224,2024,4500,Surplus/(Deficit)
+6427061377.0,KZN225,2023,2900,Total Revenue (excluding capital transfers and contributions)
+6225701940.0,KZN225,2023,4400,Total Expenditure
+201359437.0,KZN225,2023,4500,Surplus/(Deficit)
+6927536750.0,KZN225,2024,2900,Total Revenue (excluding capital transfers and contributions)
+8034115714.0,KZN225,2024,4400,Total Expenditure
+-1106578964.0,KZN225,2024,4500,Surplus/(Deficit)
+138531294.0,KZN226,2023,2900,Total Revenue (excluding capital transfers and contributions)
+162518932.0,KZN226,2023,4400,Total Expenditure
+-23987638.0,KZN226,2023,4500,Surplus/(Deficit)
+227390141.0,KZN226,2024,2900,Total Revenue (excluding capital transfers and contributions)
+246851092.0,KZN226,2024,4400,Total Expenditure
+-19460951.0,KZN226,2024,4500,Surplus/(Deficit)
+140755566.0,KZN227,2023,2900,Total Revenue (excluding capital transfers and contributions)
+155560698.0,KZN227,2023,4400,Total Expenditure
+-14805132.0,KZN227,2023,4500,Surplus/(Deficit)
+147927560.0,KZN227,2024,2900,Total Revenue (excluding capital transfers and contributions)
+170010344.0,KZN227,2024,4400,Total Expenditure
+-22082784.0,KZN227,2024,4500,Surplus/(Deficit)
+210166433.0,KZN235,2023,2900,Total Revenue (excluding capital transfers and contributions)
+266107591.0,KZN235,2023,4400,Total Expenditure
+-55941158.0,KZN235,2023,4500,Surplus/(Deficit)
+220035582.0,KZN235,2024,2900,Total Revenue (excluding capital transfers and contributions)
+285890336.0,KZN235,2024,4400,Total Expenditure
+-65854754.0,KZN235,2024,4500,Surplus/(Deficit)
+692557605.0,KZN237,2023,2900,Total Revenue (excluding capital transfers and contributions)
+749667786.0,KZN237,2023,4400,Total Expenditure
+-57110181.0,KZN237,2023,4500,Surplus/(Deficit)
+757038302.0,KZN237,2024,2900,Total Revenue (excluding capital transfers and contributions)
+816617105.0,KZN237,2024,4400,Total Expenditure
+-59578803.0,KZN237,2024,4500,Surplus/(Deficit)
+1190111164.0,KZN238,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1152914668.0,KZN238,2023,4400,Total Expenditure
+37196496.0,KZN238,2023,4500,Surplus/(Deficit)
+1464631874.0,KZN238,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1291606793.0,KZN238,2024,4400,Total Expenditure
+173025081.0,KZN238,2024,4500,Surplus/(Deficit)
+341768022.0,KZN241,2023,2900,Total Revenue (excluding capital transfers and contributions)
+457744000.0,KZN241,2023,4400,Total Expenditure
+-115975978.0,KZN241,2023,4500,Surplus/(Deficit)
+389123942.0,KZN241,2024,2900,Total Revenue (excluding capital transfers and contributions)
+456733638.0,KZN241,2024,4400,Total Expenditure
+-67609696.0,KZN241,2024,4500,Surplus/(Deficit)
+254997197.0,KZN242,2023,2900,Total Revenue (excluding capital transfers and contributions)
+275389463.0,KZN242,2023,4400,Total Expenditure
+-20392266.0,KZN242,2023,4500,Surplus/(Deficit)
+284220386.0,KZN242,2024,2900,Total Revenue (excluding capital transfers and contributions)
+325123918.0,KZN242,2024,4400,Total Expenditure
+-40903532.0,KZN242,2024,4500,Surplus/(Deficit)
+265253714.0,KZN244,2023,2900,Total Revenue (excluding capital transfers and contributions)
+279739388.0,KZN244,2023,4400,Total Expenditure
+-14485674.0,KZN244,2023,4500,Surplus/(Deficit)
+471802167.0,KZN244,2024,2900,Total Revenue (excluding capital transfers and contributions)
+368308356.0,KZN244,2024,4400,Total Expenditure
+103493811.0,KZN244,2024,4500,Surplus/(Deficit)
+363077616.0,KZN245,2023,2900,Total Revenue (excluding capital transfers and contributions)
+412807572.0,KZN245,2023,4400,Total Expenditure
+-49729956.0,KZN245,2023,4500,Surplus/(Deficit)
+389121065.0,KZN245,2024,2900,Total Revenue (excluding capital transfers and contributions)
+444737208.0,KZN245,2024,4400,Total Expenditure
+-55616143.0,KZN245,2024,4500,Surplus/(Deficit)
+2103840119.0,KZN252,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2641309709.0,KZN252,2023,4400,Total Expenditure
+-537469590.0,KZN252,2023,4500,Surplus/(Deficit)
+2405952145.0,KZN252,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2942772219.0,KZN252,2024,4400,Total Expenditure
+-536820074.0,KZN252,2024,4500,Surplus/(Deficit)
+93091081.0,KZN253,2023,2900,Total Revenue (excluding capital transfers and contributions)
+141455211.0,KZN253,2023,4400,Total Expenditure
+-48364130.0,KZN253,2023,4500,Surplus/(Deficit)
+113246879.0,KZN253,2024,2900,Total Revenue (excluding capital transfers and contributions)
+167948705.0,KZN253,2024,4400,Total Expenditure
+-54701826.0,KZN253,2024,4500,Surplus/(Deficit)
+154450616.0,KZN254,2023,2900,Total Revenue (excluding capital transfers and contributions)
+235760444.0,KZN254,2023,4400,Total Expenditure
+-81309828.0,KZN254,2023,4500,Surplus/(Deficit)
+172295158.0,KZN254,2024,2900,Total Revenue (excluding capital transfers and contributions)
+192881635.0,KZN254,2024,4400,Total Expenditure
+-20586477.0,KZN254,2024,4500,Surplus/(Deficit)
+181499204.0,KZN261,2023,2900,Total Revenue (excluding capital transfers and contributions)
+195550684.0,KZN261,2023,4400,Total Expenditure
+-14051480.0,KZN261,2023,4500,Surplus/(Deficit)
+274356335.0,KZN261,2024,2900,Total Revenue (excluding capital transfers and contributions)
+238417493.0,KZN261,2024,4400,Total Expenditure
+35938842.0,KZN261,2024,4500,Surplus/(Deficit)
+311470171.0,KZN262,2023,2900,Total Revenue (excluding capital transfers and contributions)
+326843940.0,KZN262,2023,4400,Total Expenditure
+-15373769.0,KZN262,2023,4500,Surplus/(Deficit)
+322069925.0,KZN262,2024,2900,Total Revenue (excluding capital transfers and contributions)
+403441968.0,KZN262,2024,4400,Total Expenditure
+-81372043.0,KZN262,2024,4500,Surplus/(Deficit)
+689033822.0,KZN263,2023,2900,Total Revenue (excluding capital transfers and contributions)
+864984078.0,KZN263,2023,4400,Total Expenditure
+-175950256.0,KZN263,2023,4500,Surplus/(Deficit)
+760730516.0,KZN263,2024,2900,Total Revenue (excluding capital transfers and contributions)
+998252174.0,KZN263,2024,4400,Total Expenditure
+-237521658.0,KZN263,2024,4500,Surplus/(Deficit)
+237434521.0,KZN265,2023,2900,Total Revenue (excluding capital transfers and contributions)
+276581847.0,KZN265,2023,4400,Total Expenditure
+-39147326.0,KZN265,2023,4500,Surplus/(Deficit)
+248714945.0,KZN265,2024,2900,Total Revenue (excluding capital transfers and contributions)
+303985891.0,KZN265,2024,4400,Total Expenditure
+-55270946.0,KZN265,2024,4500,Surplus/(Deficit)
+407388983.0,KZN266,2023,2900,Total Revenue (excluding capital transfers and contributions)
+510084259.0,KZN266,2023,4400,Total Expenditure
+-102695276.0,KZN266,2023,4500,Surplus/(Deficit)
+490018057.0,KZN266,2024,2900,Total Revenue (excluding capital transfers and contributions)
+624997463.0,KZN266,2024,4400,Total Expenditure
+-134979406.0,KZN266,2024,4500,Surplus/(Deficit)
+257069801.0,KZN271,2023,2900,Total Revenue (excluding capital transfers and contributions)
+271820017.0,KZN271,2023,4400,Total Expenditure
+-14750216.0,KZN271,2023,4500,Surplus/(Deficit)
+279352556.0,KZN271,2024,2900,Total Revenue (excluding capital transfers and contributions)
+348885362.0,KZN271,2024,4400,Total Expenditure
+-69532806.0,KZN271,2024,4500,Surplus/(Deficit)
+294840802.0,KZN272,2023,2900,Total Revenue (excluding capital transfers and contributions)
+415901438.0,KZN272,2023,4400,Total Expenditure
+-121060636.0,KZN272,2023,4500,Surplus/(Deficit)
+329303464.0,KZN272,2024,2900,Total Revenue (excluding capital transfers and contributions)
+393888130.0,KZN272,2024,4400,Total Expenditure
+-64584666.0,KZN272,2024,4500,Surplus/(Deficit)
+303756573.0,KZN275,2023,2900,Total Revenue (excluding capital transfers and contributions)
+356751132.0,KZN275,2023,4400,Total Expenditure
+-52994559.0,KZN275,2023,4500,Surplus/(Deficit)
+392630295.0,KZN275,2024,2900,Total Revenue (excluding capital transfers and contributions)
+354169306.0,KZN275,2024,4400,Total Expenditure
+38460989.0,KZN275,2024,4500,Surplus/(Deficit)
+188744111.0,KZN276,2023,2900,Total Revenue (excluding capital transfers and contributions)
+187987972.0,KZN276,2023,4400,Total Expenditure
+756139.0,KZN276,2023,4500,Surplus/(Deficit)
+201390317.0,KZN276,2024,2900,Total Revenue (excluding capital transfers and contributions)
+206205395.0,KZN276,2024,4400,Total Expenditure
+-4815078.0,KZN276,2024,4500,Surplus/(Deficit)
+208555262.0,KZN281,2023,2900,Total Revenue (excluding capital transfers and contributions)
+236416236.0,KZN281,2023,4400,Total Expenditure
+-27860974.0,KZN281,2023,4500,Surplus/(Deficit)
+242389741.0,KZN281,2024,2900,Total Revenue (excluding capital transfers and contributions)
+258729613.0,KZN281,2024,4400,Total Expenditure
+-16339872.0,KZN281,2024,4500,Surplus/(Deficit)
+4615444673.0,KZN282,2023,2900,Total Revenue (excluding capital transfers and contributions)
+4773587782.0,KZN282,2023,4400,Total Expenditure
+-158143109.0,KZN282,2023,4500,Surplus/(Deficit)
+5007621931.0,KZN282,2024,2900,Total Revenue (excluding capital transfers and contributions)
+5256459101.0,KZN282,2024,4400,Total Expenditure
+-248837170.0,KZN282,2024,4500,Surplus/(Deficit)
+432117271.0,KZN284,2023,2900,Total Revenue (excluding capital transfers and contributions)
+497581200.0,KZN284,2023,4400,Total Expenditure
+-65463929.0,KZN284,2023,4500,Surplus/(Deficit)
+470686985.0,KZN284,2024,2900,Total Revenue (excluding capital transfers and contributions)
+523258569.0,KZN284,2024,4400,Total Expenditure
+-52571584.0,KZN284,2024,4500,Surplus/(Deficit)
+160138224.0,KZN285,2023,2900,Total Revenue (excluding capital transfers and contributions)
+214030563.0,KZN285,2023,4400,Total Expenditure
+-53892339.0,KZN285,2023,4500,Surplus/(Deficit)
+174919266.0,KZN285,2024,2900,Total Revenue (excluding capital transfers and contributions)
+230246494.0,KZN285,2024,4400,Total Expenditure
+-55327228.0,KZN285,2024,4500,Surplus/(Deficit)
+200290552.0,KZN286,2023,2900,Total Revenue (excluding capital transfers and contributions)
+232524503.0,KZN286,2023,4400,Total Expenditure
+-32233951.0,KZN286,2023,4500,Surplus/(Deficit)
+219181764.0,KZN286,2024,2900,Total Revenue (excluding capital transfers and contributions)
+218980092.0,KZN286,2024,4400,Total Expenditure
+201672.0,KZN286,2024,4500,Surplus/(Deficit)
+467275458.0,KZN291,2023,2900,Total Revenue (excluding capital transfers and contributions)
+340533543.0,KZN291,2023,4400,Total Expenditure
+126741915.0,KZN291,2023,4500,Surplus/(Deficit)
+423766751.0,KZN291,2024,2900,Total Revenue (excluding capital transfers and contributions)
+398005823.0,KZN291,2024,4400,Total Expenditure
+25760928.0,KZN291,2024,4500,Surplus/(Deficit)
+2225253223.0,KZN292,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2169314064.0,KZN292,2023,4400,Total Expenditure
+55939159.0,KZN292,2023,4500,Surplus/(Deficit)
+2608355902.0,KZN292,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2545849326.0,KZN292,2024,4400,Total Expenditure
+62506576.0,KZN292,2024,4500,Surplus/(Deficit)
+220275432.0,KZN293,2023,2900,Total Revenue (excluding capital transfers and contributions)
+230268508.0,KZN293,2023,4400,Total Expenditure
+-9993076.0,KZN293,2023,4500,Surplus/(Deficit)
+249601386.0,KZN293,2024,2900,Total Revenue (excluding capital transfers and contributions)
+282176321.0,KZN293,2024,4400,Total Expenditure
+-32574935.0,KZN293,2024,4500,Surplus/(Deficit)
+168878667.0,KZN294,2023,2900,Total Revenue (excluding capital transfers and contributions)
+177715906.0,KZN294,2023,4400,Total Expenditure
+-8837239.0,KZN294,2023,4500,Surplus/(Deficit)
+169611958.0,KZN294,2024,2900,Total Revenue (excluding capital transfers and contributions)
+178215937.0,KZN294,2024,4400,Total Expenditure
+-8603979.0,KZN294,2024,4500,Surplus/(Deficit)
+451296049.0,KZN433,2023,2900,Total Revenue (excluding capital transfers and contributions)
+444854395.0,KZN433,2023,4400,Total Expenditure
+6441654.0,KZN433,2023,4500,Surplus/(Deficit)
+507824532.0,KZN433,2024,2900,Total Revenue (excluding capital transfers and contributions)
+506815447.0,KZN433,2024,4400,Total Expenditure
+1009085.0,KZN433,2024,4500,Surplus/(Deficit)
+193975881.0,KZN434,2023,2900,Total Revenue (excluding capital transfers and contributions)
+207367823.0,KZN434,2023,4400,Total Expenditure
+-13391942.0,KZN434,2023,4500,Surplus/(Deficit)
+265179407.0,KZN434,2024,2900,Total Revenue (excluding capital transfers and contributions)
+248827457.0,KZN434,2024,4400,Total Expenditure
+16351950.0,KZN434,2024,4500,Surplus/(Deficit)
+277033973.0,KZN435,2023,2900,Total Revenue (excluding capital transfers and contributions)
+312671819.0,KZN435,2023,4400,Total Expenditure
+-35637846.0,KZN435,2023,4500,Surplus/(Deficit)
+292248442.0,KZN435,2024,2900,Total Revenue (excluding capital transfers and contributions)
+325516847.0,KZN435,2024,4400,Total Expenditure
+-33268405.0,KZN435,2024,4500,Surplus/(Deficit)
+234299216.0,KZN436,2023,2900,Total Revenue (excluding capital transfers and contributions)
+230151431.0,KZN436,2023,4400,Total Expenditure
+4147785.0,KZN436,2023,4500,Surplus/(Deficit)
+264411039.0,KZN436,2024,2900,Total Revenue (excluding capital transfers and contributions)
+276902496.0,KZN436,2024,4400,Total Expenditure
+-12491457.0,KZN436,2024,4500,Surplus/(Deficit)
+550198480.0,LIM331,2023,2900,Total Revenue (excluding capital transfers and contributions)
+562233257.0,LIM331,2023,4400,Total Expenditure
+-12034777.0,LIM331,2023,4500,Surplus/(Deficit)
+566351784.0,LIM331,2024,2900,Total Revenue (excluding capital transfers and contributions)
+586171419.0,LIM331,2024,4400,Total Expenditure
+-19819635.0,LIM331,2024,4500,Surplus/(Deficit)
+448187952.0,LIM332,2023,2900,Total Revenue (excluding capital transfers and contributions)
+457444729.0,LIM332,2023,4400,Total Expenditure
+-9256777.0,LIM332,2023,4500,Surplus/(Deficit)
+477369522.0,LIM332,2024,2900,Total Revenue (excluding capital transfers and contributions)
+520028505.0,LIM332,2024,4400,Total Expenditure
+-42658983.0,LIM332,2024,4500,Surplus/(Deficit)
+1459690923.0,LIM333,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1457859393.0,LIM333,2023,4400,Total Expenditure
+1831530.0,LIM333,2023,4500,Surplus/(Deficit)
+1648183515.0,LIM333,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1504251233.0,LIM333,2024,4400,Total Expenditure
+143932282.0,LIM333,2024,4500,Surplus/(Deficit)
+562020403.0,LIM334,2023,2900,Total Revenue (excluding capital transfers and contributions)
+448700020.0,LIM334,2023,4400,Total Expenditure
+113320383.0,LIM334,2023,4500,Surplus/(Deficit)
+553272374.0,LIM334,2024,2900,Total Revenue (excluding capital transfers and contributions)
+817887412.0,LIM334,2024,4400,Total Expenditure
+-264615038.0,LIM334,2024,4500,Surplus/(Deficit)
+324107619.0,LIM335,2023,2900,Total Revenue (excluding capital transfers and contributions)
+250631341.0,LIM335,2023,4400,Total Expenditure
+73476278.0,LIM335,2023,4500,Surplus/(Deficit)
+390238088.0,LIM335,2024,2900,Total Revenue (excluding capital transfers and contributions)
+292370169.0,LIM335,2024,4400,Total Expenditure
+97867919.0,LIM335,2024,4500,Surplus/(Deficit)
+780678300.0,LIM341,2023,2900,Total Revenue (excluding capital transfers and contributions)
+436975542.0,LIM341,2023,4400,Total Expenditure
+343702758.0,LIM341,2023,4500,Surplus/(Deficit)
+502243503.0,LIM341,2024,2900,Total Revenue (excluding capital transfers and contributions)
+486788946.0,LIM341,2024,4400,Total Expenditure
+15454557.0,LIM341,2024,4500,Surplus/(Deficit)
+829146970.0,LIM343,2023,2900,Total Revenue (excluding capital transfers and contributions)
+836738037.0,LIM343,2023,4400,Total Expenditure
+-7591067.0,LIM343,2023,4500,Surplus/(Deficit)
+900593145.0,LIM343,2024,2900,Total Revenue (excluding capital transfers and contributions)
+899411854.0,LIM343,2024,4400,Total Expenditure
+1181291.0,LIM343,2024,4500,Surplus/(Deficit)
+1075893315.0,LIM344,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1191149704.0,LIM344,2023,4400,Total Expenditure
+-115256389.0,LIM344,2023,4500,Surplus/(Deficit)
+1154499642.0,LIM344,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1297328735.0,LIM344,2024,4400,Total Expenditure
+-142829093.0,LIM344,2024,4500,Surplus/(Deficit)
+593673986.0,LIM345,2023,2900,Total Revenue (excluding capital transfers and contributions)
+548134285.0,LIM345,2023,4400,Total Expenditure
+45539701.0,LIM345,2023,4500,Surplus/(Deficit)
+604885833.0,LIM345,2024,2900,Total Revenue (excluding capital transfers and contributions)
+596646686.0,LIM345,2024,4400,Total Expenditure
+8239147.0,LIM345,2024,4500,Surplus/(Deficit)
+319733052.0,LIM351,2023,2900,Total Revenue (excluding capital transfers and contributions)
+409711274.0,LIM351,2023,4400,Total Expenditure
+-89978222.0,LIM351,2023,4500,Surplus/(Deficit)
+373602909.0,LIM351,2024,2900,Total Revenue (excluding capital transfers and contributions)
+349678021.0,LIM351,2024,4400,Total Expenditure
+23924888.0,LIM351,2024,4500,Surplus/(Deficit)
+234767452.0,LIM353,2023,2900,Total Revenue (excluding capital transfers and contributions)
+241655543.0,LIM353,2023,4400,Total Expenditure
+-6888091.0,LIM353,2023,4500,Surplus/(Deficit)
+285440010.0,LIM353,2024,2900,Total Revenue (excluding capital transfers and contributions)
+274033614.0,LIM353,2024,4400,Total Expenditure
+11406396.0,LIM353,2024,4500,Surplus/(Deficit)
+4169977110.0,LIM354,2023,2900,Total Revenue (excluding capital transfers and contributions)
+5109414602.0,LIM354,2023,4400,Total Expenditure
+-939437492.0,LIM354,2023,4500,Surplus/(Deficit)
+4470687744.0,LIM354,2024,2900,Total Revenue (excluding capital transfers and contributions)
+5311959607.0,LIM354,2024,4400,Total Expenditure
+-841271863.0,LIM354,2024,4500,Surplus/(Deficit)
+446351491.0,LIM355,2023,2900,Total Revenue (excluding capital transfers and contributions)
+370908448.0,LIM355,2023,4400,Total Expenditure
+75443043.0,LIM355,2023,4500,Surplus/(Deficit)
+487302126.0,LIM355,2024,2900,Total Revenue (excluding capital transfers and contributions)
+359576632.0,LIM355,2024,4400,Total Expenditure
+127725494.0,LIM355,2024,4500,Surplus/(Deficit)
+432772377.0,LIM361,2023,2900,Total Revenue (excluding capital transfers and contributions)
+453359188.0,LIM361,2023,4400,Total Expenditure
+-20586811.0,LIM361,2023,4500,Surplus/(Deficit)
+443010378.0,LIM361,2024,2900,Total Revenue (excluding capital transfers and contributions)
+612459667.0,LIM361,2024,4400,Total Expenditure
+-169449289.0,LIM361,2024,4500,Surplus/(Deficit)
+698456181.0,LIM362,2023,2900,Total Revenue (excluding capital transfers and contributions)
+706940875.0,LIM362,2023,4400,Total Expenditure
+-8484694.0,LIM362,2023,4500,Surplus/(Deficit)
+749040162.0,LIM362,2024,2900,Total Revenue (excluding capital transfers and contributions)
+796142065.0,LIM362,2024,4400,Total Expenditure
+-47101903.0,LIM362,2024,4500,Surplus/(Deficit)
+507705891.0,LIM366,2023,2900,Total Revenue (excluding capital transfers and contributions)
+474637867.0,LIM366,2023,4400,Total Expenditure
+33068024.0,LIM366,2023,4500,Surplus/(Deficit)
+546831010.0,LIM366,2024,2900,Total Revenue (excluding capital transfers and contributions)
+547329766.0,LIM366,2024,4400,Total Expenditure
+-498756.0,LIM366,2024,4500,Surplus/(Deficit)
+1223326790.0,LIM367,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1314000575.0,LIM367,2023,4400,Total Expenditure
+-90673785.0,LIM367,2023,4500,Surplus/(Deficit)
+1237638889.0,LIM367,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1155364418.0,LIM367,2024,4400,Total Expenditure
+82274471.0,LIM367,2024,4500,Surplus/(Deficit)
+1525264937.0,LIM368,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1188373528.0,LIM368,2024,4400,Total Expenditure
+336891409.0,LIM368,2024,4500,Surplus/(Deficit)
+346973865.0,LIM471,2023,2900,Total Revenue (excluding capital transfers and contributions)
+337039381.0,LIM471,2023,4400,Total Expenditure
+9934484.0,LIM471,2023,4500,Surplus/(Deficit)
+456430501.0,LIM471,2024,2900,Total Revenue (excluding capital transfers and contributions)
+455860038.0,LIM471,2024,4400,Total Expenditure
+570463.0,LIM471,2024,4500,Surplus/(Deficit)
+646021493.0,LIM472,2023,2900,Total Revenue (excluding capital transfers and contributions)
+668096893.0,LIM472,2023,4400,Total Expenditure
+-22075400.0,LIM472,2023,4500,Surplus/(Deficit)
+670673094.0,LIM472,2024,2900,Total Revenue (excluding capital transfers and contributions)
+690606568.0,LIM472,2024,4400,Total Expenditure
+-19933474.0,LIM472,2024,4500,Surplus/(Deficit)
+426929004.0,LIM473,2023,2900,Total Revenue (excluding capital transfers and contributions)
+515458253.0,LIM473,2023,4400,Total Expenditure
+-88529249.0,LIM473,2023,4500,Surplus/(Deficit)
+424929354.0,LIM473,2024,2900,Total Revenue (excluding capital transfers and contributions)
+587591874.0,LIM473,2024,4400,Total Expenditure
+-162662520.0,LIM473,2024,4500,Surplus/(Deficit)
+740729825.0,LIM476,2023,2900,Total Revenue (excluding capital transfers and contributions)
+831205584.0,LIM476,2023,4400,Total Expenditure
+-90475759.0,LIM476,2023,4500,Surplus/(Deficit)
+1017140111.0,LIM476,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1184589870.0,LIM476,2024,4400,Total Expenditure
+-167449759.0,LIM476,2024,4500,Surplus/(Deficit)
+8385699251.0,MAN,2023,2900,Total Revenue (excluding capital transfers and contributions)
+9083896556.0,MAN,2023,4400,Total Expenditure
+-698197305.0,MAN,2023,4500,Surplus/(Deficit)
+9455232904.0,MAN,2024,2900,Total Revenue (excluding capital transfers and contributions)
+10678921555.0,MAN,2024,4400,Total Expenditure
+-1223688651.0,MAN,2024,4500,Surplus/(Deficit)
+579217416.0,MP301,2023,2900,Total Revenue (excluding capital transfers and contributions)
+726048202.0,MP301,2023,4400,Total Expenditure
+-146830786.0,MP301,2023,4500,Surplus/(Deficit)
+627181031.0,MP301,2024,2900,Total Revenue (excluding capital transfers and contributions)
+703499577.0,MP301,2024,4400,Total Expenditure
+-76318546.0,MP301,2024,4500,Surplus/(Deficit)
+1035996825.0,MP302,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1231129798.0,MP302,2023,4400,Total Expenditure
+-195132973.0,MP302,2023,4500,Surplus/(Deficit)
+1048562876.0,MP302,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1483756943.0,MP302,2024,4400,Total Expenditure
+-435194067.0,MP302,2024,4500,Surplus/(Deficit)
+676446600.0,MP303,2023,2900,Total Revenue (excluding capital transfers and contributions)
+894072058.0,MP303,2023,4400,Total Expenditure
+-217625458.0,MP303,2023,4500,Surplus/(Deficit)
+777973601.0,MP303,2024,2900,Total Revenue (excluding capital transfers and contributions)
+981055562.0,MP303,2024,4400,Total Expenditure
+-203081961.0,MP303,2024,4500,Surplus/(Deficit)
+420022921.0,MP304,2023,2900,Total Revenue (excluding capital transfers and contributions)
+596588917.0,MP304,2023,4400,Total Expenditure
+-176565996.0,MP304,2023,4500,Surplus/(Deficit)
+468586392.0,MP304,2024,2900,Total Revenue (excluding capital transfers and contributions)
+554892190.0,MP304,2024,4400,Total Expenditure
+-86305798.0,MP304,2024,4500,Surplus/(Deficit)
+939069676.0,MP305,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1372354866.0,MP305,2023,4400,Total Expenditure
+-433285190.0,MP305,2023,4500,Surplus/(Deficit)
+1437318630.0,MP305,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1659782421.0,MP305,2024,4400,Total Expenditure
+-222463791.0,MP305,2024,4500,Surplus/(Deficit)
+324231198.0,MP306,2023,2900,Total Revenue (excluding capital transfers and contributions)
+570696978.0,MP306,2023,4400,Total Expenditure
+-246465780.0,MP306,2023,4500,Surplus/(Deficit)
+366635814.0,MP306,2024,2900,Total Revenue (excluding capital transfers and contributions)
+481633532.0,MP306,2024,4400,Total Expenditure
+-114997718.0,MP306,2024,4500,Surplus/(Deficit)
+2492402475.0,MP307,2023,2900,Total Revenue (excluding capital transfers and contributions)
+3382515139.0,MP307,2023,4400,Total Expenditure
+-890112664.0,MP307,2023,4500,Surplus/(Deficit)
+3550556783.0,MP307,2024,2900,Total Revenue (excluding capital transfers and contributions)
+4220144233.0,MP307,2024,4400,Total Expenditure
+-669587450.0,MP307,2024,4500,Surplus/(Deficit)
+559072179.0,MP311,2023,2900,Total Revenue (excluding capital transfers and contributions)
+789031152.0,MP311,2023,4400,Total Expenditure
+-229958973.0,MP311,2023,4500,Surplus/(Deficit)
+691478439.0,MP311,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1023988520.0,MP311,2024,4400,Total Expenditure
+-332510081.0,MP311,2024,4500,Surplus/(Deficit)
+3714507427.0,MP312,2023,2900,Total Revenue (excluding capital transfers and contributions)
+5613898559.0,MP312,2023,4400,Total Expenditure
+-1899391132.0,MP312,2023,4500,Surplus/(Deficit)
+1957069316.0,MP313,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2194754228.0,MP313,2023,4400,Total Expenditure
+-237684912.0,MP313,2023,4500,Surplus/(Deficit)
+2168528973.0,MP313,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2566551480.0,MP313,2024,4400,Total Expenditure
+-398022507.0,MP313,2024,4500,Surplus/(Deficit)
+325777073.0,MP314,2023,2900,Total Revenue (excluding capital transfers and contributions)
+505941373.0,MP314,2023,4400,Total Expenditure
+-180164300.0,MP314,2023,4500,Surplus/(Deficit)
+400673067.0,MP314,2024,2900,Total Revenue (excluding capital transfers and contributions)
+574588569.0,MP314,2024,4400,Total Expenditure
+-173915502.0,MP314,2024,4500,Surplus/(Deficit)
+861619666.0,MP315,2023,2900,Total Revenue (excluding capital transfers and contributions)
+928306367.0,MP315,2023,4400,Total Expenditure
+-66686701.0,MP315,2023,4500,Surplus/(Deficit)
+960552788.0,MP315,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1081617023.0,MP315,2024,4400,Total Expenditure
+-121064235.0,MP315,2024,4500,Surplus/(Deficit)
+866349642.0,MP316,2023,2900,Total Revenue (excluding capital transfers and contributions)
+720345933.0,MP316,2023,4400,Total Expenditure
+146003709.0,MP316,2023,4500,Surplus/(Deficit)
+956245975.0,MP316,2024,2900,Total Revenue (excluding capital transfers and contributions)
+698612020.0,MP316,2024,4400,Total Expenditure
+257633955.0,MP316,2024,4500,Surplus/(Deficit)
+624033763.0,MP321,2023,2900,Total Revenue (excluding capital transfers and contributions)
+932131208.0,MP321,2023,4400,Total Expenditure
+-308097445.0,MP321,2023,4500,Surplus/(Deficit)
+927455206.0,MP321,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1165926692.0,MP321,2024,4400,Total Expenditure
+-238471486.0,MP321,2024,4500,Surplus/(Deficit)
+1161999832.0,MP324,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1311425799.0,MP324,2023,4400,Total Expenditure
+-149425967.0,MP324,2023,4500,Surplus/(Deficit)
+1258212236.0,MP324,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1759752459.0,MP324,2024,4400,Total Expenditure
+-501540223.0,MP324,2024,4500,Surplus/(Deficit)
+1563522695.0,MP325,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1577102103.0,MP325,2023,4400,Total Expenditure
+-13579408.0,MP325,2023,4500,Surplus/(Deficit)
+1719611807.0,MP325,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1805474160.0,MP325,2024,4400,Total Expenditure
+-85862353.0,MP325,2024,4500,Surplus/(Deficit)
+3883557481.0,MP326,2023,2900,Total Revenue (excluding capital transfers and contributions)
+4551434964.0,MP326,2023,4400,Total Expenditure
+-667877483.0,MP326,2023,4500,Surplus/(Deficit)
+4113274388.0,MP326,2024,2900,Total Revenue (excluding capital transfers and contributions)
+4853180727.0,MP326,2024,4400,Total Expenditure
+-739906339.0,MP326,2024,4500,Surplus/(Deficit)
+77302332.0,NC061,2023,2900,Total Revenue (excluding capital transfers and contributions)
+104909047.0,NC061,2023,4400,Total Expenditure
+-27606715.0,NC061,2023,4500,Surplus/(Deficit)
+91509158.0,NC061,2024,2900,Total Revenue (excluding capital transfers and contributions)
+128176705.0,NC061,2024,4400,Total Expenditure
+-36667547.0,NC061,2024,4500,Surplus/(Deficit)
+329640305.0,NC062,2023,2900,Total Revenue (excluding capital transfers and contributions)
+414093213.0,NC062,2023,4400,Total Expenditure
+-84452908.0,NC062,2023,4500,Surplus/(Deficit)
+402008658.0,NC062,2024,2900,Total Revenue (excluding capital transfers and contributions)
+419111673.0,NC062,2024,4400,Total Expenditure
+-17103015.0,NC062,2024,4500,Surplus/(Deficit)
+77537687.0,NC064,2023,2900,Total Revenue (excluding capital transfers and contributions)
+109995215.0,NC064,2023,4400,Total Expenditure
+-32457528.0,NC064,2023,4500,Surplus/(Deficit)
+70965981.0,NC064,2024,2900,Total Revenue (excluding capital transfers and contributions)
+92980344.0,NC064,2024,4400,Total Expenditure
+-22014363.0,NC064,2024,4500,Surplus/(Deficit)
+118966165.0,NC065,2023,2900,Total Revenue (excluding capital transfers and contributions)
+139933945.0,NC065,2023,4400,Total Expenditure
+-20967780.0,NC065,2023,4500,Surplus/(Deficit)
+128850401.0,NC065,2024,2900,Total Revenue (excluding capital transfers and contributions)
+157495686.0,NC065,2024,4400,Total Expenditure
+-28645285.0,NC065,2024,4500,Surplus/(Deficit)
+72662711.0,NC066,2023,2900,Total Revenue (excluding capital transfers and contributions)
+89786169.0,NC066,2023,4400,Total Expenditure
+-17123458.0,NC066,2023,4500,Surplus/(Deficit)
+76615911.0,NC066,2024,2900,Total Revenue (excluding capital transfers and contributions)
+94025354.0,NC066,2024,4400,Total Expenditure
+-17409443.0,NC066,2024,4500,Surplus/(Deficit)
+63186043.0,NC067,2023,2900,Total Revenue (excluding capital transfers and contributions)
+83476922.0,NC067,2023,4400,Total Expenditure
+-20290879.0,NC067,2023,4500,Surplus/(Deficit)
+71877819.0,NC067,2024,2900,Total Revenue (excluding capital transfers and contributions)
+90731034.0,NC067,2024,4400,Total Expenditure
+-18853215.0,NC067,2024,4500,Surplus/(Deficit)
+131731657.0,NC071,2023,2900,Total Revenue (excluding capital transfers and contributions)
+165697522.0,NC071,2023,4400,Total Expenditure
+-33965865.0,NC071,2023,4500,Surplus/(Deficit)
+165811336.0,NC071,2024,2900,Total Revenue (excluding capital transfers and contributions)
+111054579.0,NC071,2024,4400,Total Expenditure
+54756757.0,NC071,2024,4500,Surplus/(Deficit)
+199130066.0,NC072,2023,2900,Total Revenue (excluding capital transfers and contributions)
+230293615.0,NC072,2023,4400,Total Expenditure
+-31163549.0,NC072,2023,4500,Surplus/(Deficit)
+177653738.0,NC072,2024,2900,Total Revenue (excluding capital transfers and contributions)
+209813917.0,NC072,2024,4400,Total Expenditure
+-32160179.0,NC072,2024,4500,Surplus/(Deficit)
+327679032.0,NC073,2024,2900,Total Revenue (excluding capital transfers and contributions)
+376034855.0,NC073,2024,4400,Total Expenditure
+-48355823.0,NC073,2024,4500,Surplus/(Deficit)
+51259674.0,NC075,2023,2900,Total Revenue (excluding capital transfers and contributions)
+45464633.0,NC075,2023,4400,Total Expenditure
+5795041.0,NC075,2023,4500,Surplus/(Deficit)
+61254036.0,NC075,2024,2900,Total Revenue (excluding capital transfers and contributions)
+98455212.0,NC075,2024,4400,Total Expenditure
+-37201176.0,NC075,2024,4500,Surplus/(Deficit)
+94301063.0,NC076,2023,2900,Total Revenue (excluding capital transfers and contributions)
+134123553.0,NC076,2023,4400,Total Expenditure
+-39822490.0,NC076,2023,4500,Surplus/(Deficit)
+87653296.0,NC076,2024,2900,Total Revenue (excluding capital transfers and contributions)
+131702841.0,NC076,2024,4400,Total Expenditure
+-44049545.0,NC076,2024,4500,Surplus/(Deficit)
+134348395.0,NC077,2023,2900,Total Revenue (excluding capital transfers and contributions)
+211086714.0,NC077,2023,4400,Total Expenditure
+-76738319.0,NC077,2023,4500,Surplus/(Deficit)
+146526246.0,NC077,2024,2900,Total Revenue (excluding capital transfers and contributions)
+216495373.0,NC077,2024,4400,Total Expenditure
+-69969127.0,NC077,2024,4500,Surplus/(Deficit)
+181568311.0,NC078,2023,2900,Total Revenue (excluding capital transfers and contributions)
+206445129.0,NC078,2023,4400,Total Expenditure
+-24876818.0,NC078,2023,4500,Surplus/(Deficit)
+249244998.0,NC078,2024,2900,Total Revenue (excluding capital transfers and contributions)
+265537560.0,NC078,2024,4400,Total Expenditure
+-16292562.0,NC078,2024,4500,Surplus/(Deficit)
+60640260.0,NC084,2023,2900,Total Revenue (excluding capital transfers and contributions)
+54263396.0,NC084,2023,4400,Total Expenditure
+6376864.0,NC084,2023,4500,Surplus/(Deficit)
+66385240.0,NC084,2024,2900,Total Revenue (excluding capital transfers and contributions)
+62383410.0,NC084,2024,4400,Total Expenditure
+4001830.0,NC084,2024,4500,Surplus/(Deficit)
+231360363.0,NC085,2023,2900,Total Revenue (excluding capital transfers and contributions)
+311178337.0,NC085,2023,4400,Total Expenditure
+-79817974.0,NC085,2023,4500,Surplus/(Deficit)
+194180415.0,NC085,2024,2900,Total Revenue (excluding capital transfers and contributions)
+358929044.0,NC085,2024,4400,Total Expenditure
+-164748629.0,NC085,2024,4500,Surplus/(Deficit)
+107932293.0,NC086,2023,2900,Total Revenue (excluding capital transfers and contributions)
+131675488.0,NC086,2023,4400,Total Expenditure
+-23743195.0,NC086,2023,4500,Surplus/(Deficit)
+94626574.0,NC086,2024,2900,Total Revenue (excluding capital transfers and contributions)
+154781313.0,NC086,2024,4400,Total Expenditure
+-60154739.0,NC086,2024,4500,Surplus/(Deficit)
+813027290.0,NC087,2023,2900,Total Revenue (excluding capital transfers and contributions)
+825926768.0,NC087,2023,4400,Total Expenditure
+-12899478.0,NC087,2023,4500,Surplus/(Deficit)
+959490200.0,NC087,2024,2900,Total Revenue (excluding capital transfers and contributions)
+943955820.0,NC087,2024,4400,Total Expenditure
+15534380.0,NC087,2024,4500,Surplus/(Deficit)
+2422901039.0,NC091,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2595981881.0,NC091,2023,4400,Total Expenditure
+-173080842.0,NC091,2023,4500,Surplus/(Deficit)
+2925084316.0,NC091,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2797419413.0,NC091,2024,4400,Total Expenditure
+127664903.0,NC091,2024,4500,Surplus/(Deficit)
+246759422.0,NC092,2023,2900,Total Revenue (excluding capital transfers and contributions)
+237662402.0,NC092,2023,4400,Total Expenditure
+9097020.0,NC092,2023,4500,Surplus/(Deficit)
+359616310.0,NC092,2024,2900,Total Revenue (excluding capital transfers and contributions)
+307446153.0,NC092,2024,4400,Total Expenditure
+52170157.0,NC092,2024,4500,Surplus/(Deficit)
+134128988.0,NC093,2023,2900,Total Revenue (excluding capital transfers and contributions)
+165727521.0,NC093,2023,4400,Total Expenditure
+-31598533.0,NC093,2023,4500,Surplus/(Deficit)
+156318595.0,NC093,2024,2900,Total Revenue (excluding capital transfers and contributions)
+207686115.0,NC093,2024,4400,Total Expenditure
+-51367520.0,NC093,2024,4500,Surplus/(Deficit)
+325452049.0,NC094,2023,2900,Total Revenue (excluding capital transfers and contributions)
+634424485.0,NC094,2023,4400,Total Expenditure
+-308972436.0,NC094,2023,4500,Surplus/(Deficit)
+286510566.0,NC451,2023,2900,Total Revenue (excluding capital transfers and contributions)
+388753907.0,NC451,2023,4400,Total Expenditure
+-102243341.0,NC451,2023,4500,Surplus/(Deficit)
+345742932.0,NC451,2024,2900,Total Revenue (excluding capital transfers and contributions)
+501614647.0,NC451,2024,4400,Total Expenditure
+-155871715.0,NC451,2024,4500,Surplus/(Deficit)
+513106048.0,NC452,2023,2900,Total Revenue (excluding capital transfers and contributions)
+723175270.0,NC452,2023,4400,Total Expenditure
+-210069222.0,NC452,2023,4500,Surplus/(Deficit)
+587893746.0,NC452,2024,2900,Total Revenue (excluding capital transfers and contributions)
+752902937.0,NC452,2024,4400,Total Expenditure
+-165009191.0,NC452,2024,4500,Surplus/(Deficit)
+673431654.0,NC453,2024,2900,Total Revenue (excluding capital transfers and contributions)
+732534786.0,NC453,2024,4400,Total Expenditure
+-59103132.0,NC453,2024,4500,Surplus/(Deficit)
+17093543678.0,NMA,2023,2900,Total Revenue (excluding capital transfers and contributions)
+15741079801.0,NMA,2023,4400,Total Expenditure
+1352463877.0,NMA,2023,4500,Surplus/(Deficit)
+16339068463.0,NMA,2024,2900,Total Revenue (excluding capital transfers and contributions)
+17487139397.0,NMA,2024,4400,Total Expenditure
+-1148070934.0,NMA,2024,4500,Surplus/(Deficit)
+562357460.0,NW371,2023,2900,Total Revenue (excluding capital transfers and contributions)
+693237745.0,NW371,2023,4400,Total Expenditure
+-130880285.0,NW371,2023,4500,Surplus/(Deficit)
+595827503.0,NW371,2024,2900,Total Revenue (excluding capital transfers and contributions)
+742360850.0,NW371,2024,4400,Total Expenditure
+-146533347.0,NW371,2024,4500,Surplus/(Deficit)
+2390897491.0,NW372,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2498295818.0,NW372,2023,4400,Total Expenditure
+-107398327.0,NW372,2023,4500,Surplus/(Deficit)
+2527358891.0,NW372,2024,2900,Total Revenue (excluding capital transfers and contributions)
+3292397218.0,NW372,2024,4400,Total Expenditure
+-765038327.0,NW372,2024,4500,Surplus/(Deficit)
+6881722590.0,NW373,2023,2900,Total Revenue (excluding capital transfers and contributions)
+7085877853.0,NW373,2023,4400,Total Expenditure
+-204155263.0,NW373,2023,4500,Surplus/(Deficit)
+6000410651.0,NW373,2024,2900,Total Revenue (excluding capital transfers and contributions)
+6554006493.0,NW373,2024,4400,Total Expenditure
+-553595842.0,NW373,2024,4500,Surplus/(Deficit)
+237205918.0,NW374,2023,2900,Total Revenue (excluding capital transfers and contributions)
+330209823.0,NW374,2023,4400,Total Expenditure
+-93003905.0,NW374,2023,4500,Surplus/(Deficit)
+256123693.0,NW374,2024,2900,Total Revenue (excluding capital transfers and contributions)
+405336587.0,NW374,2024,4400,Total Expenditure
+-149212894.0,NW374,2024,4500,Surplus/(Deficit)
+975003980.0,NW375,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1043681617.0,NW375,2023,4400,Total Expenditure
+-68677637.0,NW375,2023,4500,Surplus/(Deficit)
+1050573136.0,NW375,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1230440374.0,NW375,2024,4400,Total Expenditure
+-179867238.0,NW375,2024,4500,Surplus/(Deficit)
+793551.0,NW381,2024,2900,Total Revenue (excluding capital transfers and contributions)
+19463264.0,NW381,2024,4400,Total Expenditure
+-18669713.0,NW381,2024,4500,Surplus/(Deficit)
+319899016.0,NW382,2023,2900,Total Revenue (excluding capital transfers and contributions)
+303599488.0,NW382,2023,4400,Total Expenditure
+16299528.0,NW382,2023,4500,Surplus/(Deficit)
+363172718.0,NW382,2024,2900,Total Revenue (excluding capital transfers and contributions)
+397169228.0,NW382,2024,4400,Total Expenditure
+-33996510.0,NW382,2024,4500,Surplus/(Deficit)
+1245155350.0,NW383,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1229542686.0,NW383,2023,4400,Total Expenditure
+15612664.0,NW383,2023,4500,Surplus/(Deficit)
+1177335500.0,NW383,2024,2900,Total Revenue (excluding capital transfers and contributions)
+655374687.0,NW383,2024,4400,Total Expenditure
+521960813.0,NW383,2024,4500,Surplus/(Deficit)
+264653100.0,NW384,2023,2900,Total Revenue (excluding capital transfers and contributions)
+546532176.0,NW384,2023,4400,Total Expenditure
+-281879076.0,NW384,2023,4500,Surplus/(Deficit)
+343103225.0,NW384,2024,2900,Total Revenue (excluding capital transfers and contributions)
+623486412.0,NW384,2024,4400,Total Expenditure
+-280383187.0,NW384,2024,4500,Surplus/(Deficit)
+434493486.0,NW392,2023,2900,Total Revenue (excluding capital transfers and contributions)
+654914624.0,NW392,2023,4400,Total Expenditure
+-220421138.0,NW392,2023,4500,Surplus/(Deficit)
+496060867.0,NW392,2024,2900,Total Revenue (excluding capital transfers and contributions)
+703362373.0,NW392,2024,4400,Total Expenditure
+-207301506.0,NW392,2024,4500,Surplus/(Deficit)
+165966829.0,NW393,2024,2900,Total Revenue (excluding capital transfers and contributions)
+318190769.0,NW393,2024,4400,Total Expenditure
+-152223940.0,NW393,2024,4500,Surplus/(Deficit)
+298744315.0,NW394,2023,2900,Total Revenue (excluding capital transfers and contributions)
+382713986.0,NW394,2023,4400,Total Expenditure
+-83969671.0,NW394,2023,4500,Surplus/(Deficit)
+341222830.0,NW396,2023,2900,Total Revenue (excluding capital transfers and contributions)
+362748986.0,NW396,2023,4400,Total Expenditure
+-21526156.0,NW396,2023,4500,Surplus/(Deficit)
+400401444.0,NW396,2024,2900,Total Revenue (excluding capital transfers and contributions)
+515601264.0,NW396,2024,4400,Total Expenditure
+-115199820.0,NW396,2024,4500,Surplus/(Deficit)
+222473967.0,NW397,2023,2900,Total Revenue (excluding capital transfers and contributions)
+205240507.0,NW397,2023,4400,Total Expenditure
+17233460.0,NW397,2023,4500,Surplus/(Deficit)
+2066448383.0,NW397,2024,4400,Total Expenditure
+-2066448383.0,NW397,2024,4500,Surplus/(Deficit)
+3745721837.0,NW403,2023,2900,Total Revenue (excluding capital transfers and contributions)
+4737696396.0,NW403,2023,4400,Total Expenditure
+-991974559.0,NW403,2023,4500,Surplus/(Deficit)
+4068451088.0,NW403,2024,2900,Total Revenue (excluding capital transfers and contributions)
+5243404580.0,NW403,2024,4400,Total Expenditure
+-1174953492.0,NW403,2024,4500,Surplus/(Deficit)
+729386502.0,NW404,2023,2900,Total Revenue (excluding capital transfers and contributions)
+833035208.0,NW404,2023,4400,Total Expenditure
+-103648706.0,NW404,2023,4500,Surplus/(Deficit)
+642008401.0,NW404,2024,2900,Total Revenue (excluding capital transfers and contributions)
+797984663.0,NW404,2024,4400,Total Expenditure
+-155976262.0,NW404,2024,4500,Surplus/(Deficit)
+1753529842.0,NW405,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2147881811.0,NW405,2023,4400,Total Expenditure
+-394351969.0,NW405,2023,4500,Surplus/(Deficit)
+1847612400.0,NW405,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2717777310.0,NW405,2024,4400,Total Expenditure
+-870164910.0,NW405,2024,4500,Surplus/(Deficit)
+41537418881.0,TSH,2023,2900,Total Revenue (excluding capital transfers and contributions)
+42185371898.0,TSH,2023,4400,Total Expenditure
+-647953017.0,TSH,2023,4500,Surplus/(Deficit)
+45863046759.0,TSH,2024,2900,Total Revenue (excluding capital transfers and contributions)
+45311443489.0,TSH,2024,4400,Total Expenditure
+551603270.0,TSH,2024,4500,Surplus/(Deficit)
+400794554.0,WC011,2023,2900,Total Revenue (excluding capital transfers and contributions)
+459779357.0,WC011,2023,4400,Total Expenditure
+-58984803.0,WC011,2023,4500,Surplus/(Deficit)
+470182570.0,WC011,2024,2900,Total Revenue (excluding capital transfers and contributions)
+482228876.0,WC011,2024,4400,Total Expenditure
+-12046306.0,WC011,2024,4500,Surplus/(Deficit)
+370819895.0,WC012,2023,2900,Total Revenue (excluding capital transfers and contributions)
+365945857.0,WC012,2023,4400,Total Expenditure
+4874038.0,WC012,2023,4500,Surplus/(Deficit)
+453498352.0,WC012,2024,2900,Total Revenue (excluding capital transfers and contributions)
+445077822.0,WC012,2024,4400,Total Expenditure
+8420530.0,WC012,2024,4500,Surplus/(Deficit)
+463342087.0,WC013,2023,2900,Total Revenue (excluding capital transfers and contributions)
+457863393.0,WC013,2023,4400,Total Expenditure
+5478694.0,WC013,2023,4500,Surplus/(Deficit)
+523788209.0,WC013,2024,2900,Total Revenue (excluding capital transfers and contributions)
+518904975.0,WC013,2024,4400,Total Expenditure
+4883234.0,WC013,2024,4500,Surplus/(Deficit)
+1404825557.0,WC014,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1355682218.0,WC014,2023,4400,Total Expenditure
+49143339.0,WC014,2023,4500,Surplus/(Deficit)
+1560877536.0,WC014,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1493115682.0,WC014,2024,4400,Total Expenditure
+67761854.0,WC014,2024,4500,Surplus/(Deficit)
+996623489.0,WC015,2023,2900,Total Revenue (excluding capital transfers and contributions)
+934531186.0,WC015,2023,4400,Total Expenditure
+62092303.0,WC015,2023,4500,Surplus/(Deficit)
+1179043597.0,WC015,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1025495281.0,WC015,2024,4400,Total Expenditure
+153548316.0,WC015,2024,4500,Surplus/(Deficit)
+763032567.0,WC022,2023,2900,Total Revenue (excluding capital transfers and contributions)
+727987230.0,WC022,2023,4400,Total Expenditure
+35045337.0,WC022,2023,4500,Surplus/(Deficit)
+924741354.0,WC022,2024,2900,Total Revenue (excluding capital transfers and contributions)
+866586941.0,WC022,2024,4400,Total Expenditure
+58154413.0,WC022,2024,4500,Surplus/(Deficit)
+2780763587.0,WC023,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2757562395.0,WC023,2023,4400,Total Expenditure
+23201192.0,WC023,2023,4500,Surplus/(Deficit)
+3116282587.0,WC023,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2991854599.0,WC023,2024,4400,Total Expenditure
+124427988.0,WC023,2024,4500,Surplus/(Deficit)
+2102017035.0,WC024,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1953591005.0,WC024,2023,4400,Total Expenditure
+148426030.0,WC024,2023,4500,Surplus/(Deficit)
+2353993517.0,WC024,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2243189638.0,WC024,2024,4400,Total Expenditure
+110803879.0,WC024,2024,4500,Surplus/(Deficit)
+1272243967.0,WC025,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1236607167.0,WC025,2023,4400,Total Expenditure
+35636800.0,WC025,2023,4500,Surplus/(Deficit)
+1353773118.0,WC025,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1396357786.0,WC025,2024,4400,Total Expenditure
+-42584668.0,WC025,2024,4500,Surplus/(Deficit)
+911115199.0,WC026,2023,2900,Total Revenue (excluding capital transfers and contributions)
+875034251.0,WC026,2023,4400,Total Expenditure
+36080948.0,WC026,2023,4500,Surplus/(Deficit)
+988391907.0,WC026,2024,2900,Total Revenue (excluding capital transfers and contributions)
+915008444.0,WC026,2024,4400,Total Expenditure
+73383463.0,WC026,2024,4500,Surplus/(Deficit)
+664099467.0,WC031,2023,2900,Total Revenue (excluding capital transfers and contributions)
+805328005.0,WC031,2023,4400,Total Expenditure
+-141228538.0,WC031,2023,4500,Surplus/(Deficit)
+708475583.0,WC031,2024,2900,Total Revenue (excluding capital transfers and contributions)
+897096253.0,WC031,2024,4400,Total Expenditure
+-188620670.0,WC031,2024,4500,Surplus/(Deficit)
+1767583929.0,WC032,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1752801375.0,WC032,2024,4400,Total Expenditure
+14782554.0,WC032,2024,4500,Surplus/(Deficit)
+405683928.0,WC033,2023,2900,Total Revenue (excluding capital transfers and contributions)
+418379261.0,WC033,2023,4400,Total Expenditure
+-12695333.0,WC033,2023,4500,Surplus/(Deficit)
+446508666.0,WC033,2024,2900,Total Revenue (excluding capital transfers and contributions)
+430491906.0,WC033,2024,4400,Total Expenditure
+16016760.0,WC033,2024,4500,Surplus/(Deficit)
+332192317.0,WC034,2023,2900,Total Revenue (excluding capital transfers and contributions)
+327716267.0,WC034,2023,4400,Total Expenditure
+4476050.0,WC034,2023,4500,Surplus/(Deficit)
+448023628.0,WC034,2024,2900,Total Revenue (excluding capital transfers and contributions)
+434102350.0,WC034,2024,4400,Total Expenditure
+13921278.0,WC034,2024,4500,Surplus/(Deficit)
+249929661.0,WC041,2024,2900,Total Revenue (excluding capital transfers and contributions)
+293239620.0,WC041,2024,4400,Total Expenditure
+-43309959.0,WC041,2024,4500,Surplus/(Deficit)
+653236408.0,WC042,2023,2900,Total Revenue (excluding capital transfers and contributions)
+605026186.0,WC042,2023,4400,Total Expenditure
+48210222.0,WC042,2023,4500,Surplus/(Deficit)
+713963318.0,WC042,2024,2900,Total Revenue (excluding capital transfers and contributions)
+656190710.0,WC042,2024,4400,Total Expenditure
+57772608.0,WC042,2024,4500,Surplus/(Deficit)
+1417211222.0,WC043,2023,2900,Total Revenue (excluding capital transfers and contributions)
+1380540689.0,WC043,2023,4400,Total Expenditure
+36670533.0,WC043,2023,4500,Surplus/(Deficit)
+1573996589.0,WC043,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1589763028.0,WC043,2024,4400,Total Expenditure
+-15766439.0,WC043,2024,4500,Surplus/(Deficit)
+2687133949.0,WC044,2023,2900,Total Revenue (excluding capital transfers and contributions)
+2675324063.0,WC044,2023,4400,Total Expenditure
+11809886.0,WC044,2023,4500,Surplus/(Deficit)
+2988369405.0,WC044,2024,2900,Total Revenue (excluding capital transfers and contributions)
+2942445927.0,WC044,2024,4400,Total Expenditure
+45923478.0,WC044,2024,4500,Surplus/(Deficit)
+720284564.0,WC045,2023,2900,Total Revenue (excluding capital transfers and contributions)
+728697861.0,WC045,2023,4400,Total Expenditure
+-8413297.0,WC045,2023,4500,Surplus/(Deficit)
+811173976.0,WC045,2024,2900,Total Revenue (excluding capital transfers and contributions)
+811684973.0,WC045,2024,4400,Total Expenditure
+-510997.0,WC045,2024,4500,Surplus/(Deficit)
+839978933.0,WC047,2023,2900,Total Revenue (excluding capital transfers and contributions)
+796793986.0,WC047,2023,4400,Total Expenditure
+43184947.0,WC047,2023,4500,Surplus/(Deficit)
+909727746.0,WC047,2024,2900,Total Revenue (excluding capital transfers and contributions)
+874169906.0,WC047,2024,4400,Total Expenditure
+35557840.0,WC047,2024,4500,Surplus/(Deficit)
+1010105331.0,WC048,2023,2900,Total Revenue (excluding capital transfers and contributions)
+916793688.0,WC048,2023,4400,Total Expenditure
+93311643.0,WC048,2023,4500,Surplus/(Deficit)
+1129967600.0,WC048,2024,2900,Total Revenue (excluding capital transfers and contributions)
+1009162767.0,WC048,2024,4400,Total Expenditure
+120804833.0,WC048,2024,4500,Surplus/(Deficit)
+77292246.0,WC051,2023,2900,Total Revenue (excluding capital transfers and contributions)
+82129092.0,WC051,2023,4400,Total Expenditure
+-4836846.0,WC051,2023,4500,Surplus/(Deficit)
+104443731.0,WC051,2024,2900,Total Revenue (excluding capital transfers and contributions)
+120429865.0,WC051,2024,4400,Total Expenditure
+-15986134.0,WC051,2024,4500,Surplus/(Deficit)
+87299276.0,WC052,2023,2900,Total Revenue (excluding capital transfers and contributions)
+94974523.0,WC052,2023,4400,Total Expenditure
+-7675247.0,WC052,2023,4500,Surplus/(Deficit)
+97980752.0,WC052,2024,2900,Total Revenue (excluding capital transfers and contributions)
+104740974.0,WC052,2024,4400,Total Expenditure
+-6760222.0,WC052,2024,4500,Surplus/(Deficit)
+332926862.0,WC053,2023,2900,Total Revenue (excluding capital transfers and contributions)
+369201017.0,WC053,2023,4400,Total Expenditure
+-36274155.0,WC053,2023,4500,Surplus/(Deficit)
+406366476.0,WC053,2024,2900,Total Revenue (excluding capital transfers and contributions)
+405290429.0,WC053,2024,4400,Total Expenditure
+1076047.0,WC053,2024,4500,Surplus/(Deficit)
