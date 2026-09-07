@@ -4,6 +4,10 @@
 
 Built entirely from the **National Treasury's Municipal Money API**. Public, free, no API key, no scraping.
 
+### 🔗 [Open the interactive dashboard →](https://siya990808.github.io/dashboards/municipal-health/)
+
+Look up any of the 246 municipalities, filter by province, audit outcome or category, and see the distress cluster on a cash-versus-UIFW quadrant.
+
 > Postgraduate Diploma in Data Analytics · IIE Varsity College · Siyabonga Mfusi
 
 ---
@@ -119,7 +123,9 @@ Implausible values are set to missing rather than clipped. A municipality report
 
 ## Outputs
 
-`outputs/municipal_scorecard.csv` — every municipality with all ratios, audit outcome and composite score. `outputs/health_by_audit_outcome.csv` — the summary table above.
+`outputs/municipal_scorecard.csv` — every municipality with all ratios, audit outcome and composite score. `outputs/health_by_audit_outcome.csv` — the summary table above. `dashboard/data.json` — the payload behind the interactive dashboard, exported from the same notebook cell so the two cannot disagree.
+
+**No map, deliberately.** The Treasury API carries no geometry, and no municipal or province boundary file was reachable at a workable size — the smallest national GeoJSON found was over 14 MB, and Natural Earth's 110m admin-1 set does not include South Africa. Rather than ship a broken or misleading map, the dashboard leads with the thing that is actually more useful for 246 municipalities: a searchable, sortable table so anyone can look up their own.
 
 ## Reproducing
 
